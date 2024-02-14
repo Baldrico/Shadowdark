@@ -7,5 +7,5 @@ tags: ancestry
 
 You know the Common and Dwarvish languages.
 
-### Stout.
-Start with +2 HP. Roll hit points per level with advantage.
+>[!check] Stout
+> Start with +2 HP. Roll hit points per level with advantage.

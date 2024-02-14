@@ -6,7 +6,7 @@ As another example, you might determine that a monster with tentacles can restra
 
 Roll up to three mutations per monster. Treat a mutated monster as two levels higher than normal for rolling treasure.
 
-##### **Monster Mutation**
+##### Monster Mutation
 | `dice: d12` | Mutation 1      | Mutation 2          | Mutation 3             |
 |:-----------:| --------------- | ------------------- | ---------------------- |
 |      1      | Shapechanger    | Double damage       | Speaks Common          |

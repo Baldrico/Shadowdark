@@ -16,7 +16,7 @@ Certain hazards weaken or hamper the characters. These could include antimagic z
 The most insidious hazards combine one or more of these types into a single threat.
 
 ##### Hazards
-| `dice: d12` | **Movement**     | **Damage**        | **Weaken**            |
+| `dice: d12` |   Movement       |   Damage          |   Weaken              |
 |:-----------:| ---------------- | ----------------- | --------------------- |
 |      1      | Quicksand        | Acid pools        | Blinding smoke        |
 |      2      | Caltrops         | Exploding rocks   | Magnetic field        |

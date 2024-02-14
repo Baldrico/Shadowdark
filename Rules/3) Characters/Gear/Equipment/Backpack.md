@@ -1,0 +1,2 @@
+- Holds all the gear you can carry. Don't lose it.
+- Cost = 2gp

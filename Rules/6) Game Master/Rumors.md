@@ -1,5 +1,5 @@
 ##### Rumors
-| `dice: d100` | **Details**                                                    |
+| `dice: d100` | Details                                                        |
 | ------------ | -------------------------------------------------------------- |
 | 01           | An armored beast the size of a ship is rampaging nearby        |
 | 02-03        | A team of assassins is on its way to kill your group           |

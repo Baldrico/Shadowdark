@@ -1,5 +1,5 @@
 ##### Treasure 7-9
-| `dice: d100` | **Details**                                               |
+| `dice: d100` | Details                                                   |
 |:------------:| --------------------------------------------------------- |
 |      01      | Broken glass shards (2 cp)                                |
 |    02-03     | Pair of muddy boots (5 sp)                                |

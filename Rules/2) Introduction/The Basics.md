@@ -1,4 +1,4 @@
-If this is your first time playing **Shadowdark RPG** , it’s helpful to start with a premade character. The free digital Shadowdark RPG Quickstart Set has a few!
+If this is your first time playing **_Shadowdark RPG_** , it’s helpful to start with a premade character. The free digital [Shadowdark RPG Quickstart Set](https://www.thearcanelibrary.com/products/shadowdark-rpg-quickstart-set) has a few!
 
 ## Characters
 You decide your character’s actions and tell them to the referee, or Game Master ( GM ).
@@ -23,14 +23,17 @@ Each person takes a turn, starting with the GM and going clockwise. The GM contr
 Once everyone has taken a turn, that completes one round. Then, a new round begins.
 
 ## The Dice
-You'll need a:
-#### four-sided ( **d4** )
-#### six-sided ( **d6** )
-#### eight-sided ( **d8** )
-#### ten-sided ( **d10** )
-#### twelve-sided ( **d12** )
-#### twenty-sided ( **d20** )
+You will need the following polyhedral dice:
 
+| Description  | Written as  | Looks like |
+| ------------ | ----------- | ---------- |
+| four-sided   |  **d4**   | ![[d4-4.svg]]  |
+| six-sided    |  **d6**   | ![[d6-6.svg]]  |
+| eight-sided  |  **d8**   | ![[d8-8.svg]]  |
+| ten-sided    |  **d10**  | ![[d10-10.svg]]  |
+| twelve-sided |  **d12**  | ![[d12-12.svg]]  |
+| twenty-sided |  **d20**  | ![[d20-20.svg]]  |
+^TheDice
 ### **Multiples.**
 3d6 = three six-sided dice. Roll them together and add them.
 
@@ -40,7 +43,7 @@ Roll two times and use the better result.
 ### **Disadvantage.** 
 Roll two times and use the worse result.
 
-## **STATS**
+## **Stats**
 Stats are your characteristics. Each stat goes from 3-18 and has a bonus or penalty (called a modifier , or MOD) from -4 to +4.
 
 ### **Strength.** 
@@ -61,18 +64,18 @@ Instinct, willpower.
 ### **Charisma.**
 Appeal, presence.
 
-## CHECKS
+## Checks
 When attempting a risky action, roll a d20 and add a modifier. That’s called making a check.
 
 The GM chooses the check's linked stat and a number called a difficulty class ( DC ). If the total of your d20 roll + stat modifier equals or beats the DC, your action succeeds.
 
 For example, the GM might say leaping over a narrow chasm requires a DC 9 Strength check.
 
-## HIT POINTS
+## Hit Points
 Injuries cause you to take damage and lose hit points ( HP ). Typical weapons deal 1d damage to your HP. You regain lost HP after a night of rest.
 
 Characters at zero HP die in 1d4 + Constitution modifier (minimum 1) rounds. Dead characters are retired from play!
 
-## WHAT’S NEXT?
+## What’s Next?
 You could play a whole game with just the basics. But once you're ready for more, the next chapters expand upon them.
 

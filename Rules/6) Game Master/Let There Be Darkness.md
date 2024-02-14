@@ -1,5 +1,5 @@
 ## Attack The Light
-A main source of time pressure in Shadowdark RPG is the limited duration of light sources.
+A main source of time pressure in **_Shadowdark RPG_** is the limited duration of light sources.
 
 Don't let light sources be "set it and forget it." The characters must protect their light sources and keep them from going out.
 
@@ -12,7 +12,7 @@ Here are some ideas for how to attack the light source:
 - Remember that **dropping** a torch or lantern might extinguish or break it.
 
 ##### Light Mishaps
-| d6  | Details                                                                                                                                      |
+| `dice: d6`  | Details                                                                                                                              |
 |:---:| -------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | **Dud.** The light source (even a magical one) goes out and needs to be replaced or recast.                                                  |
 |  2  | **Fire.** The light source (even a magical one) flares and burns your hand. Take 1 damage. DC 18 DEX or drop it.                             |

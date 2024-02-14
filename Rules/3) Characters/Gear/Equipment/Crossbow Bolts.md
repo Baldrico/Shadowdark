@@ -1,0 +1,3 @@
+- Ammunition for crossbows.
+- Sold in bundles of 20
+- Cost = 1gp

@@ -1,5 +1,5 @@
 ##### High District
-| `dice: d100` | **Details**                                                     |
+| `dice: d100` | Details                                                         |
 |:------------:| --------------------------------------------------------------- |
 |      01      | The Overlord levies a 500 gp "filth tax" on the PCs             |
 |    02-03     | The Duke's son challenges a PC to a duel to the death           |

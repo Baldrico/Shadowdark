@@ -7,12 +7,12 @@
 - [[Starting Level]]
 - [[Stats]]
 - [[Ancestry]]
-- [[Fighter]] Class
-- [[Priest]] Class
-- [[Thief]] Class
-- [[Wizard]] Class
-- [[Bard]] Class
-- [[Ranger]] Class
+- [[Fighter|Fighter Class]]
+- [[Priest|Priest Class]]
+- [[Thief|Thief Class]]
+- [[Wizard|Wizard Class]]
+- [[Bard|Bard Class]]
+- [[Ranger|Ranger Class]]
 - [[Background]]
 - [[Alignment]]
 - [[Deities]]

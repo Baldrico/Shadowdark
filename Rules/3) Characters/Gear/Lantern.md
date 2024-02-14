@@ -1,3 +1,0 @@
-- Casts light up to a double near distance (see Light Sources, pg. 84). 
-- Requires [[Oil Flask]]. 
-- Has a shutter to hide the light.

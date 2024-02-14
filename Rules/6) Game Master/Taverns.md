@@ -3,7 +3,7 @@
 - **Wealthy.** Drinks: 4 (roll a 1d12 `dice: d12` each). Food: 2 Standard + 2 Wealthy.
 
 ##### Tavern Generator
-| `dice: d20` | **Name**      | **Name** | **Known For...**              |
+| `dice: d20` | Name      | Name | Known For...              |
 | :---------: | ------------- | -------- | ----------------------------- |
 | 1           | The Crimson   | Rat      | High-stakes gambling          |
 | 2           | The Dancing   | Wench    | Illicit poison sales          |
@@ -27,23 +27,23 @@
 | 20          | The Frog &    | Bard     | Drinking contests             |
 ^TavernGenerator
 ##### Food
-| `dice: d12` | **Poor** (`dice: d4`cp) | **Standard** (`dice: d6`sp) | **Wealthy** (`dice: d8`gp) |
-|:-----------:| ----------------------- | --------------------------- | -------------------------- |
-|      1      | Boiled cabbage          | Alligator steak             | Fried basilisk eyes        |
-|      2      | Dates and olives        | Rosemary ham                | Giant snake filet          |
-|      3      | Goat stew               | Raw flailfish               | Griffon eggs               |
-|      4      | Pickled eggs            | Seared venison              | Candied scarabs            |
-|      5      | Cheese and bread        | Buttered ostrich            | Baked troll bones          |
-|      6      | Hearty broth            | Spicy veal curry            | Cockatrice wings           |
-|      7      | Meat pastry             | Salted frog legs            | Crispy silkworms           |
-|      8      | Mushroom kebab          | Herbed snails               | Roasted stingbat           |
-|      9      | Roasted pigeon          | Grilled tiger eel           | Dire lobster tail          |
-|     10      | Garlic flatbread        | Spit-roasted boar           | Wyvern tongue              |
-|     11      | Turkey leg              | Saffron duck neck           | Shrieking seaweed          |
-|     12      | Rat-on-a-stick          | Crimson pudding             | Dragon shanks              |
+| `dice: d12` | Poor (`dice: d4`cp) | Standard (`dice: d6`sp) | Wealthy (`dice: d8`gp) |
+|:-----------:| ------------------- | ----------------------- | ---------------------- |
+|      1      | Boiled cabbage      | Alligator steak         | Fried basilisk eyes    |
+|      2      | Dates and olives    | Rosemary ham            | Giant snake filet      |
+|      3      | Goat stew           | Raw flailfish           | Griffon eggs           |
+|      4      | Pickled eggs        | Seared venison          | Candied scarabs        |
+|      5      | Cheese and bread    | Buttered ostrich        | Baked troll bones      |
+|      6      | Hearty broth        | Spicy veal curry        | Cockatrice wings       |
+|      7      | Meat pastry         | Salted frog legs        | Crispy silkworms       |
+|      8      | Mushroom kebab      | Herbed snails           | Roasted stingbat       |
+|      9      | Roasted pigeon      | Grilled tiger eel       | Dire lobster tail      |
+|     10      | Garlic flatbread    | Spit-roasted boar       | Wyvern tongue          |
+|     11      | Turkey leg          | Saffron duck neck       | Shrieking seaweed      |
+|     12      | Rat-on-a-stick      | Crimson pudding         | Dragon shanks          |
 ^Food
 ##### Drinks
-| `dice: d12` | **Name**                  |  **Cost**   | **Taste**           | **Effect**                              |
+| `dice: d12` | Name                      |    Cost     | Taste               | Effect                                  |
 |:-----------:| ------------------------- |:-----------:| ------------------- | --------------------------------------- |
 |      1      | **Barnacle grog.**        |    1 cp     |                     | DC 9 Constitution check or blind 1 hour |
 |      2      | **Watered-down swill.**   |    3 cp     |                     | toxic, -1 Constitution 1 hour           |

@@ -6,5 +6,5 @@ tags: ancestry
 
 You know the Common, Elvish, and Sylvan languages.
 
-### Farsight.
-You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks.
+>[!check] Farsight.
+> You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks.

@@ -1,5 +1,5 @@
 ##### Desert Encounters
-| `dice: d100` | **Details**                                                              |
+| `dice: d100` | Details                                                                  |
 |:------------:| ------------------------------------------------------------------------ |
 |      01      | A purple worm bursts from the sand and towers overhead                   |
 |    02-03     | `dice: 3d6` raiding bandits from the Hidden City ride into view          |

@@ -1,5 +1,5 @@
 ##### NPC Ancestry
-| `dice: d12` | **Ancestry** |
+| `dice: d12` |   Ancestry   |
 | ----------- | ------------ |
 | 1-4         | Human        |
 | 5-6         | Elf          |
@@ -9,7 +9,7 @@
 | 12          | Goblin       |
 ^NPCAncestry
 ##### NPC Age
-| `dice: d8` | **Age**     |
+| `dice: d8` |   Age       |
 | ---------- | ----------- |
 | 1          | Child       |
 | 2          | Adolescent  |
@@ -19,14 +19,14 @@
 | 8          | Ancient     |
 ^NPCAge
 ##### NPC Alignment
-| `dice: d6` | **Alignment** |
+| `dice: d6` |   Alignment   |
 | ---------- | ------------- |
 | 1-3        | Lawful        |
 | 4          | Neutral       |
 | 5-6        | Chaotic       |
 ^NPCAlignment
 ##### NPC Wealth
-| `dice: d6` | **Wealth**  |
+| `dice: d6` |   Wealth    |
 | ---------- | ----------- |
 | 1          | Poor        |
 | 2-3        | Standard    |
@@ -34,7 +34,7 @@
 | 6          | Extravagant |
 ^NPCWealth
 ##### NPC Qualities
-| `dice: d20` | **Appearance** | **Does**        | **Secret**                 |
+| `dice: d20` |   Appearance   |   Does          |   Secret                   |
 |:-----------:| -------------- | --------------- | -------------------------- |
 |      1      | Balding        | Spits           | Hiding a fugitive          |
 |      2      | Stocky build   | Always eating   | Adores baby animals        |
@@ -58,10 +58,10 @@
 |     20      | Large nose     | Smokes pipe     | Has a pet basilisk         |
 ^NPCQualities
 ##### NPC Occupation
-| `dice: d4` | **1**         | **2**     | **3**     | **4**      |
-| ------ | ------------- | --------- | --------- | ---------- |
-| 1      | Gravedigger   | Carpenter | Scholar   | Blacksmith |
-| 2      | Tax collector | Farmer    | Bartender | Beggar     |
-| 3      | Baker         | Cook      | Sailor    | Butcher    |
-| 4      | Locksmith     | Cobbler   | Friar/nun | Merchant   |
+| `dice: d4` | 1             | 2         | 3         | 4          |
+|:----------:| ------------- | --------- | --------- | ---------- |
+|     1      | Gravedigger   | Carpenter | Scholar   | Blacksmith |
+|     2      | Tax collector | Farmer    | Bartender | Beggar     |
+|     3      | Baker         | Cook      | Sailor    | Butcher    |
+|     4      | Locksmith     | Cobbler   | Friar/nun | Merchant   |
 ^NPCOccupation

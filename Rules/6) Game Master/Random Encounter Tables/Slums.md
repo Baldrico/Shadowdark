@@ -1,5 +1,5 @@
 ##### Slums Encounters
-| `dice: d100` | **Details**                                                         |
+| `dice: d100` | Details                                                             |
 |:------------:| ------------------------------------------------------------------- |
 |      01      | `dice: 3d8` Bywater Barons (thugs) pour out of a dark tenement      |
 |    02-03     | A press gang of `dice: 2d4` bandits tries to kidnap the PCs         |

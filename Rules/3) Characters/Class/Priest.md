@@ -1,4 +1,4 @@
-*Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.
+_Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy._
 
 ### Weapons: 
 Club, crossbow, dagger, mace, longsword, staff, warhammer
@@ -22,7 +22,7 @@ Each time you gain a level, you choose new priest spells to learn according to t
 For casting priest spells, see [[Casting Spells]] on pg. 44.
 
 ##### Priest Talents
-| `dice: 2d6` | **Effect**                                          |
+| `dice: 2d6` | Effect                                              |
 |:-----------:| --------------------------------------------------- |
 |      2      | Gain advantage on casting one spell you know        |
 |     3-6     | +1 to melee or ranged attacks                       |
@@ -31,20 +31,22 @@ For casting priest spells, see [[Casting Spells]] on pg. 44.
 |     12      | Choose a talent or +2 points to distribute to stats |
 ^PriestTalents
 ##### Priest Spells Known
-| Spells Known By Spell Tier |         |         |         |         |         |
-| -------------------------- | ------- | ------- | ------- | ------- | ------- |
-| **Level**                  | **1**   | **2**   | **3**   | **4**   | **5**   |
-| :---------:                | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 1                          | 2       | -       | -       | -       | -       |
-| 2                          | 3       | -       | -       | -       | -       |
-| 3                          | 3       | 1       | -       | -       | -       |
-| 4                          | 3       | 2       | -       | -       | -       |
-| 5                          | 3       | 2       | 1       | -       | -       |
-| 6                          | 3       | 2       | 2       | -       | -       |
-| 7                          | 3       | 3       | 2       | 1       | -       |
-| 8                          | 3       | 3       | 2       | 2       | -       |
-| 9                          | 3       | 3       | 2       | 2       | 1       |
-| 10                         | 3       | 3       | 3       | 2       | 2       |
+**Spells Known By Spell Tier**
+
+| Level |  1  |  2  |  3  |  4  |  5  |
+|:-----:|:---:|:---:|:---:|:---:|:---:|
+|   1   |  2  |  -  |  -  |  -  |  -  |
+|   2   |  3  |  -  |  -  |  -  |  -  |
+|   3   |  3  |  1  |  -  |  -  |  -  |
+|   4   |  3  |  2  |  -  |  -  |  -  |
+|   5   |  3  |  2  |  1  |  -  |  -  |
+|   6   |  3  |  2  |  2  |  -  |  -  |
+|   7   |  3  |  3  |  2  |  1  |  -  |
+|   8   |  3  |  3  |  2  |  2  |  -  |
+|   9   |  3  |  3  |  2  |  2  |  1  |
+|  10   |  3  |  3  |  3  |  2  |  2  |
+
+
 
 
 

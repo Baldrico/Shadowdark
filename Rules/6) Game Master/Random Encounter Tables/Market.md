@@ -1,5 +1,5 @@
 ##### Market Encounters
-| `dice: d100` | **Details**                                                      |
+| `dice: d100` | Details                                                          |
 |:------------:| ---------------------------------------------------------------- |
 |      01      | Six chaos cultists throw burlap bags over the PCs' heads         |
 |    02-03     | A drunk, wobbly knife-thrower hurls a blade toward a PC          |

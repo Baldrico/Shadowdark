@@ -1,5 +1,5 @@
 ##### Treasure 4-6
-| `dice: d100` | **Details**                                            |
+| `dice: d100` | Details                                                |
 |:------------:| ------------------------------------------------------ |
 |      01      | Scattering of 3 cp                                     |
 |    02-03     | Wooden ring carved with knot pattern (5 cp)            |

@@ -1555,15 +1555,12 @@ _Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron p
 
 ## **GIANT, FROST**
 
-_Blue-skinned warriors with
-broad shoulders and braided
-hair. They sound war horns
-during their frequent raids to
-pillage nearby settlements._
+_Blue-skinned warriors with broad shoulders and braided hair. They sound war horns during their frequent raids to pillage nearby settlements._
 
 **AC** 14 (chainmail)
 **HP** 44
-**ATK** 3 greataxe +8 (2d10), **MV** double near
+**ATK** 3 greataxe +8 (2d10)
+**MV** double near
 **S** +5, **D** +1, **C** +4, **I** +2, **W** +3, **Ch** +2
 **AL** C
 **LV** 9
@@ -2266,9 +2263,7 @@ _Tawny great cats that hunt in open plains. Males have manes._
 
 ## **LIZARDFOLK**
 
-_Crocodilian humanoids with
-scaly faces, claws, and tails.
-They dwell in swamps and rivers._
+_Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps and rivers._
 
 **AC** 14 (leather + shield)
 **HP** 11
@@ -2467,8 +2462,8 @@ _A skinless mummy-lich wearing a crown set with nine bright gems. Once the head 
 
 **True Name (INT Spell).** DC 15. Near. Learn the _True Name_ of target.
 
-“Long have I held the weighty secrets of Gehemna, an age-old litany inscribed upon my weary soul."
--Mordanticus the Flayed
+> “Long have I held the weighty secrets of Gehemna, an age-old litany inscribed upon my weary soul."
+>> -Mordanticus the Flayed
 
 
 ## **MUMMY**
@@ -3128,155 +3123,171 @@ _A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal.
 
 ## **SAHUAGIN**
 
-_Humanoids with sea-green skin,
-webbed limbs, and shark teeth.
-Vicious hunters._
+_Humanoids with sea-green skin, webbed limbs, and shark teeth. Vicious hunters._
 
-**AC** 14 (leather + shield), **HP** 9,
-**ATK** 2 trident (near) +1 (1d6), **MV**
-near (swim), **S** +1, **D** +1, **C** +0, **I** -1,
-**W** +0, **Ch** -1, **AL** C, **LV** 2
+**AC** 14 (leather + shield)
+**HP** 9,
+**ATK** 2 trident (near) +1 (1d6)
+**MV** near (swim)
+**S** +1, **D** +1, **C** +0, **I** -1, **W** +0, **Ch** -1
+**AL** C
+**LV** 2
 
-**Half-Amphibious.** Must be
-submerged in water every 4
-hours or suffocates.
+**Half-Amphibious.** Must be submerged in water every 4 hours or suffocates.
 
 
 ## **SALAMANDER**
 
-Fire-colored lizardfolk with long
-tails. Flame-like frills run down
-their backs.
- **AC** 13, **HP** 24, **ATK** 2 flaming
-spear (close/near) +4 (1d6, ignites
-flammables) or 1 iron longbow
-(far) +2 (1d8), **MV** near, **S** +2, **D** +0,
-**C** +2, **I** -1, **W** +1, **Ch** -1,**AL** C,**LV** 5
-Impervious. Fire immune.
-Heat Aura. Creatures in close DC
-12 CON on turn or 1d8 damage.
+_Fire-colored lizardfolk with long tails. Flame-like frills run down their backs._
+
+**AC** 13, **HP** 24, **ATK** 2 flaming spear (close/near) +4 (1d6, ignites flammables) or 1 iron longbow (far) +2 (1d8)
+**MV** near
+**S** +2, **D** +0, **C** +2, **I** -1, **W** +1, **Ch** -1
+**AL** C
+**LV** 5
+
+**Impervious.** Fire immune.
+
+**Heat Aura.** Creatures in close DC 12 CON on turn or 1d8 damage.
 
 
 ## **SCARAB, SWARM**
 
-A chittering cloud of iridescent,
-oval-shaped beetles.
- **AC** 13, **HP** 14, **ATK** 2 bite +3 (1d6),
-**MV** near (fly), S -1, **D** +3, **C** +1, **I** -3,
-**W** +0, **Ch** -3,**AL** N,**LV** 3
+_A chittering cloud of iridescent, oval-shaped beetles._
+
+**AC** 13
+**HP** 14
+**ATK** 2 bite +3 (1d6),
+**MV** near (fly)
+**S** -1, **D** +3, **C** +1, **I** -3, **W** +0, **Ch** -3
+**AL** N
+**LV** 3
 
 
 ## **SCARECROW**
 
-Ragged clothes and a painted
-burlap head stuffed with straw.
-Possessed by a malicious spirit.
- **AC** 12, **HP** 15, **ATK** 2 claws +2 (1d6)
-or 1 scream, **MV** near, **S** +2, **D** +2,
-**C** +2, **I** +0, **W** +0, **Ch** +2,**AL** C,**LV** 3
-Scream. Creatures who hear
-in double near DC 12 CHA or
-paralyzed for 1d4 rounds.
+_Ragged clothes and a painted burlap head stuffed with straw. Possessed by a malicious spirit._
+
+**AC** 12
+**HP** 15
+**ATK** 2 claws +2 (1d6) or 1 scream
+**MV** near
+**S** +2, **D** +2, **C** +2, **I** +0, **W** +0, **Ch** +2
+**AL** C
+**LV** 3
+
+**Scream.** Creatures who hear in double near DC 12 CHA or paralyzed for 1d4 rounds.
 
 
 **SCORPION**
 
-_Desert-dwelling arachnids with
-pincers and curved tail stingers._
+_Desert-dwelling arachnids with pincers and curved tail stingers._
 
-**AC** 11, **HP** 1, **ATK** 1 sting +1 (1 +
-poison), **MV** near (climb), **S** -4, **D**
-+1, **C** +0, **I** -4, **W** +0, **Ch** -4, **AL** N,
+**AC** 11
+**HP** 1
+**ATK** 1 sting +1 (1 + poison)
+**MV** near (climb)
+**S** -4, **D** +1, **C** +0, **I** -4, **W** +0, **Ch** -4
+**AL** N
 **LV** 0
 
 **Poison.** DC 9 CON or go to 0 HP.
 
+
 **SCORPION, GIANT**
 
-_Chitin-plated scorpions as big as
-camels._
+_Chitin-plated scorpions as big as camels._
 
-**AC** 14, **HP** 13, **ATK** 1 claw +2 (1d6
-+ grab) and 1 sting +2 (1d4 +
-poison), **MV** near (climb), **S** +2, **D**
-+2, **C** +0, **I** -4, **W** +0, **Ch** -4, **AL** N,
+**AC** 14
+**HP** 13
+**ATK** 1 claw +2 (1d6 + grab) and 1 sting +2 (1d4 + poison)
+**MV** near (climb)
+**S** +2, **D** +2, **C** +0, **I** -4, **W** +0, **Ch** -4
+**AL** N
 **LV** 3
 
-**Grab.** DC 12 STR or target held.
-DC 12 STR on turn to break free.
+**Grab.** DC 12 STR or target held. DC 12 STR on turn to break free.
 
 **Poison.** DC 12 CON or go to 0 HP.
 
+
 **SHADOW**
 
-_Flitting, sentient shadows in the
-vague shape of a human._
+_Flitting, sentient shadows in the vague shape of a human._
 
-**AC** 12, **HP** 15, **ATK** 2 touch +2 (1d4
-+ drain), **MV** near (fly), **S** -4, **D** +2,
-**C** +2, **I** -2, **W** +0, **Ch** -1, **AL** C, **LV** 3
+**AC** 12
+**HP** 15
+**ATK** 2 touch +2 (1d4 + drain)
+**MV** near (fly)
+**S** -4, **D** +2, **C** +2, **I** -2, **W** +0, **Ch** -1
+**AL** C
+**LV** 3
 
-**Drain.** Target takes 1 STR
-damage. At 0 STR, target dies
-and becomes a shadow.
+**Drain.** Target takes 1 STR damage. At 0 STR, target dies and becomes a shadow.
 
 
 **SHAMBLING MOUND**
 
-_Fetid piles of slimy vegetation
-animated to life by lightning._
+_Fetid piles of slimy vegetation animated to life by lightning._
 
-**AC** 14, **HP** 20, **ATK** 2 slam +3 (1d6
-+ engulf), **MV** near, **S** +3, **D** -2, **C**
-+2, **I** -3, **W** +0, **Ch** -3, **AL** N, **LV** 4
+**AC** 14
+**HP** 20
+**ATK** 2 slam +3 (1d6 + engulf)
+**MV** near
+**S** +3, **D** -2, **C** +2, **I** -3, **W** +0, **Ch** -3
+**AL** N
+**LV** 4
 
-**Impervious.** Fire immune.
-Healed by electricity.
+**Impervious.** Fire immune. Healed by electricity.
 
-**Engulf.** If a target is hit by both
-slams in same round, it is pulled
-into shambling mound's body
-and suffocates in 2d4 rounds. DC
-15 STR on turn to escape.
+**Engulf.** If a target is hit by both slams in same round, it is pulled into shambling mound's body and suffocates in 2d4 rounds. DC 15 STR on turn to escape.
+
 
 **SHARK**
 
-_Bloodthirsty apex predators of
-the sea. Gray, torpedo-like body._
+_Bloodthirsty apex predators of the sea. Gray, torpedo-like body._
 
-**AC** 11, **HP** 15, **ATK** 1 bite +3 (1d10),
-**MV** near (swim), **S** +3, **D** +1, **C** +2, **I**
--3, **W** +1, **Ch** -3, **AL** N, **LV** 3
+**AC** 11
+**HP** 15
+**ATK** 1 bite +3 (1d10),
+**MV** near (swim)
+**S** +3, **D** +1, **C** +2, **I** -3, **W** +1, **Ch** -3
+**AL** N
+**LV** 3
+
 
 **SHARK, MEGALODON**
 
-_Primordial sharks the size of
-whales. Savage hunters._
+_Primordial sharks the size of whales. Savage hunters._
 
-**AC** 13, **HP** 38, **ATK** 3 bite +7 (2d8),
-**MV** double near (swim), **S** +5, **D**
-+1, **C** +2, **I** -3, **W** +1, **Ch** -3, **AL** N, **LV**
-8
+**AC** 13
+**HP** 38
+**ATK** 3 bite +7 (2d8)
+**MV** double near (swim)
+**S** +5, **D** +1, **C** +2, **I** -3, **W** +1, **Ch** -3
+**AL** N
+**LV** 8
 
-**Fearless.** Immune to morale
-checks.
-
-
-SIREN
-Baleful fey with dove wings
-and iridescent fish scales. Their
-singing entrances listeners.
- **AC** 12, **HP** 18, **ATK** 2 claw +2 (1d6)
-or 1 song, **MV** near (swim, fly), S
-+0, **D** +2, **C** +0, **I** +2, **W** +2, **Ch** +4,
-AL C,**LV** 4
-Song. Enemies who can hear
-within double near DC 15 CHA or
-paralyzed 1d4 rounds. Immune
-for 1 day if passed check.
+**Fearless.** Immune to morale checks.
 
 
-SKELETON
+## **SIREN**
+
+_Baleful fey with dove wings and iridescent fish scales. Their singing entrances listeners.
+
+**AC** 12
+**HP** 18
+**ATK** 2 claw +2 (1d6) or 1 song
+**MV** near (swim, fly)
+**S** +0, **D** +2, **C** +0, **I** +2, **W** +2, **Ch** +4
+**AL** C
+**LV** 4
+
+**Song.** Enemies who can hear within double near DC 15 CHA or paralyzed 1d4 rounds. Immune for 1 day if passed check.
+
+
+## **SKELETON**
+
 A bleach-boned skeleton with
 red pinpoints of light in its eyes.
  **AC** 13 (chainmail), **HP** 11, **ATK** 1
@@ -3287,181 +3298,194 @@ Undead. Immune to morale
 checks.
 
 
-SMILODON
-Prehistoric tigers with long
-canine fangs. They hunt in
-grasslands and ice fields.
- **AC** 12, **HP** 14, **ATK** 2 bite +3 (1d6),
-**MV** near, **S** +3, **D** +2, **C** +1, **I** -3, W
-+1, **Ch** -3,**AL** N,**LV** 3
+## **SMILODON**
 
+_Prehistoric tigers with long canine fangs. They hunt in grasslands and ice fields._
 
-**SNAKE, GIANT**
-
-_An enormous, mottled serpent
-that can swallow a cow whole._
-
-**AC** 12, **HP** 23, **ATK** 2 bite +4 (1d6)
-and 1 constrict (near), **MV** near
-(climb), **S** +3, **D** +2, **C** +1, **I** -2, **W** +0,
-**Ch** -2, **AL** N, **LV** 5
-
-**Constrict.** Contested STR to hold
-target immobile for one round.
-
-**SNAKE, COBRA**
-
-_A weaving serpent with a neck
-hood and lethal venom._
-
-**AC** 12, **HP** 4, **ATK** 1 bite +2 (1 +
-poison), **MV** near, **S** -3, **D** +2, **C** +0,
-**I** -3, **W** +0, **Ch** -3, **AL** N, **LV** 1
-
-**Poison.** DC 18 CON or go to 0 HP
-with a death timer of 1.
-
-SNAKE, SWARM
-A roiling wave of snakes darting
-and flowing across the ground.
- **AC** 12, **HP** 19, **ATK** 3 bite +2 (1d4 +
-poison), **MV** near, S -3, **D** +2, **C** +1,
-**I** -3, **W** +0, **Ch** -3,**AL** N,**LV** 4
-Poison. DC 12 CON or go to 0 HP
-in 1d4 rounds.
-
-SOLDIER
-An armed footsoldier trained in
-the ways of battlefield combat.
- **AC** 15 (chainmail + shield), HP
-10, **ATK** 1 longsword +2 (1d8) or 1
-crossbow (far) +1 (1d6), **MV** near,
-**S** +1, **D** +0, **C** +1, **I** +0, **W** +0, **Ch** +0,
-AL L,**LV** 2
-
-
-**SPHINX**
-
-_A winged, leonine oracle who
-can see into time and space and
-often speaks in riddles. Lives in
-isolated mountains._
-
-**AC** 16, **HP** 42, **ATK** 3 claw +7
-(1d10) or 2 spell +5, **MV** double
-near (fly), **S** +4, **D** +1, **C** +2, **I** +4, **W**
-+4, **Ch** +3, **AL** L, **LV** 9
-
-**Roar.** In place of attacks, all
-creatures who can hear within
-far DC 18 CHA or paralyzed 1d4
-rounds.
-
-**Gate (WIS Spell).** DC 14. Open
-a portal at a point within near
-to another location on any
-plane. Lasts 1d6 rounds or until
-dismissed.
-
-**Omens (WIS Spell).** DC 12.
-Self. ADV on all actions for 1d4
-rounds.
-
-**Riddle (WIS Spell).** DC 12.
-One target in far DC 15 INT or
-stupefied 1d4 rounds.
-
-**Time Bend (WIS Spell).** DC 14.
-One target in near frozen in time
-for 1d4 rounds.
-
-**Unmake (WIS Spell).** DC 13. One
-target in far takes 3d8 damage.
-
-
-**SPIDER**
-
-_Silent, web-weaving arachnids
-with a flesh-dissolving venom._
-
-**AC** 11, **HP** 1, **ATK** 2 bite +1 (1 +
-poison), **MV** near (climb), **S** -4, **D**
-+1, **C** +0, **I** -4, **W** +0, **Ch** -4, **AL** N,
-**LV** 0
-
-**Poison.** DC 9 CON or take 1d4
-damage.
-
-**SPIDER, GIANT**
-
-_Bulbous abdomen and eight,
-spindly legs. Dwells high in trees
-or caves and ambushes prey,
-capturing them to eat later._
-
-**AC** 13, **HP** 13, **ATK** 1 bite +3 (1d4
-+ poison), **MV** near (climb), **S** +2,
-**D** +3, **C** +0, **I** -2, **W** +1, **Ch** -2, **AL** N,
+**AC** 12
+**HP** 14
+**ATK** 2 bite +3 (1d6)
+**MV** near
+**S** +3, **D** +2, **C** +1, **I** -3, **W** +1, **Ch** -3
+**AL** N
 **LV** 3
 
-**Poison.** DC 12 CON or paralyzed
-1d4 hours.
 
-**SPIDER, SWARM**
+## **SNAKE, GIANT**
+
+_An enormous, mottled serpent that can swallow a cow whole._
+
+**AC** 12
+**HP** 23
+**ATK** 2 bite +4 (1d6) and 1 constrict (near)
+**MV** near (climb)
+**S** +3, **D** +2, **C** +1, **I** -2, **W** +0, **Ch** -2
+**AL** N
+**LV** 5
+
+**Constrict.** Contested STR to hold target immobile for one round.
+
+
+## **SNAKE, COBRA**
+
+_A weaving serpent with a neck hood and lethal venom._
+
+**AC** 12
+**HP** 4
+**ATK** 1 bite +2 (1 + poison)
+**MV** near
+**S** -3, **D** +2, **C** +0, **I** -3, **W** +0, **Ch** -3
+**AL** N
+**LV** 1
+
+**Poison.** DC 18 CON or go to 0 HP with a death timer of 1.
+
+
+## **SNAKE, SWARM**
+
+_A roiling wave of snakes darting and flowing across the ground._
+
+**AC** 12
+**HP** 19
+**ATK** 3 bite +2 (1d4 + poison)
+**MV** near
+**S** -3, **D** +2, **C** +1, **I** -3, **W** +0, **Ch** -3
+**AL** N
+**LV** 4
+
+**Poison.** DC 12 CON or go to 0 HP in 1d4 rounds.
+
+
+## **SOLDIER**
+
+_An armed footsoldier trained in the ways of battlefield combat._
+
+**AC** 15 (chainmail + shield)
+**HP** 10
+**ATK** 1 longsword +2 (1d8) or 1 crossbow (far) +1 (1d6)
+**MV** near
+**S** +1, **D** +0, **C** +1, **I** +0, **W** +0, **Ch** +0
+**AL** L
+**LV** 2
+
+
+## **SPHINX**
+
+_A winged, leonine oracle who can see into time and space and often speaks in riddles. Lives in isolated mountains._
+
+**AC** 16
+**HP** 42
+**ATK** 3 claw +7 (1d10) or 2 spell +5
+**MV** double near (fly)
+**S** +4, **D** +1, **C** +2, **I** +4, **W** +4, **Ch** +3
+**AL** L
+**LV** 9
+
+**Roar.** In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds.
+
+**Gate (WIS Spell).** DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed.
+
+**Omens (WIS Spell).** DC 12. Self. ADV on all actions for 1d4 rounds.
+
+**Riddle (WIS Spell).** DC 12. One target in far DC 15 INT or stupefied 1d4 rounds.
+
+**Time Bend (WIS Spell).** DC 14. One target in near frozen in time for 1d4 rounds.
+
+**Unmake (WIS Spell).** DC 13. One target in far takes 3d8 damage.
+
+
+## **SPIDER**
+
+_Silent, web-weaving arachnids with a flesh-dissolving venom._
+
+**AC** 11
+**HP** 1
+**ATK** 2 bite +1 (1 + poison)
+**MV** near (climb)
+**S** -4, **D** +1, **C** +0, **I** -4, **W** +0, **Ch** -4
+**AL** N
+**LV** 0
+
+**Poison.** DC 9 CON or take 1d4 damage.
+
+
+## **SPIDER, GIANT**
+
+_Bulbous abdomen and eight, spindly legs. Dwells high in trees or caves and ambushes prey, capturing them to eat later._
+
+**AC** 13
+**HP** 13
+**ATK** 1 bite +3 (1d4 + poison)
+**MV** near (climb)
+**S** +2, **D** +3, **C** +0, **I** -2, **W** +1, **Ch** -2, 
+**AL** N
+**LV** 3
+
+**Poison.** DC 12 CON or paralyzed 1d4 hours.
+
+
+## **SPIDER, SWARM**
 
 _A scurrying carpet of spiders._
 
-**AC** 13, **HP** 9, **ATK** 1 bite +3 (1d4 +
-poison), **MV** near (climb), **S** -1, **D**
-+3, **C** +0, **I** -3, **W** +1, **Ch** -3, **AL** N,
+**AC** 13
+**HP** 9
+**ATK** 1 bite +3 (1d4 + poison)
+**MV** near (climb)
+**S** -1, **D** +3, **C** +0, **I** -3, **W** +1, **Ch** -3
+**AL** N
 **LV** 2
 
-**Poison.** DC 12 CON or paralyzed
-1d4 rounds.
+**Poison.** DC 12 CON or paralyzed 1d4 rounds.
 
 
-STINGBAT
-Darting, orange insect-bat with
-four wings and needlelike beak.
- **AC** 12, **HP** 4, **ATK** 1 beak +2 (1d4 +
-blood drain), **MV** near (fly), S -2,
-**D** +2, **C** +0, **I** -2, **W** +0, **Ch** -2,**AL** N,
-LV 1
-Blood Drain. Attach to bitten
-target; auto-hit the next round.
-DC 9 STR on turn to remove.
+## **STINGBAT**
+
+_Darting, orange insect-bat with four wings and needlelike beak._
+
+**AC** 12
+**HP** 4
+**ATK** 1 beak +2 (1d4 + blood drain)
+**MV** near (fly)
+**S** -2, **D** +2, **C** +0, **I** -2, **W** +0, **Ch** -2
+**AL** N
+**LV** 1
+
+**Blood Drain.** Attach to bitten target; auto-hit the next round. DC 9 STR on turn to remove.
 
 
-STRANGLER
-A gray-skinned, gaunt creature
-with four ropy limbs tipped in
-sucker-lined claws.
- **AC** 12, **HP** 14, **ATK** 2 claws +2
-(1d6), **MV** near (climb), S -2, **D** +2,
-**C** +1, **I** -2, **W** +0, **Ch** -2,**AL** C,**LV** 3
-Stealthy. ADV on DEX checks to
-sneak and hide.
-Strangle. Deals x2 damage
-against surprised creatures.
+## **STRANGLER**
+
+_A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claws._
+
+**AC** 12
+**HP** 14
+**ATK** 2 claws +2 (1d6)
+**MV** near (climb)
+**S** -2, **D** +2, **C** +1, **I** -2, **W** +0, **Ch** -2
+**AL** C
+**LV** 3
+
+**Stealthy.** ADV on DEX checks to sneak and hide.
+
+**Strangle.** Deals x2 damage against surprised creatures.
 
 
-_A floating mass of rubbery skin crusted with barnacles. Its ten
-eyestalks writhe like snakes, and a deep, circular scar mars its
-central body, blinding what was once a large eye above a lipless
-maw. The Ten-Eyed Oracle stalks the Shadowdark, burbling mad
-prophesies and somehow moving freely between the lightless
-fathoms of the earth. The keepers of the deep lore suspect The
-Ten-Eyed Oracle was once a benevolent ally of mankind, but an
-unknown calamity drove it to insanity and reckless hatred._
+## **THE TEN-EYED ORACLE**
 
-**AC** 17, **HP** 85, **ATK** 2d4 eyestalk ray, **MV** near (fly), **S** +4, **D** +5, **C** +4, **I** +5,
-**W** +4, **Ch** +4, **AL** C, **LV** 18
+_A floating mass of rubbery skin crusted with barnacles. Its ten eyestalks writhe like snakes, and a deep, circular scar mars its central body, blinding what was once a large eye above a lipless maw. The Ten-Eyed Oracle stalks the Shadowdark, burbling mad prophesies and somehow moving freely between the lightless fathoms of the earth. The keepers of the deep lore suspect The Ten-Eyed Oracle was once a benevolent ally of mankind, but an unknown calamity drove it to insanity and reckless hatred._
 
-**Legendary.** Only damaged by magical sources. Hostile spells
-targeting The Ten-Eyed Oracle are DC 18 to cast.
+**AC** 17
+**HP** 85
+**ATK** 2d4 eyestalk ray
+**MV** near (fly)
+**S** +4, **D** +5, **C** +4, **I** +5, **W** +4, **Ch** +4
+**AL** C
+**LV** 18
 
-**Eyestalk Ray.** Each ray can shoot once per round and target one
-creature or an object up to 1,000 pounds (up to four on same target).
+**Legendary.** Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast.
+
+**Eyestalk Ray.** Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target).
 
 **1. Charm.** DC 15 CHA or become ally for 1d4 rounds.
 **2. Hold.** DC 15 STR or paralyzed 1d4 rounds.
@@ -3474,503 +3498,474 @@ creature or an object up to 1,000 pounds (up to four on same target).
 **9. Petrify.** DC 15 CON or petrified.
 **10. Death.** DC 15 CON or drop to 0 **HP** with a death timer of 1.
 
-**THE TEN-EYED ORACLE**
-
-
 “The moon runs red into the sea, and the whispers of
 the watchers in darkness proclaim: Your time has come!"
 -The Ten-Eyed Oracle
 
 
-_A colossal, four-legged reptile with crocodilian jaws, amber scales,
-and a diamond-hard, spiked carapace. It towers overhead like a
-mountain, able to swallow entire villages in one gulp. The tarrasque
-hibernates deep in the earth or at the bottom of the sea for
-centuries, only awakening long enough to fill its vast belly in an
-indiscriminate rampage of terror and destruction. There is only one
-tarrasque, and it is the most dreaded creature to walk the earth._
+## **THE TARRASQUE**
 
-**AC** 22, **HP** 140, **ATK** 4 thrash (near) +13 (3d10 + sever) and 1 bite (near)
-+13 (5d10 + sever + swallow), **MV** triple near (burrow, swim), **S** +7, **D** +2,
-**C** +5, **I** -3, **W** +1, **Ch** -3, **AL** N, **LV** 30
+_A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diamond-hard, spiked carapace. It towers overhead like a mountain, able to swallow entire villages in one gulp. The tarrasque hibernates deep in the earth or at the bottom of the sea for centuries, only awakening long enough to fill its vast belly in an indiscriminate rampage of terror and destruction. There is only one tarrasque, and it is the most dreaded creature to walk the earth._
 
-**Legendary.** Only damaged by magical sources. Hostile spells
-targeting the tarrasque are DC 18 to cast.
+**AC** 22
+**HP** 140
+**ATK** 4 thrash (near) +13 (3d10 + sever) and 1 bite (near)
++13 (5d10 + sever + swallow), **MV** triple near (burrow, swim)
+**S** +7, **D** +2, **C** +5, **I** -3, **W** +1, **Ch** -3
+**AL** N
+**LV** 30
+
+**Legendary.** Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast.
 
 **Deep Dweller.** Immune to harm from fire and cold. Amphibious.
 
-**Permanent Death.** Cannot be permanently killed unless a _wish_ spell
-is cast on it while it is at 0 HP.
+**Permanent Death.** Cannot be permanently killed unless a _wish_ spell is cast on it while it is at 0 HP.
 
-**Rampage.** In place of attacks, move far in a straight line and make
-one bite attack. On a hit, triple damage.
+**Rampage.** In place of attacks, move far in a straight line and make one bite attack. On a hit, triple damage.
 
-**Reflective Carapace.** Immune to rays, blasts, or bolts of energy. 1:6
-chance these are reflected back at their originator.
+**Reflective Carapace.** Immune to rays, blasts, or bolts of energy. 1:6 chance these are reflected back at their originator.
 
 **Regeneration.** Regains 4d10 lost **HP** at the beginning of its turn.
 
-**Sever.** On a natural attack roll of 18+, the attack also severs a random
-limb. 1d6: **1.** Head, **2-4.** Arm, **5-6.** Leg.
+**Sever.** On a natural attack roll of 18+, the attack also severs a random limb. 1d6: **1.** Head, **2-4.** Arm, **5-6.** Leg.
 
-**Swallow.** DC 18 STR or swallowed whole. Total darkness inside and
-4d10 damage per round. Tarrasque regurgitates all swallowed if
-dealt at least 30 damage in one round to the inside of its gullet.
-
-**THE TARRASQUE**
-
+**Swallow.** DC 18 STR or swallowed whole. Total darkness inside and 4d10 damage per round. Tarrasque regurgitates all swallowed if dealt at least 30 damage in one round to the inside of its gullet.
 
 “RRRRRRAAAAAAAAAAAAAAAAGHHHHHH!"
 -The Tarrasque
 
 
+## **THE WANDERING MERCHANT**
 
-_A cheerful merchant who appears to be a hale, middle-aged
-human man with a handlebar mustache. He wears a white shirt,
-breeches, and leather apron, and he hauls a towering backpack
-bursting at the seams. Few know the merchant's true nature and
-origins, though some theorize he is an immortal being or a god
-(they are not entirely incorrect). The Wandering Merchant always
-has something useful, far-flung, or incredible to sell at a reasonable
-price, and there's no telling when or where he'll show up next..._
+_A cheerful merchant who appears to be a hale, middle-aged human man with a handlebar mustache. He wears a white shirt, breeches, and leather apron, and he hauls a towering backpack bursting at the seams. Few know the merchant's true nature and origins, though some theorize he is an immortal being or a god (they are not entirely incorrect). The Wandering Merchant always has something useful, far-flung, or incredible to sell at a reasonable price, and there's no telling when or where he'll show up next..._
 
-**AC** 16 (mithral chainmail), **HP** 71, **ATK** 4 _+3 vorpal bastard sword_ +9
-(1d10 + lop), **MV** near, **S** +3, **D** +3, **C** +4, **I** +3, **W** +4, **Ch** +5, **AL** L, **LV** 15
+**AC** 16 (mithral chainmail)
+**HP** 71
+**ATK** 4 _+3 vorpal bastard sword_ +9 (1d10 + lop)
+**MV** near
+**S** +3, **D** +3, **C** +4, **I** +3, **W** +4, **Ch** +5
+**AL** L
+**LV** 15
 
-**Legendary.** Only damaged by magical sources. Hostile spells
-targeting The Wandering Merchant are DC 18 to cast.
+**Legendary.** Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast.
 
-**Amulet of Rahm-Hotep.** In place of attacks, teleport to a random
-location in the multiverse.
+**Amulet of Rahm-Hotep.** In place of attacks, teleport to a random location in the multiverse.
 
-**Bottomless Bag.** Contains 200 gear slots in magical sub-pockets.
-Weighs as much as a normal backpack. The Wandering Merchant
-can summon it to himself from anywhere by snapping his fingers.
+**Bottomless Bag.** Contains 200 gear slots in magical sub-pockets. Weighs as much as a normal backpack. The Wandering Merchant can summon it to himself from anywhere by snapping his fingers.
 
-**Dice of Truth.** A set of three six-sided dice whose rolls cannot be
-magically or mundanely altered in any way.
+**Dice of Truth.** A set of three six-sided dice whose rolls cannot be magically or mundanely altered in any way.
 
 **Lop.** On a natural attack roll of 18-20, behead the target.
 
-**Reckoning.** Any creature who steals from The Wandering Merchant
-develops a curse. Over the next 2d8 days, that creature turns into
-a cockatrice. This curse can only be lifted by a _wish_ spell or by
-returning the stolen goods.
+**Reckoning.** Any creature who steals from The Wandering Merchant develops a curse. Over the next 2d8 days, that creature turns into a cockatrice. This curse can only be lifted by a _wish_ spell or by returning the stolen goods.
 
-**Strange Lands.** The Wandering Merchant does not suffer any ill
-effects from the natural environment he does not wish to suffer.
-
-**THE WANDERING MERCHANT**
-
+**Strange Lands.** The Wandering Merchant does not suffer any ill effects from the natural environment he does not wish to suffer.
 
 “Fancy meeting you here, at the bottom of a pit trap!
 I just so happen to have this lovely rope for sale..."
 -The Wandering Merchant
 
 
-**THIEF**
+## **THIEF**
 
 _A cat burglar in a black cloak._
 
-**AC** 13 (leather), **HP** 13, **ATK** 1
-dagger (close/near) +2 (1d4) or 1
-shortsword +0 (1d6), **MV** near, **S**
-+0, **D** +2, **C** +0, **I** +0, **W** +0, **Ch** +1,
-**AL** N, **LV** 3
+**AC** 13 (leather)
+**HP** 13
+**ATK** 1 dagger (close/near) +2 (1d4) or 1 shortsword +0 (1d6)
+**MV** near
+**S** +0, **D** +2, **C** +0, **I** +0, **W** +0, **Ch** +1
+**AL** N
+**LV** 3
 
-**Stealthy.** ADV on DEX checks to
-sneak and hide.
+**Stealthy.** ADV on DEX checks to sneak and hide.
 
-**Backstab.** Deal x2 damage
-against surprised creatures.
-
-
-THUG
-A bruised and boorish ruffian.
- **AC** 13 (leather + shield), **HP** 4,
-**ATK** 1 shortsword +1 (1d6), MV
-near, **S** +1, **D** +0, **C** +0, **I** -1, **W** +1,
-**Ch** -1,**AL** C,**LV** 1
+**Backstab.** Deal x2 damage against surprised creatures.
 
 
-TREANT
-Peaceful, slow-moving trees
-with merry eyes and tremulous
-voices. They protect the forest.
- **AC** 14, **HP** 38, **ATK** 3 slam +8
-(1d10) or 1 rock (far) +8 (2d12), MV
-near, **S** +4, D -1, **C** +2, **I** +2, **W** +3,
-**Ch** +1,**AL** N,**LV** 8
-Animate Tree. 2/day. In place
-of attacks, one tree within near
-awakens as a treant ally without
-this ability. Reverts back in 1 day.
+## **THUG**
+
+_A bruised and boorish ruffian._
+
+**AC** 13 (leather + shield)
+**HP** 4
+**ATK** 1 shortsword +1 (1d6), MV near
+**S** +1, **D** +0, **C** +0, **I** -1, **W** +1, **Ch** -1
+**AL** C
+**LV** 1
 
 
-TROLL
-Green, lanky giants with warty
-skin and territorial rage. Lair in
-deep forests and swamps.
- **AC** 12, **HP** 24, **ATK** 2 claw +4 (1d6)
-and 1 bite +4 (1d10), **MV** near, S
-+3, **D** +2, **C** +2, **I** -1, **W** +0, **Ch** -1, AL
-C,**LV** 5
-Regenerate. Regains 2d6 **HP** on
-its turn unless its wounds are
-cauterized with fire or acid.
+## **TREANT**
+
+_Peaceful, slow-moving trees with merry eyes and tremulous voices. They protect the forest._
+
+**AC** 14
+**HP** 38
+**ATK** 3 slam +8 (1d10) or 1 rock (far) +8 (2d12)
+**MV** near
+**S** +4, D -1, **C** +2, **I** +2, **W** +3, **Ch** +1
+**AL** N
+**LV** 8
+
+**Animate Tree.** 2/day. In place of attacks, one tree within near awakens as a treant ally without this ability. Reverts back in 1 day.
 
 
-**TROLL, FROST**
+## **TROLL**
+_Green, lanky giants with warty skin and territorial rage. Lair in deep forests and swamps._
 
-_Rime-covered trolls with blue
-skin and flinty, black eyes. They
-stalk arctic lands and frozen
-boreal forests._
+**AC** 12
+**HP** 24
+**ATK** 2 claw +4 (1d6) and 1 bite +4 (1d10)
+**MV** near
+**S** +3, **D** +2, **C** +2, **I** -1, **W** +0, **Ch** -1
+**AL** C
+**LV** 5
 
-**AC** 13, **HP** 34, **ATK** 2 claw +5 (1d8)
-and 1 bite +5 (1d12), **MV** near, **S** +3,
-**D** +2, **C** +3, **I** -1, **W** +0, **Ch** -1, **AL** C,
+**Regenerate.** Regains 2d6 HP on its turn unless its wounds are cauterized with fire or acid.
+
+
+## **TROLL, FROST**
+
+_Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic lands and frozen boreal forests._
+
+**AC** 13
+**HP** 34
+**ATK** 2 claw +5 (1d8) and 1 bite +5 (1d12)
+**MV** near
+**S** +3, **D** +2, **C** +3, **I** -1, **W** +0, **Ch** -1
+**AL** C
 **LV** 7
 
-**Impervious.** Cold and fire
-immune.
+**Impervious.** Cold and fire immune.
 
-**Regenerate.** Regains 2d6 **HP** on
-its turn unless its wounds are
-cauterized with acid.
-
-**UNICORN**
-
-_A silvery horse with a flowing
-mane and a single spiral horn._
-
-**AC** 12, **HP** 20, **ATK** 1 hooves +3
-(1d6), **MV** double near, **S** +3, **D** +2,
-**C** +2, **I** +1, **W** +2, **Ch** +3, **AL** L, **LV** 4
-
-**Healing Horn.** A touch heals 2d6
-**HP** or ends one curse or disease.
+**Regenerate.** Regains 2d6 HP on its turn unless its wounds are cauterized with acid.
 
 
-VAMPIRE
-Pale, blood-drinking undead of
-supreme power and wickedness.
-They loathe sunlight and protect
-their coffins at all costs.
- **AC** 15, **HP** 52, **ATK** 3 bite +7 (1d8 +
-blood drain) or 1 charm, **MV** near
-(climb), **S** +4, **D** +3, **C** +3, **I** +1, W
-+3, **Ch** +4,**AL** C,**LV** 11
-Supreme Undead. Immune to
-morale checks. Only damaged
-by magical sources.
-Blood Drain. Vampire heals 2d6
-**HP** and target permanently loses
-1d4 CON. At 0 CON, target dies
-and rises as vampire or vampire
-spawn (vampire chooses).
-Charm. One humanoid target
-who can see vampire within
-near, DC 15 CHA or under
-vampire's control for 1d4 days.
-Shapechange. In place of
-attacks, turn into a bat, wolf, or
-back into regular form.
-Vampire. Must sleep in a coffin
-daily or loses 2d6 **HP** each day
-that can't be healed until resting
-in coffin. Takes 3d8 damage
-each round while in direct
-sunlight. Cannot be killed unless
-pierced through heart with a
-wooden stake while at 0 HP.
+## **UNICORN**
+
+_A silvery horse with a flowing mane and a single spiral horn._
+
+**AC** 12
+**HP** 20
+**ATK** 1 hooves +3 (1d6)
+**MV** double near
+**S** +3, **D** +2, **C** +2, **I** +1, **W** +2, **Ch** +3
+**AL** L
+**LV** 4
+
+**Healing Horn.** A touch heals 2d6 HP or ends one curse or disease.
 
 
-**VAMPIRE SPAWN**
+## **VAMPIRE**
 
-_Lesser, feral vampires born from
-the bite of their vampiric sires.
-Bloodthirsty and savage. They
-rarely leave a victim alive._
+_Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlight and protect their coffins at all costs._
 
-**AC** 13 (leather), **HP** 25, **ATK** 2 bite
-+4 (1d8 + blood drain), **MV** near
-(climb), **S** +3, **D** +2, **C** +3, **I** -1, **W** +1,
-**Ch** +2, **AL** C, **LV** 5
+**AC** 15
+**HP** 52
+**ATK** 3 bite +7 (1d8 + blood drain) or 1 charm
+**MV** near (climb)
+**S** +4, **D** +3, **C** +3, **I** +1, **W** +3, **Ch** +4
+**AL** C
+**LV** 11
 
-**Greater Undead.** Immune to
-morale checks. Only damaged
-by silver or magical sources.
+**Supreme Undead.** Immune to morale checks. Only damaged by magical sources.
 
-**Blood Drain.** Vampire heals 2d6
-**HP** and target permanently loses
-1d4 CON. At 0 CON, target dies
-and rises as a vampire spawn.
+**Blood Drain.** Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as vampire or vampire spawn (vampire chooses).
 
-**Vampire.** Must sleep in a coffin
-daily or loses 2d6 **HP** each day
-that can't be healed until resting
-in coffin. Takes 3d8 damage
-each round while in direct
-sunlight. Cannot be killed unless
-pierced through heart with a
-wooden stake while at 0 HP.
+**Charm.** One humanoid target who can see vampire within near, DC 15 CHA or under vampire's control for 1d4 days.
 
-**VIOLET FUNGUS**
+**Shapechange.** In place of attacks, turn into a bat, wolf, or back into regular form.
 
-_Child-sized, creeping fungi with
-neon purple caps. Their whiplike
-roots decompose living flesh._
-
-**AC** 7, **HP** 9, **ATK** 2 tendril (near)
-+0 (1d4), **MV** close, **S** -3, **D** -2, **C**
-+0, **I** -4, **W** -3, **Ch** -4, **AL** N, **LV** 2
+**Vampire.** Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.
 
 
-**VIPERIANS**
+## **VAMPIRE SPAWN**
 
-A fallen and scattered civilization
-of snake-people who built their
-blood-soaked dynasties with
-sorcery and cunning. Their
-descendants fight for scraps of
-faded grandeur in the decaying
-ruins of their forgotten cities.
+_Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty and savage. They rarely leave a victim alive._
 
+**AC** 13 (leather)
+**HP** 25
+**ATK** 2 bite +4 (1d8 + blood drain)
+**MV** near (climb)
+**S** +3, **D** +2, **C** +3, **I** -1, **W** +1, **Ch** +2
+**AL** C
+**LV** 5
 
-Small circles of viperian wizards
-practice ancient magic and
-lead their enclaves. Viperian
-ophids are rare and much more
-snakelike than their brethren,
-serving as esteemed guardians
-and warriors.
+**Greater Undead.** Immune to morale checks. Only damaged by silver or magical sources.
 
-**VIPERIAN**
+**Blood Drain.** Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as a vampire spawn.
 
-_Lithe, snake-headed people with
-cobra hoods and emerald green
-scales covering their bodies._
+**Vampire.** Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.
 
-**AC** 13, **HP** 13, **ATK** 2 scimitar +2
-(1d6) or 1 javelin (close/far) +2
-(1d4), **MV** near, **S** +1, **D** +1, **C** +0, **I**
-+0, **W** +1, **Ch** +0, **AL** C, **LV** 3
+## **VIOLET FUNGUS**
 
-**VIPERIAN, OPHID**
+_Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompose living flesh._
 
-_A giant anaconda body merges
-into a humanoid torso with
-a large snake head. It wears
-golden torcs and strings of
-glittering moonstones._
-
-**AC** 14, **HP** 28, **ATK** 3 falchion +5
-(1d10) or 2 longbow (far) +3 (1d8),
-**MV** near (climb), **S** +4, **D** +2, **C** +1, **I**
-+1, **W** +1, **Ch** +1, **AL** C, **LV** 6
-
-**Impervious.** Can only be harmed
-by magical sources.
+**AC** 7
+**HP** 9
+**ATK** 2 tendril (near) +0 (1d4)
+**MV** close
+**S** -3, **D** -2, **C** +0, **I** -4, **W** -3, **Ch** -4
+**AL** N
+**LV** 2
 
 
-VIPERIAN, WIZARD
-Thin viperians with scales tinged
-in black. They wear silk robes
-and silver, serpentine jewelry.
- **AC** 13, **HP** 37, **ATK** 1 dagger (close/
-near) +2 (1d4) or 2 spell +5, MV
-near, **S** +0, **D** +1, **C** +0, **I** +3, **W** +1,
-**Ch** +1,**AL** C,**LV** 8
-Hiss (INT Spell). DC 12. End one
-spell within far.
-Summon Cobra (INT Spell). DC 13. Summon 1d4 loyal cobras that
-appear within near. They leave in
-1d4 rounds.
-**Venom (INT Spell).** DC 12. One
-target in far takes 2d8 damage.
-**Whispers (INT Spell).** DC 14.
-Focus. All enemies within near
-of viperian wizard have DISADV
-on spellcasting checks for the
-duration.
+# **VIPERIANS**
+
+A fallen and scattered civilization of snake-people who built their blood-soaked dynasties with sorcery and cunning. Their descendants fight for scraps of faded grandeur in the decaying ruins of their forgotten cities.
+
+Small circles of viperian wizards practice ancient magic and lead their enclaves. Viperian ophids are rare and much more snakelike than their brethren, serving as esteemed guardians and warriors.
 
 
-**VULTURE**
+## **VIPERIAN**
 
-_Scavenger birds with black
-feathers, hunched backs, and
-bald heads._
+_Lithe, snake-headed people with cobra hoods and emerald green scales covering their bodies._
 
-**AC** 10, **HP** 5, **ATK** 1 tear +1 (1d4),
-**MV** near (fly), **S** +1, **D** +0, **C** +1, **I** -3,
-**W** +1, **Ch** -3, **AL** N, **LV** 1
+**AC** 13
+**HP** 13
+**ATK** 2 scimitar +2 (1d6) or 1 javelin (close/far) +2 (1d4)
+**MV** near
+**S** +1, **D** +1, **C** +0, **I** +0, **W** +1, **Ch** +0
+**AL** C
+**LV** 3
 
-**Carrion Tracker.** Can track dead
-flesh unerringly within a mile.
+## **VIPERIAN, OPHID**
 
-**WASP, GIANT**
+_A giant anaconda body merges into a humanoid torso with a large snake head. It wears golden torcs and strings of glittering moonstones._
 
-_Man-sized wasps with glossy,
-yellow-striped abdomens._
+**AC** 14
+**HP** 28
+**ATK** 3 falchion +5 (1d10) or 2 longbow (far) +3 (1d8)
+**MV** near (climb)
+**S** +4, **D** +2, **C** +1, **I** +1, **W** +1, **Ch** +1, 
+**AL** C]
+**LV** 6
 
-**AC** 13, **HP** 9, **ATK** 1 sting +3 (1d6 +
-venom), **MV** near (fly), **S** +1, **D** +3,
-**C** +0, **I** -3, **W** +0, **Ch** -3, **AL** N, **LV** 2
+**Impervious.** Can only be harmed by magical sources.
+
+
+## VIPERIAN, WIZARD
+
+_Thin viperians with scales tinged in black. They wear silk robes and silver, serpentine jewelry._
+
+**AC** 13
+**HP** 37
+**ATK** 1 dagger (close/near) +2 (1d4) or 2 spell +5
+**MV** near
+**S** +0, **D** +1, **C** +0, **I** +3, **W** +1, **Ch** +1
+**AL** C
+**LV** 8
+
+**Hiss (INT Spell).** DC 12. End one spell within far.
+
+**Summon Cobra (INT Spell).** DC 13. Summon 1d4 loyal cobras that appear within near. They leave in 1d4 rounds.
+
+**Venom (INT Spell).** DC 12. One target in far takes 2d8 damage.
+
+**Whispers (INT Spell).** DC 14. Focus. All enemies within near of viperian wizard have DISADV on spellcasting checks for the duration.
+
+
+## **VULTURE**
+
+_Scavenger birds with black feathers, hunched backs, and bald heads._
+
+**AC** 10
+**HP** 5
+**ATK** 1 tear +1 (1d4)
+**MV** near (fly)
+**S** +1, **D** +0, **C** +1, **I** -3, **W** +1, **Ch** -3
+**AL** N
+**LV** 1
+
+**Carrion Tracker.** Can track dead flesh unerringly within a mile.
+
+
+## **WASP, GIANT**
+
+_Man-sized wasps with glossy, yellow-striped abdomens._
+
+**AC** 13
+**HP** 9
+**ATK** 1 sting +3 (1d6 + venom), **MV** near (fly)
+**S** +1, **D** +3, **C** +0, **I** -3, **W** +0, **Ch** -3
+**AL** N
+**LV** 2
 
 **Venom.** DC 9 CON or go to 0 HP.
 
 
-WEREWOLF
-A bipedal, wolf-faced humanoid
-covered in brown fur.
- **AC** 12, **HP** 20, **ATK** 2 rend +3 (1d6),
-**MV** double near, **S** +3, **D** +2, **C** +2,
-**I** +0, **W** +1, **Ch** +0,**AL** C,**LV** 4
-Impervious. Only damaged by
-silver or magic sources.
-Lycanthropy. If 12 or more
-damage from the same
-werewolf, contract lycanthropy.
+## **WEREWOLF**
 
-**WERERAT**
+_A bipedal, wolf-faced humanoid covered in brown fur._
 
-_A slinking, rat-faced humanoid
-covered in mangy fur._
+**AC** 12
+**HP** 20
+**ATK** 2 rend +3 (1d6)
+**MV** double near
+**S** +3, **D** +2, **C** +2, **I** +0, **W** +1, **Ch** +0
+**AL** C
+**LV** 4
 
-**AC** 13 (leather), **HP** 14, **ATK** 2 bite
-+2 (1d6), **MV** near (climb), **S** +1, **D**
-+2, **C** +1, **I** -1, **W** +1, **Ch** -1, **AL** C, **LV** 3
+**Impervious.** Only damaged by silver or magic sources.
 
-**Impervious.** Only damaged by
-silver or magic sources.
-
-**Lycanthropy.** If 12 or more
-damage from the same wererat,
-contract lycanthropy.
+**Lycanthropy.** If 12 or more damage from the same werewolf, contract lycanthropy.
 
 
-WIGHT
-A pale, armored undead warrior
-with sinister intelligence.
- **AC** 14 (chainmail), **HP** 15, **ATK** 1
-bastard sword +3 (1d10) and 1 life
-drain +3, **MV** near, **S** +3, **D** +1, **C** +2,
-**I** +1, **W** +0, **Ch** +3,**AL** C,**LV** 3
-Greater Undead. Immune to
-morale checks. Only damaged
-by silver or magical sources.
-Life Drain. 1d4 CON damage.
-Death if reduced to 0 CON.
+## **WERERAT**
+
+_A slinking, rat-faced humanoid covered in mangy fur._
+
+**AC** 13 (leather)
+**HP** 14
+**ATK** 2 bite +2 (1d6)
+**MV** near (climb)
+**S** +1, **D** +2, **C** +1, **I** -1, **W** +1, **Ch** -1
+**AL** C
+**LV** 3
+
+**Impervious.** Only damaged by silver or magic sources.
+
+**Lycanthropy.** If 12 or more damage from the same wererat, contract lycanthropy.
 
 
-**WILL-O'-WISP**
+## **WIGHT**
 
-_A bobbing marsh light
-animated by an evil spirit. It tries
-to lead the living into danger._
+_A pale, armored undead warrior with sinister intelligence._
 
-**AC** 13, **HP** 10, **ATK** 1 life drain +3,
-**MV** near (fly), **S** -3, **D** +3, **C** +1, **I** -1,
-**W** -1, **Ch** -2, **AL** C, **LV** 2
+**AC** 14 (chainmail)
+**HP** 15
+**ATK** 1 bastard sword +3 (1d10) and 1 life drain +3
+**MV** near
+**S** +3, **D** +1, **C** +2, **I** +1, **W** +0, **Ch** +3
+**AL** C
+**LV** 3
 
-**Life Drain.** 1d4 CON damage.
-Death if reduced to 0 CON.
+**Greater Undead.** Immune to morale checks. Only damaged by silver or magical sources.
 
-**WOLF**
-
-_A giant canine with a gray pelt,
-yellow eyes, and dripping jaws._
-
-**AC** 12, **HP** 10, **ATK** 1 bite +2 (1d6),
-**MV** double near, **S** +2, **D** +2, **C** +1, **I**
--2, **W** +1, **Ch** +0, **AL** N, **LV** 2
-
-**Pack Hunter.** Deals +1 damage
-while an ally is close.
-
-**WOLF, DIRE**
-
-_A massive wolf with spines of
-black bone along its brow ridge
-and back._
-
-**AC** 12, **HP** 19, **ATK** 2 bite +4 (1d8),
-**MV** double near, **S** +3, **D** +2, **C** +1, **I**
--1, **W** +1, **Ch** +0, **AL** N, **LV** 4
-
-**Pack Hunter.** Deals +1 damage
-while an ally is close.
+**Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
 
 
-WOLF, WINTER
-Sinister, white-pelted wolves
-with piercing blue eyes. From
-the fey realms of eternal winter.
- **AC** 12, **HP** 23, **ATK** 2 bite +4 (1d6)
-or 1 frost breath, **MV** double near,
-**S** +3, **D** +2, **C** +1, **I** +0, **W** +1, **Ch** +0,
-AL C,**LV** 5
-Impervious. Cold immune.
-Frost Breath. Fills a near-sized
-cube extending from winter
-wolf. DC 15 DEX or 3d8 damage.
-Cannot use again for 1d4 rounds.
+## **WILL-O'-WISP**
+
+_A bobbing marsh light animated by an evil spirit. It tries to lead the living into danger._
+
+**AC** 13
+**HP** 10
+**ATK** 1 life drain +3,
+**MV** near (fly)
+**S** -3, **D** +3, **C** +1, **I** -1, **W** -1, **Ch** -2
+**AL** C
+**LV** 2
+
+**Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
 
 
-**WORG**
+## **WOLF**
 
-_Bat-faced wolves that speak
-Goblin and often serve as war
-mounts for goblinkind._
+_A giant canine with a gray pelt, yellow eyes, and dripping jaws._
 
-**AC** 11, **HP** 14, **ATK** 1 bite +3 (1d6),
-**MV** double near, **S** +2, **D** +1, **C** +1, **I**
--2, **W** +1, **Ch** -2, **AL** C, **LV** 3
+**AC** 12
+**HP** 10
+**ATK** 1 bite +2 (1d6)
+**MV** double near
+**S** +2, **D** +2, **C** +1, **I** -2, **W** +1, **Ch** +0
+**AL** N
+**LV** 2
 
-**WRAITH**
-
-_A shadowy spirit seething with
-anger and malice. Its presence
-is unsettling to animals._
-
-**AC** 14, **HP** 36, **ATK** 3 death touch
-+6 (1d10 + life drain), **MV** near
-(fly), **S** -4, **D** +4, **C** +0, **I** +0, **W** +0,
-**Ch** +3, **AL** C, **LV** 8
-
-**Greater Undead.** Immune to
-morale checks. Only damaged
-by silver or magical sources.
-
-**Incorporeal.** In place of attacks,
-become corporeal or incorporeal.
-
-**Life Drain.** 1d4 CON damage.
-Death if reduced to 0 CON.
+**Pack Hunter.** Deals +1 damage while an ally is close.
 
 
-WYVERN
-Dragon-cousins with a large tail
-stinger, mottled lizard skin, and
-leathery wings.
- **AC** 15, **HP** 37, **ATK** 2 rend +6 (1d8)
-and 1 stinger +6 (1d6 + poison),
-**MV** double near (fly), **S** +4, **D** +2,
-**C** +1, **I** -3, **W** +1, **Ch** -3,**AL** N,**LV** 8
-Poison. DC 15 CON or take 2d10
-damage.
+## **WOLF, DIRE**
+
+_A massive wolf with spines of black bone along its brow ridge and back._
+
+**AC** 12
+**HP** 19
+**ATK** 2 bite +4 (1d8)
+**MV** double near
+**S** +3, **D** +2, **C** +1, **I** -1, **W** +1, **Ch** +0
+**AL** N
+**LV** 4
+
+**Pack Hunter.** Deals +1 damage while an ally is close.
 
 
-ZOMBIE
-Lurching and decomposed
-undead that hunt in mobs.
- **AC** 8, **HP** 11, **ATK** 1 slam +2 (1d6),
-**MV** near, **S** +2, D -2, **C** +2, **I** -2, W
--2, **Ch** -3,**AL** C,**LV** 2
-Undead. Immune to morale
-checks.
-Relentless. If zombie reduced to
-0 **HP** by a non-magical source,
-DC 15 CON to go to 1 **HP** instead.
+## **WOLF, WINTER**
+
+_Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of eternal winter._
+
+**AC** 12
+**HP** 23
+**ATK** 2 bite +4 (1d6) or 1 frost breath
+**MV** double near,
+**S** +3, **D** +2, **C** +1, **I** +0, **W** +1, **Ch** +0
+**AL** C
+**LV** 5
+
+**Impervious.** Cold immune.
+
+**Frost Breath.** Fills a near-sized cube extending from winter wolf. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds.
+
+
+## **WORG**
+
+_Bat-faced wolves that speak Goblin and often serve as war mounts for goblinkind._
+
+**AC** 11
+**HP** 14
+**ATK** 1 bite +3 (1d6),
+**MV** double near
+**S** +2, **D** +1, **C** +1, **I** -2, **W** +1, **Ch** -2
+**AL** C
+**LV** 3
+
+## **WRAITH**
+
+_A shadowy spirit seething with anger and malice. Its presence is unsettling to animals._
+
+**AC** 14
+**HP** 36
+**ATK** 3 death touch +6 (1d10 + life drain)
+**MV** near (fly)
+**S** -4, **D** +4, **C** +0, **I** +0, **W** +0, **Ch** +3
+**AL** C
+**LV** 8
+
+**Greater Undead.** Immune to morale checks. Only damaged by silver or magical sources.
+
+**Incorporeal.** In place of attacks, become corporeal or incorporeal.
+
+**Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
+
+
+## **WYVERN**
+
+_Dragon-cousins with a large tail stinger, mottled lizard skin, and leathery wings._
+
+**AC** 15
+**HP** 37
+**ATK** 2 rend +6 (1d8) and 1 stinger +6 (1d6 + poison),
+**MV** double near (fly)
+**S** +4, **D** +2, **C** +1, **I** -3, **W** +1, **Ch** -3
+**AL** N
+**LV** 8
+
+**Poison.** DC 15 CON or take 2d10 damage.
+
+
+## ZOMBIE
+
+_Lurching and decomposed undead that hunt in mobs._
+
+**AC** 8
+**HP** 11 
+**ATK** 1 slam +2 (1d6)
+**MV** near
+**S** +2, D -2, **C** +2, **I** -2, **W** -2, **Ch** -3
+**AL** C
+**LV** 2
+
+**Undead.** Immune to morale checks.
+
+**Relentless.** If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead.
 

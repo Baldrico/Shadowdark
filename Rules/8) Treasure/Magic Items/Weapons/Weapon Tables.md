@@ -1,5 +1,5 @@
 ##### Weapon Type
-| `dice: d20` | **Type**             |
+| `dice: d20` |   Type               |
 |:-----------:| -------------------- |
 |      1      | Arrows (2d6)         |
 |     2-3     | Bastard sword        |
@@ -20,7 +20,7 @@
 ^WeaponType
 
 ##### Weapon Bonus
-| `dice: 2d6` | **Bonus** |
+| `dice: 2d6` |   Bonus   |
 |:-----------:| --------- |
 |     2-3     | +0        |
 |     4-9     | +1        |
@@ -29,7 +29,7 @@
 ^WeaponBonus
 
 ##### Weapon Feature
-| `dice: d20` | **Details**                |
+| `dice: d20` |   Details                  |
 |:-----------:| -------------------------- |
 |      1      | Trails sparkles            |
 |      2      | Starmetal                  |
@@ -54,7 +54,7 @@
 ^WeaponFeature
 
 ##### Weapon Benefit
-| `dice: d12` | **Details**                                                 |
+| `dice: d12` |   Details                                                   |
 |:-----------:| ----------------------------------------------------------- |
 |      1      | Cut or smash through any material                           |
 |      2      | Once per day, ignites for 5 rounds, deals 1d4 extra damage  |
@@ -71,7 +71,7 @@
 ^WeaponBenefit
 
 ##### Weapon Curse
-| `dice: d12` | **Details**                                                                    |
+| `dice: d12` |   Details                                                                      |
 |:-----------:| ------------------------------------------------------------------------------ |
 |      1      | You can't see 1d4: **1.** undead, **2.** demons, **3.** snakes, **4.** spiders |
 |      2      | You are compelled to swallow all gemstones at first sight                      |

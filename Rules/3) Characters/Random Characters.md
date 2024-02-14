@@ -7,7 +7,7 @@ Roll your stats (pg. 15), background (pg. 26), and class talents (pg. 20-24) as 
 Make selections for your character if no table is provided.
 
 ##### Ancestry
-| `dice: d12` | **Ancestry** |
+| `dice: d12` | Ancestry     |
 |:-----------:| ------------ |
 |     1-4     | [[Human]]    |
 |     5-6     | [[Elf]]      |
@@ -15,9 +15,10 @@ Make selections for your character if no table is provided.
 |    9-10     | [[Halfling]] |
 |     11      | [[Half-Orc]] |
 |     12      | [[Goblin]]   |
+^Ancestry
 
 ##### Class
-| `dice: d6` | **Class**   |
+| `dice: d6` | Class       |
 |:----------:| ----------- |
 |     1      | [[Fighter]] |
 |     2      | [[Priest]]  |
@@ -25,9 +26,10 @@ Make selections for your character if no table is provided.
 |     4      | [[Wizard]]  |
 |     5      | [[Bard]]    |
 |     6      | [[Ranger]]  |
+^Class
 
 ##### Priest Spells
-| `dice: d6` | **Spell**                |
+| `dice: d6` | Spell                    |
 |:----------:| ------------------------ |
 |     1      | [[Light]]                |
 |     2      | [[Cure Wounds]]          |
@@ -35,9 +37,10 @@ Make selections for your character if no table is provided.
 |     4      | [[Protection From Evil]] |
 |     5      | [[Shield of Faith]]      |
 |     6      | Reroll                   |
+^Priest
 
 ##### Deities
-| `dice: d8` | **Deity**                |
+| `dice: d8` | Deity                    |
 |:----------:| ------------------------ |
 |    1-2     | [[Saint Terragnis]]      |
 |     3      | [[Gede]]                 |
@@ -46,17 +49,19 @@ Make selections for your character if no table is provided.
 |     6      | [[Memnon]]               |
 |     7      | [[Shune The Vile]]       |
 |     8      | [[Ramlaat]]              |
+^Deities
 
 ##### Rare Languages
-| `dice: d4` | **Language**             |
+| `dice: d4` | Language                 |
 |:----------:| ------------------------ |
 |     1      | Celestial                |
 |     2      | Diabolic                 |
 |     3      | Draconic (priest reroll) |
 |     4      | Primordial               |
+^RareLanguages
 
 ##### Common Languages
-| `dice: d10` | **Language** |
+| `dice: d10` | Language     |
 |:-----------:| ------------ |
 |      1      | Dwarvish     |
 |      2      | Elvish       |
@@ -68,10 +73,11 @@ Make selections for your character if no table is provided.
 |      8      | Sylvan       |
 |      9      | Thanian      |
 |     10      | Reroll       |
+^CommonLanguages
 
 ##### Wizard Spells
-| `dice: d12` | **Spell**            |
-|:-----------:| -------------------- |
+| `dice: d12` | Spell                    |
+|:-----------:| ------------------------ |
 |      1      | [[Alarm]]                |
 |      2      | [[Burning Hands]]        |
 |      3      | [[Charm Person]]         |
@@ -84,6 +90,7 @@ Make selections for your character if no table is provided.
 |     10      | [[Magic Missile]]        |
 |     11      | [[Protection From Evil]] |
 |     12      | [[Sleep]]                |
+^WizardSpells
 
 ##### Alignment
 | `dice: d6` | Alignment   |
@@ -91,6 +98,7 @@ Make selections for your character if no table is provided.
 |    1-3     | [[Lawful]]  |
 |    4-5     | [[Neutral]] |
 |     6      | [[Chaotic]] |
+^Alignment
 
 ### Gear
 Random 1st-level characters have a crawling kit, one weapon, leather armor (if they can wear it), and 5 gold pieces.
@@ -98,19 +106,19 @@ Random 1st-level characters have a crawling kit, one weapon, leather armor (if t
 Random 0-level characters have 1d4 of the following items:
 
 ##### Gear
-| `dice: d12` | Gear                   |
-|:-----------:| ---------------------- |
-|      1      | [[Torch]]              |
-|      2      | Dagger                 |
-|      3      | [[Pole]]               |
-|      4      | Shortbow and 5 arrows  |
-|      5      | [[Rope]]               |
-|      6      | [[Oil Flask]]          |
-|      7      | [[Crowbar]]            |
-|      8      | [[Iron Spikes]] (10)   |
-|      9      | [[Flint and Steel]]    |
-|     10      | [[Grappling Hook]]     |
-|     11      | Club                   |
-|     12      | [[Caltrops]] (one bag) |
-
+| `dice: d12` | Gear                      |
+|:-----------:| ------------------------- |
+|      1      | [[Torch]]                 |
+|      2      | [[Dagger]]                |
+|      3      | [[Pole]]                  |
+|      4      | [[Shortbow]] and 5 arrows |
+|      5      | [[Rope]]                  |
+|      6      | [[Oil Flask]]             |
+|      7      | [[Crowbar]]               |
+|      8      | [[Iron Spikes]] (10)      |
+|      9      | [[Flint and Steel]]       |
+|     10      | [[Grappling Hook]]        |
+|     11      | [[Club]]                  |
+|     12      | [[Caltrops]] (one bag)    |
+^Gear
 

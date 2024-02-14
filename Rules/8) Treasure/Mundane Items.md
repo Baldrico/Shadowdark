@@ -35,18 +35,18 @@ Luxury items can also include silk, ivory, rare elven wine, silver utensils, jew
 Gems are very valuable and easier to transport than statues or chests of coins, making them one of the most appealing types of treasure.
 
 ##### Gem Types
-| **Gemstone** | **Value** |
-| ------------ | --------- |
-| Pearl        | 40gp      |
-| Emerald      | 120gp     |
-| Ruby         | 200gp     |
-| Sapphire     | 280gp     |
-| Diamond      | 360gp     |
-| Giant gem    | x2        |
+| Gemstone  | Value |
+| --------- | ----- |
+| Pearl     | 40gp  |
+| Emerald   | 120gp |
+| Ruby      | 200gp |
+| Sapphire  | 280gp |
+| Diamond   | 360gp |
+| Giant gem | x2    |
 ^GemTypes
 
 ##### Unique Features
-| `dice: d20` | **Details**           |
+| `dice: d20` | Details               |
 |:-----------:| --------------------- |
 |      1      | Forgery               |
 |      2      | Misshapen             |

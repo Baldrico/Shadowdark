@@ -1,5 +1,5 @@
 ##### Castle District Encounters
-| `dice: d100` | **Details**                                                     |
+| `dice: d100` | Details                                                         |
 |:------------:| --------------------------------------------------------------- |
 |      01      | `dice: 2d20` guards surround the group, accusing a PC of murder |
 |    02-03     | Piercing horns sound an alarm inside the royal palace           |

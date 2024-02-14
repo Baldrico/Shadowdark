@@ -6,5 +6,5 @@ tags: ancestry
 
 You know the Common and Orcish languages.
 
-### Mighty.
-You have a +1 bonus to attack and damage rolls with melee weapons.
+>[!check] Mighty.
+> You have a +1 bonus to attack and damage rolls with melee weapons.

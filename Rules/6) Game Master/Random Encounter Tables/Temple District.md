@@ -1,5 +1,5 @@
 ##### Temple District Encounters
-| `dice: d100` | **Details**                                                           |
+| `dice: d100` | Details                                                               |
 |:------------:| --------------------------------------------------------------------- |
 |      01      | `dice: 2d6` chaos cultists begin a live sacrifice; it's a beloved NPC |
 |    02-03     | A routine exorcism expels a very non-routine erinyes                  |

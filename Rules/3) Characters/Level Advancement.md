@@ -6,7 +6,7 @@ XP awards are based on the quality of the treasure and boons you gain during a s
 
 The GM can award XP right away or at the end of each session.
 
-## Leveling Up
+## Levelling Up
 
 To gain a level, you need to earn your **current level x 10 XP**.
 
@@ -15,7 +15,7 @@ Once you reach a new level, your total XP resets back to zero.
 You get any new title, spells, and talent improvements listed for your level. Your maximum HP increases, and you might also gain a talent roll.
 
 ##### Advancement
-| **Level** | **Talent** | **Level Up At...** |
+| Level     | Talent     | Level Up At...     |
 | --------- | ---------- | ------------------ |
 | 1         | +1         | 10 XP              |
 | 2         | -          | 20 XP              |

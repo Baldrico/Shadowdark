@@ -6,5 +6,5 @@ tags: ancestry
 
 You know the Common and Draconic languages.
 
-### Knack.
-You get +1 to spellcasting checks or may begin each session with a luck token.
+>[!check] Knack.
+> You get +1 to spellcasting checks or may begin each session with a luck token.

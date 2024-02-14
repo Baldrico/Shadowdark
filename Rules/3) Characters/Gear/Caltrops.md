@@ -1,2 +1,0 @@
-- Tiny, triangle-shaped iron spikes. 
-- Living creatures who step on caltrops take 1 damage and can only move at half speed for 10 rounds.

@@ -1,5 +1,5 @@
 ##### Tavern Encounters
-| `dice: d100` | **Details**                                                      |
+| `dice: d100` | Details                                                          |
 |:------------:| ---------------------------------------------------------------- |
 |      01      | A cloaked man (vampire) at the door asks to be invited in        |
 |    02-03     | `dice: 2d6` Overlord's Assassins sweep in and scan the crowd     |

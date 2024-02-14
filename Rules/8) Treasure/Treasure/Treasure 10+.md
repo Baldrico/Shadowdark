@@ -1,5 +1,5 @@
 ##### Treasure 10+
-| `dice: d100` | **Details**                                                |
+| `dice: d100` | Details                                                    |
 |:------------:| ---------------------------------------------------------- |
 |      01      | Three tarnished silver plates (5 sp each)                  |
 |    02-03     | Soapstone statuette of Gede with crumbled head (3 gp)      |

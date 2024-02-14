@@ -1,5 +1,5 @@
 ##### River and Coast Encounters
-| `dice: d100` | **Details**                                                               |
+| `dice: d100` | Details                                                                   |
 |:------------:| ------------------------------------------------------------------------- |
 |      01      | A tsunami overflows the shore, raising it 10' for `dice: 2d4 rounds       |
 |    02-03     | A clutch of `dice: d4` basilisks sun themselves on flat rocks             |

@@ -1,5 +1,5 @@
 ##### Arctic Encounters
-| `dice: d100` | **Details**                                                             |
+| `dice: d100` | Details                                                                 |
 |:------------:| ----------------------------------------------------------------------- |
 |      01      | An albino kraken twitches inside a glassy mountain of ice               |
 |    02-03     | `dice: 2d20` cannibalistic bandits led by a frost troll make camp       |

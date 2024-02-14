@@ -1,1 +1,0 @@
-- Grants advantage on checks to pry open stuck objects.

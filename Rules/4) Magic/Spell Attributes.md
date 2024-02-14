@@ -1,16 +1,16 @@
-## **Tiers**
+## Tiers
 Spells are classified according to their tiers, which range from 1-5.
 
-## **Range**
+## Range
 Range determines at what distance (close, near, or far) you can deliver the spell’s effects. Self range means you can only target yourself with the spell.
 
-## **Duration**
+## Duration
 Duration is how long the spell effects last. Spells can have an instant effect or last for several turns, rounds, or longer. See [[Spell Attributes#FOCUS]] for spells with a focus duration.
 
-## **Overlapping Effects**
+## Overlapping Effects
 Ongoing effects of the same spell on the same target do not combine. The spell with the most powerful effect takes precedence, such as the spell with the longer remaining duration.
 
-## **Focus**
+## Focus
 Some spells last for as long as you focus. You can’t cast other focus spells while focusing. You can end a focus spell at any time.
 
 To maintain focus, make a spellcasting check at the start of your turn as if you were casting that spell.

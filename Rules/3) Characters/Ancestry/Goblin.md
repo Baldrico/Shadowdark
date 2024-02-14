@@ -6,6 +6,6 @@ tags: ancestry
 
 You know the Common and Goblin languages.
 
-### Keen Senses.
-You can't be surprised.
+>[!check] Keen Senses.
+> You can't be surprised.
 

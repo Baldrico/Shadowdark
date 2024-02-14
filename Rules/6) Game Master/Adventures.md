@@ -3,7 +3,7 @@ For these adventure generators, use some or all of the details and names you rol
 For example, "Tower of the Deepwood Swamp" could also be "Tower by Deepwood Swamp" or "Deepwood Swamp Tower."
 
 ##### Adventure Generator
-| `dice: d20` | **Detail 1**   | **Detail 2** | **Detail 3**               |
+| `dice: d20` |   Detail 1     |   Detail 2   |   Detail 3                 |
 | ----------- | -------------- | ------------ | -------------------------- |
 | 1           | Rescue the     | Goblet       | Of the evil wizard         |
 | 2           | Find the       | Prisoner     | Stalking the wastes        |
@@ -28,7 +28,7 @@ For example, "Tower of the Deepwood Swamp" could also be "Tower by Deepwood Swam
 ^AdventureGenerator
 
 ##### Adventuring Site Name
-| `dice: d20` | **Name 1**        | **Name 2**    | **Name 3**  |
+| `dice: d20` |   Name 1          |   Name 2      |   Name 3    |
 | ----------- | ----------------- | ------------- | ----------- |
 | 1           | Mines of the      | Cursed        | Flame       |
 | 2           | Abbey of the      | Whispering    | Ghost       |

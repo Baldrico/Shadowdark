@@ -1,4 +1,4 @@
-*Blood-soaked gladiators in dented armor, acrobatic duelists with darting swords, or far-eyed elven archers who carve their legends with steel and grit.
+_Blood-soaked gladiators in dented armor, acrobatic duelists with darting swords, or far-eyed elven archers who carve their legends with steel and grit._
 
 ### Weapons: 
 All weapons
@@ -14,7 +14,7 @@ Choose one type of weapon, such as longswords. You gain +1 to attack and damage 
 Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity).
 
 ##### Fighter Talents
-| `dice: 2d6` | **Effect**                                              |
+| `dice: 2d6` |   Effect                                                |
 | ----------- | ------------------------------------------------------- |
 | 2           | Gain Weapon Mastery with one additional weapon type     |
 | 3-6         | +1 to melee and ranged attacks                          |

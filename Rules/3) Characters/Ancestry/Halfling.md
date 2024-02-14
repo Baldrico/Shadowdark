@@ -6,5 +6,5 @@ tags: ancestry
 
 You know the Common language.
 
-### Stealthy.
-Once per day, you can become invisible for 3 rounds.
+>[!check] Stealthy.
+> Once per day, you can become invisible for 3 rounds.

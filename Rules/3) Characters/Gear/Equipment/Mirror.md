@@ -1,0 +1,2 @@
+- A small, polished mirror.
+- Cost = 10gp

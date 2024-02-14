@@ -2,7 +2,7 @@
 
 The monster's Combat result is its attack bonus and LV. It deals 1d8 damage and has 1d4 attacks.
 
-##### **Monster Generator**
+##### Monster Generator
 | `dice: d20` | Combat | Quality     | Strength           | Weakness      |
 |:-----------:| ------ | ----------- | ------------------ | ------------- |
 |      1      | PL -3  | Beastlike   | +1 attack          | Cold          |

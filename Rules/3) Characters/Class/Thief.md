@@ -1,4 +1,4 @@
-*Rooftop assassins, grinning con-artists, or cloaked cat burglars who can pluck a gem from the claws of a sleeping demon and sell it for twice its worth.
+_Rooftop assassins, grinning con-artists, or cloaked cat burglars who can pluck a gem from the claws of a sleeping demon and sell it for twice its worth._
 
 ### Weapons:
 Club, crossbow, dagger, shortbow, shortsword
@@ -19,7 +19,7 @@ You are trained in the following tasks and have advantage on any associated chec
 - Delicate tasks such as picking pockets and opening locks
 
 ##### Thief Talents
-| `dice: 2d6` | **Effect**                                               |
+| `dice: 2d6` | Effect                                                   |
 |:-----------:| -------------------------------------------------------- |
 |      2      | Gain advantage on initiative rolls (reroll if duplicate) |
 |     3-5     | Your Backstab deals +1 dice of damage                    |

@@ -1,5 +1,5 @@
 ##### Jungle Encounters
-| `dice: d100` | **Details**                                                              |
+| `dice: d100` | Details                                                                  |
 |:------------:| ------------------------------------------------------------------------ |
 |      01      | Mossy, lifelike statues crop up; a medusa resides nearby                 |
 |    02-03     | A T-Rex thunders over the ground, looking for fresh meat                 |

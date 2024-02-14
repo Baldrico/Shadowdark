@@ -1,0 +1,4 @@
+.callout[data-callout="Spell"] {
+    --callout-color: 208, 129, 247;
+    --callout-icon: wand;
+}

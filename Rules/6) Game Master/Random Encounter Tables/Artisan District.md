@@ -1,5 +1,5 @@
 ##### Artisan District Encounters
-| `dice: d100` | **Details**                                                             |
+| `dice: d100` | Details                                                                 |
 |:------------:| ----------------------------------------------------------------------- |
 |      01      | An execution is about to happen; it's a PC's family member              |
 |    02-03     | An angry efreeti rises out of a tarnished, brass lamp                   |

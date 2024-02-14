@@ -4,8 +4,7 @@
 TABLE WITHOUT ID
 link(file.name, name) AS Spell,
 tier AS Tier,
-duration AS Duration,
-range AS Range
+duration AS Duration
 FROM #spell
 WHERE contains(class,"Wizard")
 SORT tier ASC, file.name ASC
@@ -17,14 +16,9 @@ SORT tier ASC, file.name ASC
 TABLE WITHOUT ID
 link(file.name, name) AS Spell,
 tier AS Tier,
-duration AS Duration,
-range AS Range
+duration AS Duration
 FROM #spell
 WHERE contains(class,"Priest")
 SORT tier ASC, file.name ASC
 ```
-
-
-
-
-
+^spells-priest

@@ -1,5 +1,5 @@
 ##### Character Names
-| `dice: d20` | **Dwarf** | **Elf** | **Goblin** | **Halfling** | **Half-Orc** | **Human** |
+| `dice: d20` | Dwarf     | Elf     | Goblin     | Halfling     | Half-Orc     | Human     |
 | ----------- | --------- | ------- | ---------- | ------------ | ------------ | --------- |
 | 1           | Hilde     | Eliara  | Iggs       | Willow       | Vara         | Zali      |
 | 2           | Torbin    | Ryarn   | Tark       | Benny        | Gralk        | Bram      |

@@ -1,5 +1,5 @@
 ##### Something Happens!
-| `dice: d100` | **Details**                                                  |
+| `dice: d100` | Details                                                      |
 |:------------:| ------------------------------------------------------------ |
 |      01      | The ground shakes violently and a massive fissure opens      |
 |    02-03     | An unseen foe leaps out of hiding at close range             |

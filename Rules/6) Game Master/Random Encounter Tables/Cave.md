@@ -1,5 +1,5 @@
 ##### Cave Encounters
-| `dice: d100` | **Details**                                                            |
+| `dice: d100` | Details                                                                |
 |:------------:| ---------------------------------------------------------------------- |
 |      01      | An enraged pair of manticores protect their `dice: d4` cubs            |
 |    02-03     | `dice: d6` possessed mushroomfolk charge in a murderous rage           |

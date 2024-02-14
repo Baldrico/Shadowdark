@@ -3,7 +3,7 @@ The GM determines a conscious magic item's alignment unless otherwise noted.
 A conscious item may make a contested CHA check (+2) to resist or insist on how it's used.
 
 ##### Item Virtue
-| `dice: d20` | **Details**                                                                    |
+| `dice: d20` |  Details                                                                       |
 |:-----------:| ------------------------------------------------------------------------------ |
 |      1      | Insists on protecting people and creatures it likes                            |
 |      2      | Warns its wielder if it senses impending danger                                |
@@ -28,7 +28,7 @@ A conscious item may make a contested CHA check (+2) to resist or insist on how 
 ^ItemVirtue
 
 ##### Item Flaw
-| `dice: d20` | **Details**                                                                     |
+| `dice: d20` |   Details                                                                       |
 |:-----------:| ------------------------------------------------------------------------------- |
 |      1      | Afraid of 1d4: **1.** the dark, **2.** vermin, **3.** heights, **4.** water     |
 |      2      | Preferred a past owner and always draws comparisons                             |
@@ -52,8 +52,8 @@ A conscious item may make a contested CHA check (+2) to resist or insist on how 
 |     20      | Pretends to know information it doesn't know                                    |
 ^ItemFlaw
 
-##### **Personality Trait**
-| `dice: d4` | **1**     | **2**     | **3**       | **4**      |
+##### Personality Trait
+| `dice: d4` |   1       |   2       |   3         |   4        |
 |:----------:| --------- | --------- | ----------- | ---------- |
 |     1      | Imperious | Polite    | Puritanical | Charming   |
 |     2      | Anxious   | Righteous | Critical    | Theatrical |

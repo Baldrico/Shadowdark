@@ -12,6 +12,7 @@ tags:
 name: Floating Disk
 aliases:
   - Disco flottante
+  - Floating Disk
 obsidianUIMode: preview
 ---
 # [[Floating-Disk|Floating Disk]]

@@ -15,15 +15,15 @@ Roll an alignment for the overall settlement or for each district. Treat chaotic
 Roll taverns on pg. 136 and shops on pg. 138.
 
 ##### Settlement Type
-| `dice: d6` | **Settlement Type** | **Dice** |
-|:----------:| ------------------- | -------- |
-|     1      | Village             | 3d4      |
-|    2-3     | Town                | 4d4      |
-|    4-5     | City                | 6d6      |
-|     6      | Metropolis          | 8d8      |
+| `dice: d6` | Settlement Type | Dice |
+|:----------:| --------------- |:----:|
+|     1      | Village         | 3d4  |
+|    2-3     | Town            | 4d4  |
+|    4-5     | City            | 6d6  |
+|     6      | Metropolis      | 8d8  |
 ^SettlementType
 ##### Districts
-| `dice: d8` | **District Type**   |
+| `dice: d8` | District Type       |
 |:----------:| ------------------- |
 |     1      | Slums               |
 |     2      | Low district        |
@@ -35,14 +35,14 @@ Roll taverns on pg. 136 and shops on pg. 138.
 |     8      | Castle district     |
 ^Districts
 ##### Alignment
-| `dice: d6` | **Alignment** |
-|:----------:| ------------- |
-|    1-3     | Lawful        |
-|    4-5     | Neutral       |
-|     6      | Chaotic       |
+| `dice: d6` | Alignment   |
+|:----------:| ----------- |
+|    1-3     | [[Lawful]]  |
+|    4-5     | [[Neutral]] |
+|     6      | [[Chaotic]] |
 ^Alignment
 ##### Slums
-| `dice: d6` | **Point of Interest** |
+| `dice: d6` | Point of Interest     |
 |:----------:| --------------------- |
 |     1      | Seedy flophouse       |
 |    2-3     | Poor tavern           |
@@ -51,33 +51,33 @@ Roll taverns on pg. 136 and shops on pg. 138.
 |     6      | Witch/warlock's hovel |
 ^Slums
 ##### Low District
-| `dice: d6` | **Point of Interest** |
-|:----------:| --------------------- |
-|     1      | Graveyard             |
-|    2-3     | Poor tavern           |
-|     4      | Poor shop             |
-|     5      | Standard shop         |
-|     6      | Warehouses/sheds      |
+| `dice: d6` | Point of Interest |
+|:----------:| ----------------- |
+|     1      | Graveyard         |
+|    2-3     | Poor tavern       |
+|     4      | Poor shop         |
+|     5      | Standard shop     |
+|     6      | Warehouses/sheds  |
 ^LowDistrict
 ##### Artisan District
-| `dice: d6` | **Point of Interest** |
-| :--------: | --------------------- |
-| 1          | Stocks and pillories  |
-| 2-3        | Modest temple         |
-| 4-5        | Standard tavern       |
-| 6          | Wealthy shop          |
+| `dice: d6` | Point of Interest    |
+|:----------:| -------------------- |
+|     1      | Stocks and pillories |
+|    2-3     | Modest temple        |
+|    4-5     | Standard tavern      |
+|     6      | Wealthy shop         |
 ^ArtisanDistrict
 ##### High District
-| `dice: d6` | **Point of Interest** |
-|:----------:| --------------------- |
-|     1      | Guildhouse            |
-|    2-3     | Wealthy tavern        |
-|     4      | Manor house           |
-|     5      | Wealthy shop          |
-|     6      | City Watch outpost    |
+| `dice: d6` | Point of Interest  |
+|:----------:| ------------------ |
+|     1      | Guildhouse         |
+|    2-3     | Wealthy tavern     |
+|     4      | Manor house        |
+|     5      | Wealthy shop       |
+|     6      | City Watch outpost |
 ^HighDistrict
 ##### Market
-| `dice: d6` | **Point of Interest** |
+| `dice: d6` | Point of Interest     |
 |:----------:| --------------------- |
 |     1      | Fortune teller        |
 |    2-4     | Rare and exotic goods |
@@ -85,24 +85,24 @@ Roll taverns on pg. 136 and shops on pg. 138.
 |     6      | Illicit black market  |
 ^Market
 ##### Temple District
-| `dice: d6` | **Point of Interest** |
-|:----------:| --------------------- |
-|     1      | Ruined temple         |
-|    2-3     | Minor deity's chapel  |
-|     4      | Forbidden shrine      |
-|     5      | Major god's temple    |
-|     6      | Revered holy site     |
+| `dice: d6` | Point of Interest    |
+|:----------:| -------------------- |
+|     1      | Ruined temple        |
+|    2-3     | Minor deity's chapel |
+|     4      | Forbidden shrine     |
+|     5      | Major god's temple   |
+|     6      | Revered holy site    |
 ^TempleDistrict
 ##### University District
-| `dice: d6` | **Point of Interest** |
-|:----------:| --------------------- |
-|     1      | Library               |
-|    2-3     | Lecture hall          |
-|    4-5     | Standard tavern       |
-|     6      | Wizard's tower        |
+| `dice: d6` | Point of Interest |
+|:----------:| ----------------- |
+|     1      | Library           |
+|    2-3     | Lecture hall      |
+|    4-5     | Standard tavern   |
+|     6      | Wizard's tower    |
 ^UniversityDistrict
 ##### Castle District
-| `dice: d6` | **Point of Interest** |
+| `dice: d6` | Point of Interest     |
 |:----------:| --------------------- |
 |     1      | Royal bathhouse       |
 |    2-3     | City Watch's garrison |

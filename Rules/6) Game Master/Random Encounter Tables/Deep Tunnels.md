@@ -1,5 +1,5 @@
 ##### Deep Tunnel Encounters
-| `dice: d100` | **Details**                                                             |
+| `dice: d100` | Details                                                                 |
 |:------------:| ----------------------------------------------------------------------- |
 |      01      | The Ten-Eyed Oracle drifts into sight, chattering of doom               |
 |    02-03     | `dice: d4` brain eaters walk surrounded by `dice: 3d6` duergar captives |

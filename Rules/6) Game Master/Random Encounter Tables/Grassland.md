@@ -1,5 +1,5 @@
 ##### Grassland Encounters
-| `dice: d100` | **Details**                                                        |
+| `dice: d100` | Details                                                            |
 |:------------:| ------------------------------------------------------------------ |
 |      01      | A roc passes overhead and then divebombs the PCs                   |
 |    02-03     | A hunting smilodon prowls through the tall grass                   |

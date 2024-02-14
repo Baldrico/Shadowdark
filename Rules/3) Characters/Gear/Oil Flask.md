@@ -1,2 +1,0 @@
-- Fuels a lantern for one hour of real time. 
-- One flask covers a close area and burns for 4 rounds, dealing 1d4 damage each round.

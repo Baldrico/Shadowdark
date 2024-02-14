@@ -23,7 +23,7 @@ Treasure typically occupies one gear slot (coins occupy one slot per 100), but t
 Characters can sell most treasure based on its material value, but they may need to find a curio collector to offload strange or obscure items.
 
 ## Magic Item Values
-Magic items can rarely be bought or sold. In such a case, weak magic items are worth 1d6 x 100 gp. Powerful ones, if not priceless, are worth 2d6 x 100 gp.
+Magic items can rarely be bought or sold. In such a case, weak magic items are worth 1d6 x 100gp. Powerful ones, if not priceless, are worth 2d6 x 100gp.
 
 
 

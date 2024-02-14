@@ -1,4 +1,4 @@
-To make a **Shadowdark RPG** character (also called a player character, or PC ), grab your dice, a blank character sheet, and go through the next few pages. You can also view a walkthrough at youtube.com/thearcanelibrary.
+To make a **_Shadowdark RPG_** character (also called a player character, or PC ), grab your dice, a blank character sheet, and go through the next few pages. You can also view a walkthrough at youtube.com/thearcanelibrary.
 
 ## [[Character Names]]
 Choose a worthy name for your adventurer.

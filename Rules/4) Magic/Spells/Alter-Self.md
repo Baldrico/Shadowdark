@@ -4,8 +4,8 @@ aliases:
   - Alter Self
 tier: 2
 class:
-  - Priest
-  - Wizard
+  - "[Priest]]"
+  - "[[Wizard]"
 duration: 5 rounds
 range: Self
 source: Core

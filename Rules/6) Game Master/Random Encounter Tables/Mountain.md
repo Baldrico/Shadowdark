@@ -1,5 +1,5 @@
 ##### Mountain Encounters
-| `dice: d100` | **Details**                                                           |
+| `dice: d100` | Details                                                               |
 |:------------:| --------------------------------------------------------------------- |
 |      01      | A howling blizzard or thunderstorm bars travel for 1d4 days           |
 |    02-03     | `dice: 2d20` goblins led by a goat giant swarm over the cliffs        |

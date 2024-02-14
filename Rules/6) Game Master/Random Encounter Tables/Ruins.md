@@ -1,5 +1,5 @@
 ##### Ruins Encounters
-| `dice: d100` | **Details**                                                            |
+| `dice: d100` | Details                                                                |
 |:------------:| ---------------------------------------------------------------------- |
 |      01      | A mutated cave brute explodes through a crumbling wall                 |
 |    02-03     | A silent gelatinous cube sweeps up a corridor                          |

@@ -1,1 +1,0 @@
-- A small fire starter. With it, routine attempts to light a fire always succeed.

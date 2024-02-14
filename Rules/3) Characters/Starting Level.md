@@ -22,9 +22,9 @@ These characters are tougher than their 0-level counterparts and have more defin
 
 1st-level characters start with:
 - [[Stats]], pg. 15
-- Choice of ancestry, pg. 16
+- Choice of [[Ancestry|ancestry]], pg. 16
 - Choice of class, pg. 18-
-- One class talent roll
+- One class talent roll [[Bard#Bard Talents|Bard]], [[Fighter#Fighter Talents|Fighter]], [[Priest#Priest Talents|Priest]], [[Ranger#Ranger Talents|Ranger]], [[Thief#Thief Talents|Thief]] & [[Wizard#Wizard Talents|Wizard]] 
 - Hit points equal to one roll of their class's hit points die + their Constitution modifier (minimum 1); these replace the hit points the character had at level 0
 - [[Background]], pg. 26
 - Choice of alignment, pg. 27

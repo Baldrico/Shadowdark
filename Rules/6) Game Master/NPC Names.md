@@ -2,7 +2,7 @@ The **NPC Names By Ancestry** table has no repeats from the [[Character Names]] 
 
 For the NPC Names By Syllable table, use some or all of the generated syllables.
 ##### NPC Names By Ancestry
-| `dice: d20` | **Dwarf** | **Elf**  | **Goblin** | **Halfling** | **Half-Orc** | **Human** |
+| `dice: d20` |   Dwarf   |   Elf    |   Goblin   |   Halfling   |   Half-Orc   |   Human   |
 |:-----------:| --------- | -------- | ---------- | ------------ | ------------ | --------- |
 |      1      | Hera      | Sarenia  | Kog        | Myrtle       | Troga        | Hesta     |
 |      2      | Torin     | Ravos    | Dibbs      | Robby        | Boraal       | Matteo    |
@@ -26,7 +26,7 @@ For the NPC Names By Syllable table, use some or all of the generated syllables.
 |     20      | Orgo      | Varond   | Kreeb      | Wendry       | Ziraak       | Nabilo    |
 ^NPCNames
 ##### NPC Names By Syllable
-| `dice: d20` | **Prefix** | **Syllable 2** | **Syllable 3* | **Suffix** |
+| `dice: d20` |   Prefix   |   Syllable 2   |   Syllable 3  |   Suffix   |
 |:-----------:| ---------- | -------------- | ------------- | ---------- |
 |      1      | Ir-        | an             | l             | -int       |
 |      2      | Van-       | ish            | n             | -us        |
@@ -49,7 +49,7 @@ For the NPC Names By Syllable table, use some or all of the generated syllables.
 |     20      | Lem-       | nar            | w             | -ynne      |
 ^NPCNamesSyllable
 ##### Identifier
-| `dice: d4` | **1**        | **2**       | **3**      | **4**       |
+| `dice: d4` |   1          |   2         |   3        |   4         |
 |:----------:| ------------ | ----------- | ---------- | ----------- |
 |     1      | The Gray     | One-Eye     | The Lesser | The Cunning |
 |     2      | Silvertongue | The Outcast | Fasthands  | The Bold    |

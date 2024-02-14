@@ -1,4 +1,4 @@
-These are **Shadowdark RPG's** core principles and foundations.
+These are **_Shadowdark RPG's_** core principles and foundations.
 
 ## Time
 The most important resource. It must haunt the characters' every decision. They don't have time to search every floor tile for a trap.

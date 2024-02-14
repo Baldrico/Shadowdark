@@ -1,5 +1,5 @@
 ##### University District Encounters
-| `dice: d100` | **Details**                                                         |
+| `dice: d100` | Details                                                             |
 |:------------:| ------------------------------------------------------------------- |
 |      01      | A drunk apprentice wizard summons a furious marilith                |
 |    02-03     | Grabbing tentacles erupt through a sewer grate                      |

@@ -1,24 +1,24 @@
 ##### Armor Type
-| `dice: 2d6` | **Type**         |
+| `dice: 2d6` | Type             |
 |:-----------:| ---------------- |
 |     2-5     | Leather          |
 |     6-7     | Chainmail        |
 |     8-9     | Shield           |
 |    10-11    | Plate mail       |
-|     12      | Mithral + reroll |
+|     12      | Mithril + reroll |
 ^ArmorType
 
 ##### Armor Bonus
-| `dice: 2d6` | **Bonus** |
-|:-----------:| --------- |
-|     2-5     | +0        |
-|     6-8     | +1        |
-|    9-11     | +2        |
-|     12      | +3        |
+| `dice: 2d6` | Bonus |
+|:-----------:| ----- |
+|     2-5     | +0    |
+|     6-8     | +1    |
+|    9-11     | +2    |
+|     12      | +3    |
 ^ArmorBonus
 
 ##### Armor Feature
-| `dice: d20` | **Details**              |
+| `dice: d20` | Details                  |
 |:-----------:| ------------------------ |
 |      1      | Demonic horned face      |
 |      2      | Oak leaf motif           |
@@ -43,7 +43,7 @@
 ^ArmorFeature
 
 ##### Armor Curse
-| `dice: d12` | **Details**                                                  |
+| `dice: d12` | Details                                                      |
 |:-----------:| ------------------------------------------------------------ |
 |      1      | You take 2d10 damage if you remove this armor                |
 |      2      | Your party cannot add CHA bonuses to reaction checks         |
@@ -60,7 +60,7 @@
 ^ArmorCurse
 
 ##### Armor Benefit
-| `dice: d12` | **Details**                                                |
+| `dice: d12` | Details                                                    |
 |:-----------:| ---------------------------------------------------------- |
 |      1      | Once per day, deflect a ranged attack that would hit you   |
 |      2      | Checks to stabilize you are easy (DC 9)                    |

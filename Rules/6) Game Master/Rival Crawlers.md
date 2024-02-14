@@ -3,36 +3,36 @@ A rival party of Shadowdark crawlers has `dice: 1d4 + 1` members. All are of the
 Roll `dice: d6` to determine each rival crawler's starting level.
 
 ##### Ancestry
-| `dice: d12` | **Ancestry** |
-|:-----------:| ------------ |
-|     1-4     | Human        |
-|     5-6     | Elf          |
-|     7-8     | Dwarf        |
-|    9-10     | Halfling     |
-|     11      | Half-orc     |
-|     12      | Goblin       |
+| `dice: d12` | Ancestry |
+|:-----------:| -------- |
+|     1-4     | Human    |
+|     5-6     | Elf      |
+|     7-8     | Dwarf    |
+|    9-10     | Halfling |
+|     11      | Half-orc |
+|     12      | Goblin   |
 ##### Class
-| `dice: d4` | **Class** |
-|:----------:| --------- |
-|     1      | Fighter   |
-|     2      | Priest    |
-|     3      | Thief     |
-|     4      | Wizard    |
+| `dice: d4` | Class   |
+|:----------:| ------- |
+|     1      | Fighter |
+|     2      | Priest  |
+|     3      | Thief   |
+|     4      | Wizard  |
 ##### Alignment
-| `dice: d6` | **Party Alignment** |
-|:----------:| ------------------- |
-|    1-2     | Lawful              |
-|    3-4     | Neutral             |
-|    5-6     | Chaotic             |
+| `dice: d6` | Party Alignment |
+|:----------:| --------------- |
+|    1-2     | Lawful          |
+|    3-4     | Neutral         |
+|    5-6     | Chaotic         |
 ##### Renown
- | `dice: d6` | **Party Renown**  |
+ | `dice: d6` | Party Renown      |
  |:----------:| ----------------- |
  |     1      | Unknown           |
  |    2-3     | Locally known     |
  |    4-5     | Widely recognized |
  |     6      | Extremely famous  |
 ##### Secret
-| `dice: 2d6` | **Party Secret**          |
+| `dice: 2d6` | Party Secret              |
 |:-----------:| ------------------------- |
 |      2      | Betrayed an oath          |
 |     3-4     | False/stolen identities   |
@@ -41,14 +41,14 @@ Roll `dice: d6` to determine each rival crawler's starting level.
 |    9-11     | Suffering a curse         |
 |     12      | Has a powerful patron     |
 ##### Wealth
- | `dice: d6` | **Party Wealth** |
- |:----------:| ---------------- |
- |     1      | Poor             |
- |    2-4     | Standard         |
- |     5      | Wealthy          |
- |     6      | Extravagant      |
+ | `dice: d6` | Party Wealth |
+ |:----------:| ------------ |
+ |     1      | Poor         |
+ |    2-4     | Standard     |
+ |     5      | Wealthy      |
+ |     6      | Extravagant  |
 ##### Party Name
- | `dice: d20` | **Name 1**     | **Name 2** | **Known For...**             |
+ | `dice: d20` | Name 1         | Name 2     | Known For...                 |
  |:-----------:| -------------- | ---------- | ---------------------------- |
  |      1      | The Savage     | Wardens    | Defeating a dragon           |
  |      2      | The Steel      | Skulls     | Specializing in undead       |
@@ -71,7 +71,7 @@ Roll `dice: d6` to determine each rival crawler's starting level.
  |     19      | The Thundering | Knights    | Defeating a necromancer      |
  |     20      | The Divine     | Hunters    | Poaching treasure finds      |
 ##### Signature Tactics
-| `dice: d4` | **Lawful**        | **Neutral**     | **Chaotic**         |
+| `dice: d4` | Lawful            | Neutral         | Chaotic             |
 |:----------:| ----------------- | --------------- | ------------------- |
 |     1      | Always negotiate  | Scout and sneak | Ambush rivals       |
 |     2      | Fight honorably   | Follow rivals   | Sacrifice NPCs      |

@@ -1,5 +1,5 @@
 ##### Tomb Encounters
-| `dice: d100` | **Details**                                                         |
+| `dice: d100` | Details                                                             |
 |:------------:| ------------------------------------------------------------------- |
 |      01      | A distracted, muttering lich teleports into the room                |
 |    02-03     | `dice: 2d4` wraiths emerge from walls, floors, and ceilings         |

@@ -1,0 +1,2 @@
+- Hemp, 60’ long.
+- Cost = 1gp

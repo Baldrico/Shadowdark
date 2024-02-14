@@ -2,6 +2,7 @@
 name: Hold Person
 aliases:
   - Trattieni Persona
+  - Hold Person
 tier: 2
 class:
   - Wizard

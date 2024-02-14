@@ -34,11 +34,11 @@ Per treasure find , each group should gain about 10 gp x their average party lev
 - 80 gp in value, levels 7-9
 
 ##### XP For Treasure Quality
-| **Quality** | **XP** | **Examples**                                        |
+|   Quality   |   XP   |   Examples                                          |
 | ----------- |:------:| --------------------------------------------------- |
 | Poor        |   0    | Bag of silver, used dagger, knucklebone dice        |
 | Normal      |   1    | Bag of gold, gem, fine armor, magic scroll          |
-| Fabulous    |   3    | Magic sword, giant diamond, mithral chainmail       |
+| Fabulous    |   3    | Magic sword, giant diamond, mithril chainmail       |
 | Legendary   |   10   | The Staff of Ord , a djinni's wish , a dragon hoard |
 ^XPForTreasureQuality
 

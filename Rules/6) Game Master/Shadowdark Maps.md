@@ -9,21 +9,21 @@ The site's **objective** or boss monster is located in the room with the highest
 Finally, roll for the dungeon's overall danger level.
 
 ##### Danger Level
-| `dice: d6` | **Level** |
-|:----------:| --------- |
-|    1-3     | Unsafe    |
-|    4-5     | Risky     |
-|     6      | Deadly    |
+| `dice: d6` | Level  |
+|:----------:| ------ |
+|    1-3     | Unsafe |
+|    4-5     | Risky  |
+|     6      | Deadly |
 ^DangerLevel
 ##### Site Size
-| `dice: d6` | **Type** | **Dice** |
-|:----------:| -------- |:--------:|
-|    1-2     | Small    |   5d10   |
-|    3-5     | Medium   |   8d10   |
-|     6      | Large    |  12d10   |
+| `dice: d6` | Type   | Dice  |
+|:----------:| ------ |:-----:|
+|    1-2     | Small  | 5d10  |
+|    3-5     | Medium | 8d10  |
+|     6      | Large  | 12d10 |
 ^SiteSize
 ##### Site Type
-| `dice: d6` | **Type**     |
+| `dice: d6` | Type         |
 |:----------:| ------------ |
 |    1-2     | Cave         |
 |     3      | Tomb         |
@@ -31,7 +31,7 @@ Finally, roll for the dungeon's overall danger level.
 |    5-6     | Ruins        |
 ^SiteType
 ##### Room Type
-| `dice: d10` | **Feature**  |
+| `dice: d10` | Feature      |
 |:-----------:| ------------ |
 |     1-2     | Empty        |
 |      3      | Trap         |
@@ -44,25 +44,25 @@ Finally, roll for the dungeon's overall danger level.
 |     10      | Boss monster |
 ^RoomType
 ##### Trap
-| `dice: d6` | **Detail** | **Detail** |
-|:----------:| ---------- | ---------- |
-|     1      | Crude      | Ensnaring  |
-|     2      | Ranged     | Toxic      |
-|    3-4     | Sturdy     | Mechanical |
-|     5      | Ancient    | Magical    |
-|     6      | Large      | Deadly     |
+| `dice: d6` | Detail  | Detail     |
+|:----------:| ------- | ---------- |
+|     1      | Crude   | Ensnaring  |
+|     2      | Ranged  | Toxic      |
+|    3-4     | Sturdy  | Mechanical |
+|     5      | Ancient | Magical    |
+|     6      | Large   | Deadly     |
 ^Trap
 ##### Monster Mob
-| `dice: d6` | **Detail** | **Detail** |
-|:----------:| ---------- | ---------- |
-|     1      | Stealthy   | Outcasts   |
-|    2-3     | Reckless   | Minions    |
-|     4      | Magical    | Tricksters |
-|     5      | Primitive  | Vermin     |
-|     6      | Organized  | Warriors   |
+| `dice: d6` | Detail    | Detail     |
+|:----------:| --------- | ---------- |
+|     1      | Stealthy  | Outcasts   |
+|    2-3     | Reckless  | Minions    |
+|     4      | Magical   | Tricksters |
+|     5      | Primitive | Vermin     |
+|     6      | Organized | Warriors   |
 ^MonsterMob
 ##### Minor Hazard
-| `dice: d6` | **Details**             |
+| `dice: d6` | Details             |
 |:----------:| ----------------------- |
 |     1      | Short fall              |
 |    2-3     | Stuck or locked barrier |
@@ -71,7 +71,7 @@ Finally, roll for the dungeon's overall danger level.
 |     6      | Enfeebling magic        |
 ^MinorHazard
 ##### Major Hazard
-| `dice: d6` | **Details**         |
+| `dice: d6` | Details             |
 |:----------:| ------------------- |
 |    1-2     | Long fall           |
 |     3      | Toxic gas or vapors |
@@ -80,15 +80,15 @@ Finally, roll for the dungeon's overall danger level.
 |     6      | Drowning hazard     |
 ^MajorHazard
 ##### Solo Monster
-| `dice: d6` | **Detail** | **Detail**  |
-|:----------:| ---------- | ----------- |
-|     1      | Sneaky     | Ambusher    |
-|    2-3     | Mighty     | Brute       |
-|    4-5     | Clever     | Spellcaster |
-|     6      | Mutated    | Pariah      |
+| `dice: d6` | Detail  | Detail      |
+|:----------:| ------- | ----------- |
+|     1      | Sneaky  | Ambusher    |
+|    2-3     | Mighty  | Brute       |
+|    4-5     | Clever  | Spellcaster |
+|     6      | Mutated | Pariah      |
 ^SoloMonster
 ##### Treasure
-| `dice: d6` | **Details**         |
+| `dice: d6` | Details             |
 |:----------:| ------------------- |
 |    1-2     | Hidden              |
 |    3-4     | Guarded by monster  |
@@ -96,7 +96,7 @@ Finally, roll for the dungeon's overall danger level.
 |     6      | Protected by hazard |
 ^Treasure
 ##### NPC
-| `dice: d6` | **Details**    |
+| `dice: d6` | Details        |
 |:----------:| -------------- |
 |     1      | Hiding         |
 |    2-3     | Captive        |
@@ -104,7 +104,7 @@ Finally, roll for the dungeon's overall danger level.
 |     6      | Rival crawlers |
 ^NPC
 ##### Boss Monster
-| `dice: d6` | **Details**          |
+| `dice: d6` | Details              |
 |:----------:| -------------------- |
 |     1      | Physically strongest |
 |     2      | Religious leader     |

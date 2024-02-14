@@ -19,5 +19,5 @@ Is a band of orcs chasing you and your companions down a hallway? Maybe tearing 
 None of the above ideas are listed on a character sheet. Although you should use your stats, spells, gear, and talents, don't limit yourself only to those.
 
 ## Onward!
-The next sections detail the core rules of Shadowdark RPG. Armed with your dice and your wits, you're ready to learn the legendary art of crawling. Stride boldly into the darkness!
+The next sections detail the core rules of **_Shadowdark RPG._** Armed with your dice and your wits, you're ready to learn the legendary art of crawling. Stride boldly into the darkness!
 

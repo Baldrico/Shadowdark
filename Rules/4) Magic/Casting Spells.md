@@ -37,13 +37,13 @@ Penance requires a holy quest, ritualistic atonement, or a material sacrifice th
 
 Inadequate or subversive penance (such as donating your sacrifice to a party member) only displeases your deity further and makes the spell loss permanent.
 
-##### **SACRIFICE VALUE**
+##### SACRIFICE VALUE
 | Spell Tier | Value  |
-| ---------- | ------ |
-| 1          | 5 gp   |
-| 2          | 20 gp  |
-| 3          | 40 gp  |
-| 4          | 90 gp  |
-| 5          | 150 gp |
+|:----------:|:------:|
+|     1      |  5 gp  |
+|     2      | 20 gp  |
+|     3      | 40 gp  |
+|     4      | 90 gp  |
+|     5      | 150 gp |
 
 

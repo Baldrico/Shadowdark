@@ -1,5 +1,5 @@
 ##### Low District Encounters
-| `dice: d100` | **Details**                                                               |
+| `dice: d100` | Details                                                                   |
 |:------------:| ------------------------------------------------------------------------- |
 |      01      | `dice: 3d6` zombies lurch out of a smoke-belching charnel house           |
 |    02-03     | A reaver and 4 bandits look for weaklings to shake down                   |

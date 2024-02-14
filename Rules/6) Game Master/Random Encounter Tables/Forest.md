@@ -1,5 +1,5 @@
 ##### Forest Encounters
-| `dice: d100` | **Details**                                                                |
+| `dice: d100` | Details                                                                    |
 |:------------:| -------------------------------------------------------------------------- |
 |      01      | `dice: 3d6` giant spiders fill this part of the forest with thick webs     |
 |    02-03     | A scavenging owlbear snorts around in the overgrowth                       |

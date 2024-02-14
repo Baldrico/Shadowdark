@@ -15,7 +15,7 @@ If the group decides to play out the results of an individual roll, the entire c
 | 300gp   | Two days of crawling dozens of taverns to sing, buy rounds, and celebrate                                                                                                                      | +2    |
 | 600gp   | A three-day voyage into the finest food, drink, and gambling you can find                                                                                                                      | +3    |
 | 900gp   | A hazy, weeklong bender that runs multiple well-known taverns dry                                                                                                                              | +4    |
-| 1,200gp | A spirited fete lasting ten days that attracts hordes of revelers and takes over an entire town or a city district                                                                             | +5    |
+| 1,200gp | A spirited fete lasting ten days that attracts hordes of revellers and takes over an entire town or a city district                                                                             | +5    |
 | 1,800gp | Two legendary weeks of drinking and debauchery widespread enough to take over a whole city. It attracts countless celebrants, including famous nobles and bards; the streets run red with wine | +6    |
 ^CarousingEvents
 ##### Carousing Outcome

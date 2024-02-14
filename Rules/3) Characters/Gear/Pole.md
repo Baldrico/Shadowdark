@@ -1,1 +1,0 @@
-- Wooden, 10' long.

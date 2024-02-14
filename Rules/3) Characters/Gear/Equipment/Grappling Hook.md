@@ -1,0 +1,2 @@
+- A rope anchor with three curved tines.
+- Cost = 1gp

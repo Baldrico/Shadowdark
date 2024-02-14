@@ -1,0 +1,3 @@
+- Ammunition for shortbows or longbows.
+- Sold in bundles of 20
+- Cost = 1gp

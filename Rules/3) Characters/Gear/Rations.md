@@ -1,2 +1,0 @@
-- One day of food and water supply for one person.
-- Sold in packets of 3

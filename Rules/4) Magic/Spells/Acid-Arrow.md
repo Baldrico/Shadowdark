@@ -2,19 +2,18 @@
 Created: 08/02/24
 System: Shadowdark
 tier: 2
-class:
-  - Wizard
+class: 
+	- Wizard
 duration: Focus
 range: Far
 source: Core
 tags:
   - spell
 obsidianUIMode: preview
-name: Acid Arrow
+name: "[[Acid-Arrow|Acid  Arrow]]"
 aliases:
-  - Acid  Arrow
-  - Freccia  Acida
-
+  - Acid Arrow
+  - Freccia Acida
 ---
 # [[Acid-Arrow|Acid Arrow]]
 

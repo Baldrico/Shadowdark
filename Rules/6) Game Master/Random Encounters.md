@@ -38,6 +38,9 @@ When the characters encounter new creatures, roll to determine the creatures' cu
 ^Activity
 
 ## Reaction Check
+
+^11e3e7
+
 When the characters encounter random creatures, the GM rolls for the creatures' attitude (if it would not already be clear).
 
 If the characters immediately interact with the creatures to influence their attitude, one of the interacting characters may **add their Charisma modifier** to the reaction check.

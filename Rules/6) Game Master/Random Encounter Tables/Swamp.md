@@ -1,5 +1,5 @@
 ##### Swamp Encounters
-| `dice: d100` | **Details**                                                                     |
+| `dice: d100` | Details                                                                         |
 |:------------:| ------------------------------------------------------------------------------- |
 |      01      | A 3x mutated otyugh (see pg. 191) rises out of the muck                         |
 |    02-03     | 'Thorash' the swamp dragon (C) lurks in shallow water                           |

@@ -1,5 +1,5 @@
 ##### Utility Feature
-| `dice: d20` | **Details**                 |
+| `dice: d20` | Details                     |
 |:-----------:| --------------------------- |
 |      1      | Shaped like a raven         |
 |      2      | Iridescent                  |
@@ -24,7 +24,7 @@
 ^UtilityFeature
 
 ##### Utility Type
-| `dice: d20` | **Type**    |
+| `dice: d20` | Type        |
 |:-----------:| ----------- |
 |      1      | Brooch      |
 |      2      | Ring        |
@@ -49,7 +49,7 @@
 ^UtilityType
 
 ##### Utility Curse
-| `dice: d12` | **Details**                                                 |
+| `dice: d12` | Details                                                     |
 |:-----------:| ----------------------------------------------------------- |
 |      1      | Slowly rots all other non-magical items that touch it       |
 |      2      | Deals 1d4 damage and leaves blisters whenever used          |
@@ -66,7 +66,7 @@
 ^UtilityCurse
 
 ##### Utility Benefit
-| `dice: d12` | **Details**                                                       |
+| `dice: d12` | Details                                                           |
 |:-----------:| ----------------------------------------------------------------- |
 |      1      | You can't be magically scryed upon or detected                    |
 |      2      | Connects to an interdimensional pocket with 5 gear slots          |

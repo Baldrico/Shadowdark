@@ -1,5 +1,5 @@
 ##### Poor Shop
-| `dice: d12` | **Shop**              |
+| `dice: d12` | Shop                  |
 |:-----------:| --------------------- |
 |      1      | Filthy bakery         |
 |      2      | Used adventuring gear |
@@ -15,7 +15,7 @@
 |     12      | Drug den              |
 ^PoorShop
 ##### Standard Shop
-| `dice: d10` | **Shop**             |
+| `dice: d10` | Shop                 |
 |:-----------:| -------------------- |
 |      1      | Brewer               |
 |      2      | Butcher              |
@@ -29,7 +29,7 @@
 |     10      | Livestock            |
 ^StandardShop
 ##### Wealthy Shop
-| `dice: d10` | **Shop**            |
+| `dice: d10` | Shop            |
 |:-----------:| ------------------- |
 |      1      | Fine tailor         |
 |      2      | Glassblower         |
@@ -43,7 +43,7 @@
 |     10      | Antiques and curios |
 ^WealthyShop
 ##### Shop Generator
-| `dice: d20` | **Name**    | **Name**    | **Known For...**             |
+| `dice: d20` | Name        | Name        | Known For...                 |
 |:-----------:| ----------- | ----------- | ---------------------------- |
 |      1      | Fink &      | Sons        | Ancient, beloved owner       |
 |      2      | Imperial    | Toad        | Buying anything of value     |

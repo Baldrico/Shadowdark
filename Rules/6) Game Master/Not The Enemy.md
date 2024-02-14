@@ -4,7 +4,7 @@ You're not the players' enemy; you're portraying the world as it is. Roll your d
 **_Shadowdark RPG_** has the following mechanics that tempt the players into taking risks.
 
 ### Random encounters.
-Characters push their luck the longer they linger in dangerous areas. Not all wandering monsters are hostile (see Reaction Check, pg. 113), but there's no guarantee.
+Characters push their luck the longer they linger in dangerous areas. Not all wandering monsters are hostile (see [[Random Encounters#Reaction Check]] pg. 113), but there's no guarantee.
 
 ### Light timers.
 If the characters run out of light, they have a poor chance of surviving a monster attack or deadly trap.

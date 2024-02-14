@@ -1,5 +1,5 @@
 ##### Ocean Encounters
-| `dice: d100` | **Details**                                                           |
+| `dice: d100` | Details                                                               |
 |:------------:| --------------------------------------------------------------------- |
 |      01      | A massive whirlpool opens up, threatening all ships within            |
 |    02-03     | An angry storm giant asks why the PCs are in her realm                |

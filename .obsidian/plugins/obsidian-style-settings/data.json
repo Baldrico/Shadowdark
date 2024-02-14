@@ -8,6 +8,10 @@
   "things-style@@h5-color": "#6C99BB",
   "things-style@@h4-color": "#A8C373",
   "things-style@@fancy-highlight": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "things-style@@default-font-color": false,
+  "things-style@@strong-color": "#000000",
   "things-style@@em-color": "#969696",
-  "things-style@@strong-color": "#000000"
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h2-l": true
 }

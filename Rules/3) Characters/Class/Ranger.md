@@ -1,4 +1,4 @@
-*Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds their home.*
+_Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds their home._
 
 ### Weapons: 
 Dagger, longbow, longsword, shortbow, shortsword, spear, staff
@@ -25,7 +25,7 @@ Make an INT check to prepare an herbal remedy you choose. If you fail, you can't
 | 15  | Curative. Equivalent to a Potion of Healing                                                    |
 ^HerbalRemedy
 ##### Ranger Talents
-| `dice: 2d6` | **Effect**                                               |
+| `dice: 2d6` | Effect                                                   |
 | ----------- | -------------------------------------------------------- |
 | 2           | You deal d12 damage with one weapon type you choose      |
 | 3-6         | +1 to melee or ranged attacks and damage                 |
