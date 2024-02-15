@@ -10,9 +10,9 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
 # [[Misty-Step|Misty Step]]
 

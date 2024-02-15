@@ -11,11 +11,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Restoration]]
+# [[Rules/4) Magic/Spells/Restoration]]
 
 >[!summary]
 > *Tier* 3

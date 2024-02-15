@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Telekinesis]]
+# [[Rules/4) Magic/Spells/Telekinesis]]
 
 >[!summary]
 > *Tier* 4

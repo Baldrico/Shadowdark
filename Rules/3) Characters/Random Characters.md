@@ -31,11 +31,11 @@ Make selections for your character if no table is provided.
 ##### Priest Spells
 | `dice: d6` | Spell                    |
 |:----------:| ------------------------ |
-|     1      | [[Light]]                |
+|     1      | [[WIP/Spells/Imported Spells/SPELL 1/Light]]                |
 |     2      | [[Cure Wounds]]          |
 |     3      | [[Holy Weapon]]          |
 |     4      | [[Protection From Evil]] |
-|     5      | [[Shield of Faith]]      |
+|     5      | [[Shield Of Faith]]      |
 |     6      | Reroll                   |
 ^Priest
 
@@ -78,18 +78,18 @@ Make selections for your character if no table is provided.
 ##### Wizard Spells
 | `dice: d12` | Spell                    |
 |:-----------:| ------------------------ |
-|      1      | [[Alarm]]                |
+|      1      | [[WIP/Spells/Imported Spells/SPELL 1/Alarm]]                |
 |      2      | [[Burning Hands]]        |
 |      3      | [[Charm Person]]         |
 |      4      | [[Detect Magic]]         |
 |      5      | [[Feather Fall]]         |
 |      6      | [[Floating Disk]]        |
 |      7      | [[Hold Portal]]          |
-|      8      | [[Light]]                |
+|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Light]]                |
 |      9      | [[Mage Armor]]           |
 |     10      | [[Magic Missile]]        |
 |     11      | [[Protection From Evil]] |
-|     12      | [[Sleep]]                |
+|     12      | [[WIP/Spells/Imported Spells/SPELL 1/Sleep]]                |
 ^WizardSpells
 
 ##### Alignment

@@ -10,5 +10,5 @@ source: Core
 
 >[!check] Benefit
 >- Rubbing the lamp causes its resident [[djinni]] (50% chance) or [[efreeti]] (50% chance) to emerge. 
->- A djinni grants its summoner one [[Wish]] spell (pg. 73) before disappearing. 
+>- A djinni grants its summoner one [[WIP/Spells/Imported Spells/SPELL 1/Wish]] spell (pg. 73) before disappearing. 
 >- An efreeti does the same, but only after being defeated in combat.

@@ -10,11 +10,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Passwall]]
+# [[Rules/4) Magic/Spells/Passwall]]
 
 >[!summary]
 > *Tier* 4

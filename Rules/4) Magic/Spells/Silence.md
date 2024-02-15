@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Silence]]
+# [[Rules/4) Magic/Spells/Silence]]
 
 >[!summary]
 > *Tier* 2

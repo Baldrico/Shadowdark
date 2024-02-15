@@ -11,9 +11,9 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
 # [[Magic-Missile|Magic Missile]]
 

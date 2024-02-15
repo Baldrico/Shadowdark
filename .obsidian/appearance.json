@@ -3,9 +3,7 @@
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Malgun Gothic",
   "enabledCssSnippets": [
-    "Shrink Heading Gap",
-    "Custom Callout - Spell",
-    "Custom Callout - Talent"
+    "Shrink Heading Gap"
   ],
   "theme": "obsidian"
 }

@@ -11,11 +11,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Wrath]]
+# [[Rules/4) Magic/Spells/Wrath]]
 
 >[!summary]
 > *Tier* 4

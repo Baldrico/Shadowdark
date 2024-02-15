@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Wish]]
+# [[Rules/4) Magic/Spells/Wish]]
 
 >[!summary]
 > *Tier* 5

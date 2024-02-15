@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Fireball]]
+# [[Rules/4) Magic/Spells/Fireball]]
 
 >[!summary]
 > *Tier* 3

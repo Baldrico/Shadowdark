@@ -11,11 +11,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Prophecy]]
+# [[Rules/4) Magic/Spells/Prophecy]]
 
 >[!summary]
 > *Tier* 5

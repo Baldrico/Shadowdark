@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Shapechange]]
+# [[Rules/4) Magic/Spells/Shapechange]]
 
 >[!summary]
 > *Tier* 5

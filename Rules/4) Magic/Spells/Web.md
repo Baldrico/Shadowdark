@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Web]]
+# [[Rules/4) Magic/Spells/Web]]
 
 >[!summary]
 > *Tier* 2

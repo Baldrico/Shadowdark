@@ -46,18 +46,18 @@
 ##### Tier 1
 | `dice: d12` | Spell                                          |
 |:-----------:| ---------------------------------------------- |
-|      1      | [[Alarm]]                                      |
+|      1      | [[WIP/Spells/Imported Spells/SPELL 1/Alarm]]                                      |
 |      2      | [[Burning-Hands\|Burning Hands]]               |
 |      3      | [[Charm-Person\|Charm Person]]                 |
 |      4      | [[Detect-Magic\|Detect Magic]]                 |
 |      5      | [[Feather-Fall\|Feather Fall]]                 |
 |      6      | [[Floating-Disk\|Floating Disk]]               |
 |      7      | [[Hold-Portal\|Hold Portal]]                   |
-|      8      | [[Light]]                                      |
+|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Light]]                                      |
 |      9      | [[Mage-Armor\|Mage Armor]]                     |
 |     10      | [[Magic-Missile\|Magic Missile]]               |
 |     11      | [[Protection-From-Evil\|Protection from Evil]] |
-|     12      | [[Sleep]]                                      |
+|     12      | [[WIP/Spells/Imported Spells/SPELL 1/Sleep]]                                      |
 ^Tier1
 
 ##### Tier 2
@@ -68,13 +68,13 @@
 |      3      | [[Detect-Thoughs\|Detect Thoughts]] |
 |      4      | [[Fixed-Object\|Fixed Object]]     |
 |      5      | [[Hold-Person\|Hold Person]]       |
-|      6      | [[Invisibility]]                   |
-|      7      | [[Knock]]                          |
-|      8      | [[Levitate]]                       |
+|      6      | [[WIP/Spells/Imported Spells/SPELL 1/Invisibility]]                   |
+|      7      | [[WIP/Spells/Imported Spells/SPELL 1/Knock]]                          |
+|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Levitate]]                       |
 |      9      | [[Mirror-Image\|Mirror Image]]     |
 |     10      | [[Misty-Step\|Misty Step]]         |
-|     11      | [[Silence]]                        |
-|     12      | [[Web]]                            |
+|     11      | [[WIP/Spells/Imported Spells/SPELL 1/Silence]]                        |
+|     12      | [[WIP/Spells/Imported Spells/SPELL 1/Web]]                            |
 ^Tier2
 
 ##### Tier 3
@@ -82,15 +82,15 @@
 |:-----------:| -------------------------------------------------- |
 |      1      | [[Animate-Dead\|Animate Dead]]                     |
 |      2      | [[Dispel-Magic\|Dispel Magic]]                     |
-|      3      | [[Fabricate]]                                      |
-|      4      | [[Fireball]]                                       |
-|      5      | [[Fly]]                                            |
+|      3      | [[WIP/Spells/Imported Spells/SPELL 1/Fabricate]]                                      |
+|      4      | [[WIP/Spells/Imported Spells/SPELL 1/Fireball]]                                       |
+|      5      | [[WIP/Spells/Imported Spells/SPELL 1/Fly]]                                            |
 |      6      | [[Gaseous-Form\|Gaseous Form]]                     |
-|      7      | [[Illusion]]                                       |
+|      7      | [[WIP/Spells/Imported Spells/SPELL 1/Illusion]]                                       |
 |      8      | [[Lightning-Bolt\|Lightning Bolt]]                 |
 |      9      | [[Magic-Circle\|Magic Circle]]                     |
 |     10      | [[Protection-From-Energy\|Protection from Energy]] |
-|     11      | [[Sending]]                                        |
+|     11      | [[WIP/Spells/Imported Spells/SPELL 1/Sending]]                                        |
 |     12      | [[Speak-with-Dead\|Speak with Dead]]               |
 ^Tier3
 
@@ -98,16 +98,16 @@
 | `dice: d12` | Spell                                  |
 |:-----------:| -------------------------------------- |
 |      1      | [[Arcane-Eye\|Arcane Eye]]             |
-|      2      | [[Cloudkill]]                          |
-|      3      | [[Confusion]]                          |
+|      2      | [[WIP/Spells/Imported Spells/SPELL 1/Cloudkill]]                          |
+|      3      | [[WIP/Spells/Imported Spells/SPELL 1/Confusion]]                          |
 |      4      | [[Control-Water\|Control Water]]       |
 |      5      | [[Dimension-door\|Dimension Door]]     |
 |      6      | [[Divination]]                         |
-|      7      | [[Passwall]]                           |
-|      8      | [[Polymorph]]                          |
+|      7      | [[WIP/Spells/Imported Spells/SPELL 1/Passwall]]                           |
+|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Polymorph]]                          |
 |      9      | [[Resilient-Sphere\|Resilient Sphere]] |
-|     10      | [[Stoneskin]]                          |
-|     11      | [[Telekinesis]]                        |
+|     10      | [[WIP/Spells/Imported Spells/SPELL 1/Stoneskin]]                          |
+|     11      | [[WIP/Spells/Imported Spells/SPELL 1/Telekinesis]]                        |
 |     12      | [[Wall-of-Force\|Wall of Force]]       |
 ^Tier4
 
@@ -116,14 +116,14 @@
 |:-----------:| ------------------------------------------ |
 |      1      | [[Antimagic-Shell\|Antimagic Shell]]       |
 |      2      | [[Create-Undead\|Create Undead]]           |
-|      3      | [[Disintegrate\|Disintegrate]]             |
+|      3      | [[WIP/Spells/Imported Spells/SPELL/Disintegrate|Disintegrate]]             |
 |      4      | [[Hold-Monster\|Hold Monster]]             |
 |      5      | [[Plane-shift\|Plane Shift]]               |
 |      6      | [[Power-word-kill\|Power Word Kill]]       |
 |      7      | [[Prismatic-Orb\|Prismatic Orb]]           |
-|      8      | [[Scrying]]                                |
-|      9      | [[Shapechange]]                            |
+|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Scrying]]                                |
+|      9      | [[WIP/Spells/Imported Spells/SPELL 1/Shapechange]]                            |
 |     10      | [[Summon-Extraplanar\|Summon Extraplanar]] |
-|     11      | [[Teleport]]                               |
-|     12      | [[Wish]]                                   |
+|     11      | [[WIP/Spells/Imported Spells/SPELL 1/Teleport]]                               |
+|     12      | [[WIP/Spells/Imported Spells/SPELL 1/Wish]]                                   |
 ^Tier5

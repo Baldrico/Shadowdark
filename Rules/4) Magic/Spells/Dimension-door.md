@@ -1,6 +1,6 @@
 ---
 Created: 14/02/24
-System: Shadowdark
+
 tier: 4
 class: 
 	- Wizard
@@ -9,7 +9,7 @@ range: Self
 source: Core
 tags:
   - spell
-obsidianUIMode: preview
+
 name: "Dimension Door"
 aliases:
   - Dimension Door

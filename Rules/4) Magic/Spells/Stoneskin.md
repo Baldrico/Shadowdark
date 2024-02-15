@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Stoneskin]]
+# [[Rules/4) Magic/Spells/Stoneskin]]
 
 >[!summary]
 > *Tier* 4

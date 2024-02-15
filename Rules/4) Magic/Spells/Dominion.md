@@ -11,11 +11,11 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Dominion]]
+# [[Rules/4) Magic/Spells/Dominion]]
 
 >[!summary]
 > *Tier* 5

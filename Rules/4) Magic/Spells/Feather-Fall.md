@@ -1,6 +1,6 @@
 ---
 Created: 22/01/24
-System: Shadowdark
+
 tier: 1
 class:
   - Wizard
@@ -9,8 +9,8 @@ range: Self
 source: Core
 tags:
   - spell
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
 name: Feather-Fall
 aliases:
   - Feather Fall

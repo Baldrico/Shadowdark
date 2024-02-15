@@ -11,11 +11,11 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Smite]]
+# [[Rules/4) Magic/Spells/Smite]]
 
 >[!summary]
 > *Tier* 2

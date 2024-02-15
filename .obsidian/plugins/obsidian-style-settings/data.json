@@ -13,5 +13,6 @@
   "things-style@@strong-color": "#000000",
   "things-style@@em-color": "#969696",
   "minimal-style@@h1-l": true,
-  "minimal-style@@h2-l": true
+  "minimal-style@@h2-l": true,
+  "minimal-advanced@@styled-scrollbars": false
 }

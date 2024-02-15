@@ -10,11 +10,11 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Confusion|Confusion]]
+# [[Rules/4) Magic/Spells/Confusion|Confusion]]
 
 >[!summary]
 > *Tier* 4

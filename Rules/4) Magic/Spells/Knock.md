@@ -10,11 +10,11 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Knock|Knock]]
+# [[Rules/4) Magic/Spells/Knock|Knock]]
 
 >[!summary]
 > *Tier* 2

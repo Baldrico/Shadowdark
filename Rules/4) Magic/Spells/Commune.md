@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Commune|Commune]]
+# [[Rules/4) Magic/Spells/Commune|Commune]]
 
 >[!summary]
 > *Tier* 4

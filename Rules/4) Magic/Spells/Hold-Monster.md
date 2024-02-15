@@ -10,9 +10,9 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: source
-obsidianEditingMode: live
+
+
+
 ---
 # [[Hold-Monster|Hold Monster]]
 

@@ -8,9 +8,6 @@ range:
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
 ---
 
 

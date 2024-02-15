@@ -10,11 +10,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Bless|Bless]]
+# [[Rules/4) Magic/Spells/Bless|Bless]]
 
 >[!summary]
 > *Tier* 2

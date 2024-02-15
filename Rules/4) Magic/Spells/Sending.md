@@ -10,11 +10,11 @@ range: Unlimited
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Sending]]
+# [[Rules/4) Magic/Spells/Sending]]
 
 >[!summary]
 > *Tier* 3

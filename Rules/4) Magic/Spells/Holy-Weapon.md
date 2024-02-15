@@ -1,6 +1,6 @@
 ---
 Created: 22/01/24
-System: Shadowdark
+
 tier: 1
 class:
   - Priest
@@ -12,7 +12,7 @@ tags:
 aliases:
   - Holy Weapon
   - Arma Sacra
-obsidianUIMode: preview
+
 name: Holy-Weapon
 ---
 # [[Holy-Weapon|Holy Weapon]]

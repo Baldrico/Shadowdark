@@ -10,9 +10,9 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: source
-obsidianEditingMode: live
+
+
+
 ---
 # [[Power-word-kill|Power Word Kill]]
 

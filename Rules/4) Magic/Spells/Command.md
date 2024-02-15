@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Command|Command]]
+# [[Rules/4) Magic/Spells/Command|Command]]
 
 >[!summary]
 > *Tier* 3

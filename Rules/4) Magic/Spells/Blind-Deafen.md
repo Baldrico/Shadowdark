@@ -10,9 +10,9 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
 # [[Blind-Deafen|Blind, Deafen]]
 

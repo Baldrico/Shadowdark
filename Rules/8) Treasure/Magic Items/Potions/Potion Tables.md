@@ -36,7 +36,7 @@
 |      3      | Read the minds of all creatures within near for 1 hour                            |
 |      4      | Fly a near distance for 5 rounds                                                  |
 |      5      | For 5 rounds, move far on your turn and still take an action                      |
-|      6      | Become [[Invisibility\|Invisible]] for 5 rounds                                  |
+|      6      | Become [[WIP/Spells/Imported Spells/SPELL/Invisibility|Invisible]] for 5 rounds                                  |
 |      7      | Breathe underwater and know Merran language for 1 hour                            |
 |      8      | A stat becomes 18 (+4) for 5 rounds                                               |
 |      9      | Turn into purple, flying gas for 5 rounds                                         |

@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Fly]]
+# [[Rules/4) Magic/Spells/Fly]]
 
 >[!summary]
 > *Tier* 3

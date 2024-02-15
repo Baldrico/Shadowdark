@@ -10,9 +10,9 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
 # [[Prismatic-Orb|Prismatic Orb]]
 

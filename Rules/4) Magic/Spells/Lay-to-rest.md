@@ -11,9 +11,9 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
 # [[Lay-to-rest]]
 

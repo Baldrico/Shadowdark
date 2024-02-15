@@ -1,6 +1,6 @@
 ---
 Created: 22/01/24
-System: Shadowdark
+
 tier: 1
 class:
   - Wizard
@@ -13,7 +13,7 @@ name: Floating Disk
 aliases:
   - Disco flottante
   - Floating Disk
-obsidianUIMode: preview
+
 ---
 # [[Floating-Disk|Floating Disk]]
 

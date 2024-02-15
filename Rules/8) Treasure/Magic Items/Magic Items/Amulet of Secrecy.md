@@ -9,7 +9,7 @@ source: Core
 #### *A heavy, flat pendant carved with a lidded eye.*
 
 >[!check] Benefit
->- You can't be detected by divination magic such as the *[[Scrying]]* spell or a *[[Crystal Ball]]* while wearing this amulet.
+>- You can't be detected by divination magic such as the *[[WIP/Spells/Imported Spells/SPELL 1/Scrying]]* spell or a *[[Crystal Ball]]* while wearing this amulet.
 
 >[!fail] Curse
 >- You constantly have the sensation of being watched.

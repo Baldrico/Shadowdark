@@ -10,11 +10,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Polymorph]]
+# [[Rules/4) Magic/Spells/Polymorph]]
 
 >[!summary]
 > *Tier* 4

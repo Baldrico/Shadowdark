@@ -11,11 +11,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Judgment]]
+# [[Rules/4) Magic/Spells/Judgment]]
 
 >[!summary]
 > *Tier* 5

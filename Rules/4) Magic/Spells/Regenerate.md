@@ -11,11 +11,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Regenerate]]
+# [[Rules/4) Magic/Spells/Regenerate]]
 
 >[!summary]
 > *Tier* 4

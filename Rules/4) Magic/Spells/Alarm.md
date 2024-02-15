@@ -1,6 +1,6 @@
 ---
 Created: 08/02/24
-System: Shadowdark
+
 tier: 1
 class:
   - Wizard
@@ -9,12 +9,12 @@ range: Close
 source: Core
 tags:
   - spell
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+Mode: source
 name: Alarm
 aliases: 
 ---
-# [[Alarm]]
+# [[Rules/4) Magic/Spells/Alarm]]
 
 >[!summary]
 > *Tier* 1

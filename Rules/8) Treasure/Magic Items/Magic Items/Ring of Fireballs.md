@@ -10,5 +10,5 @@ source: Core
 
 >[!check] Benefit
 >- You can pluck the glass marble from the ring and throw it up to a far distance, causing a  
-*[[Fireball]]* spell (pg. 60) to bloom at the site of impact.
+*[[WIP/Spells/Imported Spells/SPELL 1/Fireball]]* spell (pg. 60) to bloom at the site of impact.
 >- The glass marble regrows after you successfully complete a rest.

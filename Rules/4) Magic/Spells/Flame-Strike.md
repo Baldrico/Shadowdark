@@ -10,9 +10,9 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: source
-obsidianEditingMode: live
+
+
+
 ---
 # [[Flame-Strike|Flame Strike]]
 

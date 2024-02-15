@@ -1,5 +1,5 @@
 ---
-System: Shadowdark
+
 tier: 4
 class:
   - Priest
@@ -9,8 +9,8 @@ range: Far
 source: Core
 tags:
   - spell
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
 aliases:
   - Control Water
   - Controlla l'Acqua

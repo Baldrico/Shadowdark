@@ -10,7 +10,7 @@ source: Core
 
 >[!check] Benefit
 >- You can pour the potion on one object or creature filling up to a close area. 
->- The target is utterly removed from reality and cannot be returned by anything short of a *[[Wish]]* spell.
+>- The target is utterly removed from reality and cannot be returned by anything short of a *[[WIP/Spells/Imported Spells/SPELL 1/Wish]]* spell.
 
 >[!info] Personality
 >- Chaotic.

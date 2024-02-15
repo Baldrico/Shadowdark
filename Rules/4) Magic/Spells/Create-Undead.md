@@ -10,9 +10,9 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
 # [[Create-Undead|Create Undead]]
 

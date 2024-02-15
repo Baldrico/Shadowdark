@@ -11,5 +11,6 @@
   "obsidian-leaflet-plugin",
   "initiative-tracker",
   "dbfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-import-json"
 ]

@@ -11,9 +11,9 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
 # [[Lightning-Bolt|Lighting Bolt]]
 

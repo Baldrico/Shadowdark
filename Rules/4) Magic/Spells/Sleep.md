@@ -10,11 +10,11 @@ range: Near
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Sleep]]
+# [[Rules/4) Magic/Spells/Sleep]]
 
 >[!summary]
 > *Tier* 1

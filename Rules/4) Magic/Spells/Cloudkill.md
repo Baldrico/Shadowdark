@@ -1,6 +1,6 @@
 ---
 Created: 22/01/24
-System: Shadowdark
+
 tier: 4
 class:
   - Wizard
@@ -12,9 +12,9 @@ tags:
 name: Cloudkill
 aliases:
   - Nube Tossica
-obsidianUIMode: preview
+
 ---
-# [[Cloudkill]]
+# [[Rules/4) Magic/Spells/Cloudkill]]
 
 >[!summary]
 >*Tier* 4

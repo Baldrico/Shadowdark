@@ -10,11 +10,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Invisibility]]
+# [[Rules/4) Magic/Spells/Invisibility]]
 
 >[!summary]
 > *Tier* 2

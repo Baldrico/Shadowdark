@@ -11,9 +11,9 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
 # [[Shield-of-Faith|Shield Of Faith]]
 

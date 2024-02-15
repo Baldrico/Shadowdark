@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Levitate]]
+# [[Rules/4) Magic/Spells/Levitate]]
 
 >[!summary]
 > *Tier* 2

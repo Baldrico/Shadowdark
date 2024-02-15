@@ -13,5 +13,5 @@ source: Core
 >- Your unarmored AC becomes 15 plus your Dexterity modifier.
 >- Choose three spells you know. Their spellcasting DC is always 11.
 > [[Wizard Spells#^spells-wizard]]
->- You have advantage on casting the *[[Disintegrate]]* spell.
+>- You have advantage on casting the *[[WIP/Spells/Imported Spells/SPELL 1/Disintegrate]]* spell.
 

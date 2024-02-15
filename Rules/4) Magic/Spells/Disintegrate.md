@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Disintegrate|Disintegrate]]
+# [[Rules/4) Magic/Spells/Disintegrate|Disintegrate]]
 
 >[!summary]
 > *Tier* 5

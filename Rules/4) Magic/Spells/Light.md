@@ -11,11 +11,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Light|Light]]
+# [[Rules/4) Magic/Spells/Light|Light]]
 
 >[!summary]
 > *Tier* 1

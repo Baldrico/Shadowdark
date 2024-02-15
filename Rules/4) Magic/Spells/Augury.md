@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: source
+
+
+
 ---
-# [[Augury|Augury]]
+# [[Rules/4) Magic/Spells/Augury|Augury]]
 
 >[!summary]
 > *Tier* 2

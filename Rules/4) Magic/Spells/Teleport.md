@@ -10,11 +10,11 @@ range: Close
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Teleport]]
+# [[Rules/4) Magic/Spells/Teleport]]
 
 >[!summary]
 > *Tier* 5

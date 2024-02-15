@@ -10,11 +10,11 @@ range: Far
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Illusion]]
+# [[Rules/4) Magic/Spells/Illusion]]
 
 >[!summary]
 > *Tier* 3

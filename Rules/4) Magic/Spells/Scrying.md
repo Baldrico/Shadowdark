@@ -10,11 +10,11 @@ range: Self
 source: Core
 tags:
   - spell
-System: Shadowdark
-obsidianUIMode: preview
-obsidianEditingMode: live
+
+
+
 ---
-# [[Scrying]]
+# [[Rules/4) Magic/Spells/Scrying]]
 
 >[!summary]
 > *Tier* 5
