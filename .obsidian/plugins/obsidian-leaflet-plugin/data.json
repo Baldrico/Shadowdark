@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Brazenthrone-Overview",
-      "lastAccessed": 1707396682233,
+      "lastAccessed": 1708338715020,
       "markers": [
         {
           "id": "ID_c9e939fbdb68",
@@ -19,11 +19,78 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8f939eaa80b",
+          "type": "default",
+          "loc": [
+            -0.3670196533203125,
+            1.453857421875
+          ],
+          "layer": "%5B%5BBrazenthrone%20-%20Overview.bmp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a081a3a68fa",
+          "type": "default",
+          "loc": [
+            -0.3631134033203125,
+            1.390380859375
+          ],
+          "link": "Outer Gate",
+          "layer": "%5B%5BBrazenthrone%20-%20Overview.bmp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8884b4ad92a",
+          "type": "default",
+          "loc": [
+            -0.3621368408203125,
+            1.039794921875
+          ],
+          "link": "Inner Gate",
+          "layer": "%5B%5BBrazenthrone%20-%20Overview.bmp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b5b5b9adb1b",
+          "type": "default",
+          "loc": [
+            -10.428543090820312,
+            6.503662109375
+          ],
+          "layer": "%5B%5BBrazenthrone%20-%20Detailed%20Overview.bmp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
+        "The Lost City of Brazenthrone/Overview Map/Overview Map.md",
         "The Lost City of Brazenthrone/Detailed Overview Map/Detailed Overview Map.md"
       ]
     }

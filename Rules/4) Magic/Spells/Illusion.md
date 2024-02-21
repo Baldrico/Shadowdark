@@ -1,36 +1,23 @@
 ---
 name: Illusion
-aliases:
-  - Illusione
+aliases: 
 tier: 3
-class:
+caster:
   - Wizard
 duration: Focus
 range: Far
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Illusion]]
 
->[!summary]
-> *Tier* 3
-> Wizard
-> *Duration*: Focus
-> *Range*: Far
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You create a convincing visible and audible illusion that fills up to a near-sized cube in range.
-
-The illusion cannot cause harm, but creatures who believe the illusion is real react to it as though it were. 
-
-A creature who inspects the illusion from afar must pass a Wisdom check vs. your last [[spellcasting]] check to perceive the false nature of the illusion. 
-
-Touching the illusion also reveals its false nature.
-
-
-
+>[!note] Description
+> You create a convincing visible and audible illusion that fills up to a near-sized cube in range. The illusion cannot cause harm, but creatures who believe the illusion is real react to it as though it were. A creature who inspects the illusion from afar must pass a Wisdom check vs. your last spellcasting check to perceive the false nature of the illusion. Touching the illusion also reveals its false nature.

@@ -82,4 +82,4 @@ A crawling kit costs 7 gp. It uses 7 gear slots and contains the following items
 
 **Weapon types.** Melee weapons (M) strike at arm's reach, and ranged weapons (R) strike at a distance.
 
-**Range.** You can use a weapon at close (C), near (N), or far (F) range (see Distances, pg. 85).
+**Range.** You can use a weapon at close (C), near (N), or far (F) range (see [[Crawling#Distances.|distances]], pg. 85).

@@ -30,7 +30,7 @@ For casting priest spells, see [[Casting Spells]] on pg. 44.
 |    10-11    | +2 to Strength or Wisdom stat                       |
 |     12      | Choose a talent or +2 points to distribute to stats |
 ^PriestTalents
-##### Priest Spells Known
+### Priest Spells Known
 **Spells Known By Spell Tier**
 
 | Level |  1  |  2  |  3  |  4  |  5  |
@@ -46,7 +46,8 @@ For casting priest spells, see [[Casting Spells]] on pg. 44.
 |   9   |  3  |  3  |  2  |  2  |  1  |
 |  10   |  3  |  3  |  3  |  2  |  2  |
 
-
+### Priest Spell List
+[[Priest Spells#^spells-priest]]
 
 
 

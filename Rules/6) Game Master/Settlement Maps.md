@@ -12,7 +12,7 @@ Each district has 1d4 main **points of interest**.
 
 Roll an alignment for the overall settlement or for each district. Treat chaotic settlements and districts as risky when checking for random encounters.
 
-Roll taverns on pg. 136 and shops on pg. 138.
+Roll [[Taverns]] on pg. 136 and [[Shops]] on pg. 138.
 
 ##### Settlement Type
 | `dice: d6` | Settlement Type | Dice |

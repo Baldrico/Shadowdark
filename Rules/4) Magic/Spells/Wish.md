@@ -1,34 +1,23 @@
 ---
 name: Wish
-aliases:
-  - Desiderio
+aliases: 
 tier: 5
-class:
+caster:
   - Wizard
 duration: Instant
 range: Self
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Wish]]
 
->[!summary]
-> *Tier* 5
-> Wizard
-> *Duration*: Instant
-> *Range*: Self
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-This mighty spell alters reality. 
-
-Make a single wish, stating it as exactly as possible. Your wish occurs, as interpreted by the GM. 
-
-Treat a failed spellcasting check for this spell as a critical failure, and roll the mishap with disadvantage.
-
-
-
+>[!note] Description
+> Alter reality with a single wish, interpreted by the GM. A failed spellcasting check is treated as a critical failure and rolls the mishap with disadvantage.

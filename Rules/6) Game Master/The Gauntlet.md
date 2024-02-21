@@ -3,6 +3,8 @@ Game Masters can use a process called The Gauntlet to determine the players' sta
 
 The Gauntlet works best when the players use the random generation process (see pg. 40) to create four 0-level characters each.
 
+https://shadowdarklings.net/
+
 Random generation prevents "build tuning" and over-investingin any single character, because
 The Gauntlet is...
 

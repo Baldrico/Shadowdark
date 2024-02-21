@@ -12,7 +12,7 @@ source: Core
 >- 
 
 >[!check] Benefit
->- Once per day, the ring can cast the *[[WIP/Spells/Imported Spells/SPELL 1/Invisibility]]* spell (pg. 63) on you.
+>- Once per day, the ring can cast the *[[Invisibility]]* spell (pg. 63) on you.
 
 >[!fail] Curse
 >- There is a cumulative 1% chance each time you rest that your sleep is ruined by apocalyptic nightmares, and you gain no benefit from resting. 

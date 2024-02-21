@@ -1,32 +1,23 @@
 ---
 name: Teleport
-aliases:
-  - Teletrasporto
+aliases: 
 tier: 5
-class:
+caster:
   - Wizard
 duration: Instant
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Teleport]]
 
->[!summary]
-> *Tier* 5
-> Wizard
-> *Duration*: Instant
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You and any willing creatures you choose within close range teleport to a location you specify on your same plane. 
-
-You can travel to a known teleportation sigil or to a location you've been before. Otherwise, you have a 50% chance of arriving off-target.
-
-
-
+>[!note] Description
+> Teleport yourself and willing creatures within close range to a specified location on your same plane with a 50% chance of arriving off-target if the location is unknown.

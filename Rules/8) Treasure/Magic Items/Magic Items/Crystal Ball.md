@@ -10,7 +10,7 @@ source: Core
 
 >[!check] Benefit
 >- Only wizards can use a Crystal Ball.
->- You can use it to cast the *[[WIP/Spells/Imported Spells/SPELL 1/Scrying]]* spell (pg. 70).
+>- You can use it to cast the *[[Scrying]]* spell (pg. 70).
 >- If you fail the spellcasting check to cast scrying, the Crystal Ball ceases to function for a day.
 
 

@@ -1,32 +1,23 @@
 ---
 name: Sleep
-aliases:
-  - Sonno
+aliases: 
 tier: 1
-class:
+caster:
   - Wizard
 duration: Instant
 range: Near
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Sleep]]
 
->[!summary]
-> *Tier* 1
-> Wizard
-> *Duration*: Instant
-> *Range*: Near
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-You weave a lulling spell that fills a near-sized cube extending from you. Living creatures in the area of effect fall into a deep sleep if they are LV 2 or less. 
-
-Vigorous shaking or being injured wakes them.
-
-
+>[!note] Description
+> You weave a lulling spell that fills a near-sized cube extending from you. Choose a number of living creatures in the area up to to your level. Those creatures fall into a deep sleep if they are LV 2 or less. Vigorous shaking or being injured wakes them.

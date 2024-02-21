@@ -1,0 +1,2 @@
+- Ammunition for crossbows.
+- Sold in bundles of 20

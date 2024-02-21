@@ -1,28 +1,23 @@
 ---
-Created: 08/02/24
-
+name: Alarm
+aliases: 
 tier: 1
-class:
+caster:
   - Wizard
-duration: 1 Day
+duration: 1 day
 range: Close
 source: Core
 tags:
   - spell
-
-Mode: source
-name: Alarm
-aliases: 
 ---
-# [[Rules/4) Magic/Spells/Alarm]]
 
->[!summary]
-> *Tier* 1
-> Wizard
-> *Duration*: 1 Day
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-You touch one object, such as a door threshold, setting a magical alarm on it. If any creature you do not designate while casting the spell touches or crosses past the object, a magical bell sounds in your head.
+>[!note] Description
+> You touch one object, such as a door threshold, setting a magical alarm on it. If any creature you do not designate while casting the spell touches or crosses past the object, a magical bell sounds in your head.

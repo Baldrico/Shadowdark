@@ -2,7 +2,7 @@
 
 XP represents your learning, influence, and increasing skill.
 
-XP awards are based on the quality of the treasure and boons you gain during a session. GMs should see Awarding XP on pg. 117 for guidance.
+XP awards are based on the quality of the treasure and boons you gain during a session. GMs should see [[Awarding XP]] on pg. 117 for guidance.
 
 The GM can award XP right away or at the end of each session.
 

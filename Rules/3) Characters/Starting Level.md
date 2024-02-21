@@ -1,7 +1,7 @@
 ## 0-Level Characters
 Some games begin with 0-level characters — weak peasants who have not yet attained the skill required to be adventurers.
 
-0-level characters are fragile. GMs should see The Gauntlet on pg. 116 for more insight.
+0-level characters are fragile. GMs should see [[The Gauntlet]] on pg. 116 for more insight.
 
 Because 0-level characters have **beginner's luck**, they can wield all gear until 1st level.
 

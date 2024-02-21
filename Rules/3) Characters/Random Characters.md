@@ -2,9 +2,13 @@
 
 You can use these tables to randomly generate a 0-level or 1st-level character.
 
-Roll your stats (pg. 15), background (pg. 26), and class talents (pg. 20-24) as normal.
+Roll your [[Stats]] (pg. 15), [[Background]] (pg. 26), and class talents (pg. 20-24) as normal.
 
 Make selections for your character if no table is provided.
+`dice: [[Random Characters#^Ancestry]]`
+`dice: [[Random Characters#^Class]]`
+`dice: [[Random Characters#^Alignment]]`
+
 
 ##### Ancestry
 | `dice: d12` | Ancestry     |
@@ -78,18 +82,18 @@ Make selections for your character if no table is provided.
 ##### Wizard Spells
 | `dice: d12` | Spell                    |
 |:-----------:| ------------------------ |
-|      1      | [[WIP/Spells/Imported Spells/SPELL 1/Alarm]]                |
+|      1      | [[Alarm]]                |
 |      2      | [[Burning Hands]]        |
 |      3      | [[Charm Person]]         |
 |      4      | [[Detect Magic]]         |
 |      5      | [[Feather Fall]]         |
 |      6      | [[Floating Disk]]        |
 |      7      | [[Hold Portal]]          |
-|      8      | [[WIP/Spells/Imported Spells/SPELL 1/Light]]                |
+|      8      | [[Light]]                |
 |      9      | [[Mage Armor]]           |
 |     10      | [[Magic Missile]]        |
 |     11      | [[Protection From Evil]] |
-|     12      | [[WIP/Spells/Imported Spells/SPELL 1/Sleep]]                |
+|     12      | [[Sleep]]                |
 ^WizardSpells
 
 ##### Alignment

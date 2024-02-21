@@ -22,7 +22,7 @@ When time passes, the GM and players move any timers down by that amount.
 
 Minutes Pass. Effects with a duration of rounds expire. The GM rolls one random encounter check that occurs on a 1-3 on a d6 while this time is passing.
 
-Hours/Days Pass. Effects with a duration shorter than the time passed expire. The GM uses overland travel rules to check for encounters that occur while this time is passing (see pg. 90).
+Hours/Days Pass. Effects with a duration shorter than the time passed expire. The GM uses [[Overland Travel]] rules to check for encounters that occur while this time is passing (see pg. 90).
 
 After resolving encounters, the game world fast-forwards to the new point in time.
 

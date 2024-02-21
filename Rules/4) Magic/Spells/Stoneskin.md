@@ -1,30 +1,23 @@
 ---
 name: Stoneskin
-aliases:
-  - Pelle in pietra
+aliases: 
 tier: 4
-class:
+caster:
   - Wizard
 duration: 10 rounds
 range: Self
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Stoneskin]]
 
->[!summary]
-> *Tier* 4
-> Wizard
-> *Duration*: 10 rounds
-> *Range*: Self
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-Your skin becomes like granite. For the spell's duration, your armor class becomes 17 (20 on a critical spellcasting check).
-
-
+>[!note] Description
+> Your skin becomes like granite. For the spell's duration, your armor class becomes 17 (20 on a critical spellcasting check).

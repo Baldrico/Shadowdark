@@ -11,7 +11,7 @@ To check for a random encounter, the GM rolls 1d6. An encounter occurs on a resu
 
 The GM might also check for an encounter if the characters create a loud disturbance.
 
-For **overland travel** , check for random encounters based on hours in place of rounds (see pg. 90 for overland travel details).
+For **overland travel** , check for random encounters based on hours in place of rounds (see pg. 90 for [[Overland Travel]] details).
 
 ## Starting Distance
 If one or more wandering creatures appear, roll 1d6 for their distance from the group.

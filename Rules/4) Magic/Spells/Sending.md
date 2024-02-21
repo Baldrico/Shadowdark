@@ -1,29 +1,23 @@
 ---
 name: Sending
-aliases:
-  - Inviare
+aliases: 
 tier: 3
-class:
+caster:
   - Wizard
 duration: Instant
 range: Unlimited
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Sending]]
 
->[!summary]
-> *Tier* 3
-> Wizard
-> *Duration*: Instant
-> *Range*: Unlimited
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You send a brief, mental message to any creature with whom you are familiar who is on the same plane.
-
-
+>[!note] Description
+> You send a brief, mental message to any creature with whom you are familiar who is on the same plane.

@@ -3,7 +3,7 @@ An adventure is a set of related encounters and incidents that tie to a common p
 
 Devising an adventure requires the characters to have a problem or desire they can solve using their unique skills. These are usually tied to a person, location, or item. Often, there is time pressure driving the characters to act.
 
-See the Adventures section on pg. 122 for adventure ideas.
+See the [[Adventures]] section on pg. 122 for adventure ideas.
 
 ## Campaigns
 Adventures that tie together into a series of related stories are a campaign. Sometimes, campaigns are centered around a plot or villain, and sometimes they grow out of the characters' explorations and deeds.
@@ -14,7 +14,7 @@ Non-player characters (NPCs) are rich sources of quests, treasure, danger, and m
 
 Not all NPCs need a backstory, but giving each a name, appearance, mannerism, and secret makes them into memorable personas.
 
-See NPCs on pg. 124 and Rival Crawlers on pg. 126 for ideas and generation tables.
+See [[NPCs]] on pg. 124 and [[Rival Crawlers]] on pg. 126 for ideas and generation tables.
 
 ## The Mundane
 The characters transform from weak peasants into legendary heroes by adventuring. During that journey, the importance of basic gear, the fleeting nature of wealth, and the danger of a pack of armed bandits should never become mere trifles.

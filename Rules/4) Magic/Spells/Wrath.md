@@ -1,31 +1,23 @@
 ---
 name: Wrath
-aliases:
-  - Wrath
-  - Furia
+aliases: 
 tier: 4
-class:
+caster:
   - Priest
 duration: 10 rounds
 range: Self
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Wrath]]
 
->[!summary]
-> *Tier* 4
-> Priest
-> *Duration*: 10 rounds
-> *Range*: Self
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-Your weapons become magical +2 and deal an additional d8 damage for the spell's duration.
-
-
-
+>[!note] Description
+> Weapons become magical +2 and deal an additional d8 damage for the spell's duration.

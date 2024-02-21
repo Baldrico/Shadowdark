@@ -1,29 +1,23 @@
 ---
 name: Confusion
-aliases:
-  - Confusion
+aliases: 
 tier: 4
-class:
+caster:
   - Wizard
 duration: Focus
 range: Near
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Confusion|Confusion]]
 
->[!summary]
-> *Tier* 4
-> Wizard
-> *Duration*: Focus
-> *Range*: Near
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You mesmerize one creature you can see in range. The target can't take actions, and it moves in a random direction on its turn. If the target is LV 9+, it may make a WIS check vs. your last spellcasting check at the start of its turn to end the spell.
-
-
+>[!note] Description
+> You mesmerize one creature you can see in range. The target can't take actions, and it moves in a random direction on its turn. If the target is LV 9+, it may make a WIS check vs. your last spellcasting check at the start of its turn to end the spell.

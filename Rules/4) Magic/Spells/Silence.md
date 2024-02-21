@@ -1,30 +1,23 @@
 ---
 name: Silence
-aliases:
-  - Silenzio
+aliases: 
 tier: 2
-class:
+caster:
   - Wizard
 duration: Focus
 range: Far
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Silence]]
 
->[!summary]
-> *Tier* 2
-> Wizard
-> *Duration*: Focus
-> *Range*: Far
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You magically mute sound in a near cube within the spell’s range. Creatures inside the area are deafened, and any sounds they create cannot be heard.
-
-
-
+>[!note] Description
+> You magically mute sound in a near cube within the spell’s range. Creatures inside the area are deafened, and any sounds they create cannot be heard.

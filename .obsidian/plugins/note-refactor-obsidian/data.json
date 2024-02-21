@@ -1,10 +1,10 @@
 {
   "includeFirstLineAsNoteHeading": false,
-  "excludeFirstLineInNote": false,
+  "excludeFirstLineInNote": true,
   "openNewNote": true,
   "headingFormat": "#",
   "newFileLocation": 1,
-  "customFolder": "",
+  "customFolder": "7) Monsters/",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
   "noteLinkTemplate": "",

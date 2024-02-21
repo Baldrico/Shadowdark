@@ -1,30 +1,23 @@
 ---
 name: Levitate
-aliases:
-  - Levitazione
+aliases: 
 tier: 2
-class:
+caster:
   - Wizard
 duration: Focus
 range: Self
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Levitate]]
 
->[!summary]
-> *Tier* 2
-> Wizard
-> *Duration*: Focus
-> *Range*: Self
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-You can float a near distance vertically per round on your turn. You can also push against solid objects to move horizontally.
-
-
+>[!note] Description
+> You can float a near distance vertically per round on your turn. You can also push against solid objects to move horizontally.

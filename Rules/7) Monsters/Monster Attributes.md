@@ -18,7 +18,7 @@ All monsters have a typical alignment ( AL ) for their species.
 Individual monsters might have a different alignment.
 
 ## Spellcasting
-Treat monster spellcasting the same as character spellcasting. For a natural 1 on an INT or CHA spell, roll on the Wizard Mishap tables (pg. 46). A natural 1 on a WIS spell incurs penance. The tier is the spellcasting DC - 10.
+Treat monster spellcasting the same as character spellcasting. For a natural 1 on an INT or CHA spell, roll on the [[Wizard Mishaps]] tables (pg. 46). A natural 1 on a WIS spell incurs penance. The tier is the spellcasting DC - 10.
 
 ## Dark-Adapted
 All non-humanoid monsters are dark-adapted. Their powerful senses allow them to ignore the penalties of total darkness (see pg. 84). Blinding or deafening a monster still hinders it.

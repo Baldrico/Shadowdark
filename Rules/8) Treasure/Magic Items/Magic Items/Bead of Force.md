@@ -10,5 +10,5 @@ source: Core
 
 >[!check] Benefit
 >- You can throw this bead at one target up to a near distance. 
->- If you hit, the target becomes caught in a *[[Resilient-Sphere]]* spell (pg. 69).
+>- If you hit, the target becomes caught in a *[[Resilient Sphere]]* spell (pg. 69).
 

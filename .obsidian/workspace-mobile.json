@@ -11,24 +11,15 @@
             "id": "61e8d03e41654ee9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ce34e9502eebbbd6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lost City of Brazenthrone/Player Introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "The Lost City of Brazenthrone/Brazenthrone Encounters.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,6 +71,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "9029943bf7b6f9c9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -94,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Lost City of Brazenthrone/Player Introduction.md",
+            "file": "The Lost City of Brazenthrone/Brazenthrone Encounters.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Lost City of Brazenthrone/Player Introduction.md",
+            "file": "The Lost City of Brazenthrone/Brazenthrone Encounters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Lost City of Brazenthrone/Player Introduction.md"
+            "file": "The Lost City of Brazenthrone/Brazenthrone Encounters.md"
           }
         }
       },
@@ -134,24 +135,16 @@
           "type": "DICE_ROLLER_VIEW",
           "state": {}
         }
-      },
-      {
-        "id": "8defe7d34b36309c",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {}
-        }
       }
-    ]
+    ],
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
@@ -159,35 +152,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce34e9502eebbbd6",
+  "active": "61e8d03e41654ee9",
   "lastOpenFiles": [
-    "Rules/1) Contents/1) Contents.md",
-    "The Lost City of Brazenthrone/Player Introduction.md",
-    "Rules/7) Monsters/All Monsters.md",
-    "Rules/6) Game Master/Random Encounter Tables/Desert.md",
-    "Rules/6) Game Master/Random Encounter Tables/Deep Tunnels.md",
-    "Rules/4) Magic/Spells/XX Spells.md",
+    "Rules/8) Treasure/Treasure/Treasure 7-9.md",
+    "The Lost City of Brazenthrone/Brazenthrone Encounters.md",
+    "7-9 treasure.md",
     "Rules/6) Game Master/Random Encounter Tables/Arctic.md",
-    "Rules/4) Magic/Spells/Summon-Extraplanar.md",
-    "Rules/4) Magic/Wizard Mishaps.md",
-    "Rules/4) Magic/Wizard Spell List.md",
-    "Rules/4) Magic/Wizard Spells.md",
-    "Rules/4) Magic/Spells/Alarm.md",
-    "Rules/4) Magic/Spells/Shapechange.md",
-    "Rules/4) Magic/Spells/Wish.md",
-    "X_Templates/Monster Template.md",
-    "X_Templates/Mano Monster Template.md",
-    "X_Templates/Magic Item Template.md",
-    "X_Templates/Shadowdark Monster Template.md",
-    "X_Templates",
+    "Rules/7) Monsters/Monster Statblocks/Ape, Snow.md",
+    "Rules/7) Monsters/Monster Statblocks/Ape.md",
+    "Rules/7) Monsters/Monster Statblocks/Aboleth.md",
+    "Rules/7) Monsters/All Monster (Entire List - YAML).md",
+    "Rules/7) Monsters/Monster Statblocks (Entire List).md",
+    "Rules/7) Monsters/Monster Statblocks (Entire List) (conflict 2024-02-18-13-03-14).md",
+    "WIP/Monsters/Statblock Handlebar.md",
+    "WIP/Monsters/Test.md",
+    "Rules/7) Monsters/Monster Statblocks/img/Skeleton.png",
+    "Rules/7) Monsters/Monster Statblocks/img/Futurewolf_medieval_footsoldier_full_body_shot_dynamic_pose.png",
+    "Rules/7) Monsters/Monster Statblocks/img/Unicorn.png",
+    "Rules/7) Monsters/Monster Statblocks/img/Wasp, Giant.png",
+    "Rules/7) Monsters/Monster Statblocks/img/Werewolf.png",
+    "Rules/7) Monsters/Monster Statblocks/img/Hag, Weald.png",
+    "WIP/Monsters/All Monsters - Final Edit.md",
+    "WIP/Monsters/All Monsters - To Edit Traits.md",
+    "Rules/4) Magic/Using Scrolls And Wands.md",
+    "Rules/1) Contents/1) Contents.md",
     "Rules/4) Magic/Priest Spells.md",
-    "Rules/7) Monsters/Monster Statblocks/XX Monsters.md",
-    "CSS.md",
+    "Rules/4) Magic/Wizard Spells.md",
+    "Rules/4) Magic/Wizard Mishaps.md",
+    "The Lost City of Brazenthrone/House Rules.md",
+    "Rules/4) Magic/Spell Attributes.md",
+    "Rules/7) Monsters/All Monsters.md",
+    "Rules/4) Magic/Casting Spells.md",
+    "WIP/Monsters/All Monsters - To Edit Attacks.md",
     "Quick Reference.md",
-    "Rules/6) Game Master/Rival Crawlers.md",
-    "Rules/Gameplay/Stealth & Surprise.md",
-    "Rules/Gameplay/Adventuring.md",
-    "Rules/Treasure/Treasure/Treasure 0-3.md",
+    "Priest Spell List.md",
+    "X_Templates",
     "Rules",
     "Rules/Characters/Gear",
     "X_Attachments"

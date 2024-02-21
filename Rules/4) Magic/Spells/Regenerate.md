@@ -1,31 +1,23 @@
 ---
 name: Regenerate
-aliases:
-  - Regenerate
-  - Rigenerazione
+aliases: 
 tier: 4
-class:
+caster:
   - Priest
 duration: Focus
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Regenerate]]
 
->[!summary]
-> *Tier* 4
-> Priest
-> *Duration*: Focus
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-A creature you touch regains `dice: 1d4` hit points on your turn for the duration. This spell also regrows lost body parts.
-
-
+>[!note] Description
+> A creature you touch regains 1d4 hit points on your turn for the duration. This spell also regrows lost body parts.

@@ -1,30 +1,23 @@
 ---
 name: Fly
-aliases:
-  - Volare
+aliases: 
 tier: 3
-class:
+caster:
   - Wizard
 duration: 5 rounds
 range: Self
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Fly]]
 
->[!summary]
-> *Tier* 3
-> Wizard
-> *Duration*: 5 rounds
-> *Range*: Self
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-Your feet lift from the ground, and you take to the air like a hummingbird. You can fly near for the spell's duration and are able to hover in place.
-
-
+>[!note] Description
+> Your feet lift from the ground, and you take to the air like a hummingbird. You can fly near for the spell's duration and are able to hover in place.

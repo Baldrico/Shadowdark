@@ -54,20 +54,20 @@
 ^WeaponFeature
 
 ##### Weapon Benefit
-| `dice: d12` |   Details                                                   |
-|:-----------:| ----------------------------------------------------------- |
-|      1      | Cut or smash through any material                           |
-|      2      | Once per day, ignites for 5 rounds, deals 1d4 extra damage  |
-|      3      | DC 15 CHA check to command a wild animal within far         |
-|      4      | Behead the enemy on a critical hit                          |
-|      5      | When you hit a creature, learn its True Name (see pg. 319)  |
-|      6      | Shoot a bolt of energy near with DEX, 1d6 damage            |
-|      7      | Once per day, deflect a melee attack that would hit you     |
-|      8      | Regain 1d6 hit points when you slay a creature              |
-|      9      | You have advantage on initiative rolls                      |
-|     10      | Has thrown property (pg. 37), near distance, returns to you |
-|     11      | Double damage to 1d4: 1-2. undead, 3. demons, 4. dragons    |
-|     12      | Reroll natural 1s once each when attacking with this weapon |
+| `dice: d12` | Details                                                                       |
+|:-----------:| ----------------------------------------------------------------------------- |
+|      1      | Cut or smash through any material                                             |
+|      2      | Once per day, ignites for 5 rounds, deals 1d4 extra damage                    |
+|      3      | DC 15 CHA check to command a wild animal within far                           |
+|      4      | Behead the enemy on a critical hit                                            |
+|      5      | When you hit a creature, learn its [[True Name]] (see pg. 319)                |
+|      6      | Shoot a bolt of energy near with DEX, 1d6 damage                              |
+|      7      | Once per day, deflect a melee attack that would hit you                       |
+|      8      | Regain 1d6 hit points when you slay a creature                                |
+|      9      | You have advantage on initiative rolls                                        |
+|     10      | Has [[Gear#Weapons|thrown]] property (pg. 37), near distance, returns to you |
+|     11      | Double damage to 1d4: 1-2. undead, 3. demons, 4. dragons                      |
+|     12      | Reroll natural 1s once each when attacking with this weapon                   |
 ^WeaponBenefit
 
 ##### Weapon Curse

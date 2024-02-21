@@ -1,0 +1,2 @@
+- Sheds light to a near distance (see Light Sources, pg. 84). 
+- Burns for one hour of real time.

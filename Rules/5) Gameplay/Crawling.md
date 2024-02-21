@@ -62,4 +62,4 @@ While crawling, characters can take actions that might include:
 
 
 ## Encounters
-An encounter occurs when any challenge presents itself that stops the characters' progress. See pg. 112 for information on random encounters.
+An encounter occurs when any challenge presents itself that stops the characters' progress. See pg. 112 for information on [[Random Encounters|random encounters]].

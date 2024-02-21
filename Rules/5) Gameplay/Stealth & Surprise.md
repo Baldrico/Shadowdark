@@ -17,7 +17,7 @@ Detecting a hiding or sneaking creature requires the searcher to actively look o
 Looking in the right place automatically reveals a hidden creature. Otherwise, the searcher must succeed on a Wisdom check to perceive a sneaking or hiding creature.
 
 ## Surprise
-A creature who begins its turn undetected has the advantage of surprise. If combat hasn't started yet, those with surprise take one turn before the combat initiative roll (see Combat Initiative! on pg. 88).
+A creature who begins its turn undetected has the advantage of surprise. If combat hasn't started yet, those with surprise take one turn before the combat initiative roll (see [[Combat#Combat Initative!|Combat Initiative!]] on pg. 88).
 
 A creature has advantage on attack rolls against surprised targets.
 

@@ -1,32 +1,23 @@
 ---
-statblock: inline
-name:  Bear, Brown
-obsidianUIMode: preview
-tags:
-  - monster
 aliases:
-  - Orso Bruno
-source: Core
+  - Brown Bear
 ---
 
 ```statblock
-image: [[brown-bear.png]]
 name: Bear, Brown
-description: A hulink, swaying brute with claws as long as a finger.
-source: Core
-alignment: N
-level: 5
-cr: 5
+layout: Shadowdark Monster
+image: [[Bear, Brown.png]]
+description: A hulking, swaying brute with claws as long as a finger.
 ac: 13
 hp: 25
-hit_dice: 5d8+3
-mv: near (climb)
-stats: [4,1,3,-2,1,-2]
-modifier: 1
+actions:
+  - name: Claw x2
+    desc: +4 (1d8)
+mv: near (climb) 
+stats: [+4,+1,+3,-2,+1,-2]
+alignment: Neutral
+level: 5
 traits:
   - name: Crush
-    desc: Deals an extra die of damage if it hits the  same target with both claws.
-"actions":
-  - "name": 2 claw +4 1d8
-    "desc": hit 14 (1d20+4), damage 4 (1d8)
+    desc: Deals an extra die of damage if it hits the same target with both claws.
 ```

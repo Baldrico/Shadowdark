@@ -1,31 +1,23 @@
 ---
 name: Smite
-aliases:
-  - Smite
-  - Epurazione
+aliases: 
 tier: 2
-class:
+caster:
   - Priest
 duration: Instant
 range: Near
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Smite]]
 
->[!summary]
-> *Tier* 2
-> Priest
-> *Duration*: Instant
-> *Range*: Near
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-
-
-You call down punishing flames on a creature you can see within range. It takes `dice: 1d6` damage.
+>[!note] Description
+> You call down punishing flames on a creature you can see within range. It takes 1d6 damage.

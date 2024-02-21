@@ -1,32 +1,23 @@
 ---
 name: Invisibility
-aliases:
-  - Invisibilità
+aliases: 
 tier: 2
-class:
+caster:
   - Wizard
 duration: 10 rounds
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Invisibility]]
 
->[!summary]
-> *Tier* 2
-> Wizard
-> *Duration*: 10 rounds
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-A creature you touch becomes invisible for the spell’s duration. 
-
-The spell ends if the target attacks or casts a spell.
-
-
-
+>[!note] Description
+> A creature you touch becomes invisible for the spell’s duration. The spell ends if the target attacks or casts a spell.

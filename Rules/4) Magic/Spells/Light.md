@@ -1,30 +1,24 @@
 ---
 name: Light
-aliases:
-  - Light
+aliases: 
 tier: 1
-class:
-  - Wizard
+caster:
   - Priest
+  - Wizard
 duration: 1 hour real time
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Light|Light]]
 
->[!summary]
-> *Tier* 1
-> Wizard, Priest
-> *Duration*: 1 hour real time
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-One object you touch glows  with bright, heatless light,  illuminating out to a near  distance for 1 hour of real time.
-
-
+>[!note] Description
+> One object you touch glows with bright, heatless light, illuminating out to a near distance for 1 hour of real time.

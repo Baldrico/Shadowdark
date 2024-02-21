@@ -1,32 +1,23 @@
 ---
 name: Passwall
-aliases:
-  - Attraversa muro
+aliases: 
 tier: 4
-class:
+caster:
   - Wizard
 duration: 5 rounds
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Passwall]]
 
->[!summary]
-> *Tier* 4
-> Wizard
-> *Duration*: 5 rounds
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-A tunnel of your height opens in a barrier you touch and lasts for the duration. 
-
-The passage can be up to near distance in length and must be in a straight line
-
-
-
+>[!note] Description
+> A tunnel of your height opens in a barrier you touch and lasts for the duration. The passage can be up to near distance in length and must be in a straight line.

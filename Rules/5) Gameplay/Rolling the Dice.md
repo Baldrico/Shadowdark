@@ -16,7 +16,7 @@ To roll with disadvantage, roll the same die twice and use the worse result.
 If you have both advantage and disadvantage on a roll, they cancel each other out.
 
 ## Natural 20
-When a d20 die roll shows a 20, what you're doing succeeds to your maximum capacity. An attack roll automatically hits and is a critical hit (see Damage on pg. 89).
+When a d20 die roll shows a 20, what you're doing succeeds to your maximum capacity. An attack roll automatically hits and is a critical hit (see [[Combat#Damage|Damage]] on pg. 89).
 
 ## Natural 1
 When a d20 die roll shows a 1, what you're doing fails to your maximum capacity. An attack roll automatically misses and might even strike an ally.

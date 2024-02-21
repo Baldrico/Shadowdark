@@ -21,16 +21,16 @@ You know three tier 1 spells of your choice from the [[Wizard Spells| Wizard Spe
 
 Each time you gain a level, you choose new wizard spells to learn according to the Wizard Spells Known table below.
 
-For casting wizard spells, see Spellcasting on pg. 44.
+For casting wizard spells, see [[Casting Spells|Spellcasting]] on pg. 44.
 
 ##### Wizard Talents
-| `dice: 2d6` | Effect                                                      |
-| ----------- | ----------------------------------------------------------- |
-| 2           | Make 1 random magic item of a type you choose (pg. 282)     |
-| 3-7         | +2 to Intelligence stat or +1 to wizard spellcasting checks |
-| 8-9         | Gain advantage on casting one spell you know                |
-| 10-11       | Learn one additional wizard spell of any tier you know      |
-| 12          | Choose a talent or +2 points to distribute to stats         |
+| `dice: 2d6` | Effect                                                                             |
+| ----------- | ---------------------------------------------------------------------------------- |
+| 2           | Make 1 random magic item of a type you [[Magic Item Attributes\|choose]] (pg. 282) |
+| 3-7         | +2 to Intelligence stat or +1 to wizard spellcasting checks                        |
+| 8-9         | Gain advantage on casting one spell you know                                       |
+| 10-11       | Learn one additional wizard spell of any tier you know                             |
+| 12          | Choose a talent or +2 points to distribute to stats                                |
 ^WizardTalents
 
 ### Wizard Spells Known
@@ -49,4 +49,5 @@ For casting wizard spells, see Spellcasting on pg. 44.
 |   9   |  4  |  4  |  3  |  2  |  1  |
 |  10   |  4  |  4  |  4  |  2  |  2  |
 
-
+### Wizard Spell List
+[[Wizard Spells#^spells-wizard]]

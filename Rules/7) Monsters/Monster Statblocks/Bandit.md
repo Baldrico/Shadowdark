@@ -1,36 +1,24 @@
 ---
-statblock: inline
-name:  Bandit
-obsidianUIMode: preview
-tags:
-  - monster
-aliases:
-  -
-source: Core
+alias: 
 ---
 
 ```statblock
-image: [[bandit.png]]
 name: Bandit
-description: Hard-bitten rogue in tattered leathers and a hooded cloak. 
-alignment: C
-level: 1
-cr: 1
+layout: Shadowdark Monster
+image: [[Bandit.png]]
+description: Hard-bitten rogue in tattered leathers and a hooded cloak.
 ac: 13 (leather + shield)
 hp: 4
-hit_dice: 1d8
+actions:
+  - name: Club x1
+    desc: +1 (1d4)
+  - name: Shortbow x1
+    desc: (far) +0 (1d4)
 mv: near
-stats: [1,0,0,-1,0,-1]
-modifier: 0
-languages: Common
+stats: [+1,+0,+0,-1,+0,-1]
+alignment: Chaotic
+level: 1
 traits:
   - name: Ambush
-    desc: Deal an extra die of damage when undetected
-"actions":
-  - "name": Club+1
-    "desc": Hit 11 (1d20+1), Damage 2 (1d4)
-  - "name": Shortbow (far)
-    "desc": Hit 10 (1d20), Damage 2 (1d4)
-source: Core
+    desc: Deal an extra die of damage when undetected.
 ```
-

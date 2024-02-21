@@ -1,30 +1,23 @@
 ---
 name: Telekinesis
-aliases:
-  - Telecinesi
+aliases: 
 tier: 4
-class:
+caster:
   - Wizard
 duration: Focus
 range: Far
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Telekinesis]]
 
->[!summary]
-> *Tier* 4
-> Wizard
-> *Duration*: Focus
-> *Range*: Far
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-You lift a creature or object with your mind. Choose a target that weighs 1,000 pounds or less. You can move it a near distance in any direction and hold it in place.
-
-
-
+>[!note] Description
+> Lift a creature or object weighing 1,000 pounds or less and move it in any direction or hold it in place.

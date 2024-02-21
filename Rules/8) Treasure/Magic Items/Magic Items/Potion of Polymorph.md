@@ -9,4 +9,4 @@ source: Core
 #### *A pickled newt floats in this lavender flask of clear liquid.*
 
 >[!check] Benefit
->- When you drink this potion, it casts the [[WIP/Spells/Imported Spells/SPELL 1/Polymorph]] spell (pg. 67) on you with a duration of 1 hour instead of 10 rounds.
+>- When you drink this potion, it casts the [[Polymorph]] spell (pg. 67) on you with a duration of 1 hour instead of 10 rounds.

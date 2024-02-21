@@ -1,34 +1,22 @@
 ---
-statblock: inline
-name:  Beastman
-obsidianUIMode: preview
-tags:
-  - monster
-aliases:
-  -
-source: Core
+alias: 
 ---
 
 ```statblock
-image: 
 name: Beastman
+layout: Shadowdark Monster
+image: [[Beastman.png]]
 description: A cave hominid with scraggly fur and a stone-tipped spear.
-alignment: C
-level: 1
-cr: 1
 ac: 12 (leather)
 hp: 5
-hit_dice: 1d8+1
+actions:
+  - name: Spear x1
+    desc: (close/near) +2 (1d6 + 1)
 mv: near
-stats: [2,1,1,-2,1,-1]
-modifier: 1
-languages: Chaotic
+stats: [+2,+1,+1,-2,+1,-1]
+alignment: Chaotic
+level: 1
 traits:
   - name: Brutal
-    desc: +1 damage with melee weapons (included)
-"actions":
-  - "name": 1 spear +2 (close/near)
-    "desc": Hit 12 (1d20+1), Damage 4 (1d6+1)
-source: Core
+    desc: +1 damage with melee weapons (included).
 ```
-

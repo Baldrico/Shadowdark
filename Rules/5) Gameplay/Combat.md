@@ -19,7 +19,7 @@ Melee attacks use melee weapons. Roll 1d20 + your Strength modifier + talent bon
 Ranged attacks use ranged weapons. Roll 1d20 + your Dexterity modifier + talent bonuses. You hit the target if your total is equal to or greater than its AC.
 
 ### Cast A Spell. 
-Casting a spell takes one action (see [[Casting Spells]] on pg. 44).
+Casting a spell takes one action (see [[Casting Spells|casting spells]] on pg. 44).
 
 ### Improvise. 
 Do an improvised action, such as swinging across a ravine on a vine. The GM might determine it requires a stat check or attack roll.

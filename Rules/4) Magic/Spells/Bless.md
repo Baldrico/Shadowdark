@@ -1,29 +1,23 @@
 ---
 name: Bless
-aliases:
-  - Bless
+aliases: 
 tier: 2
-class:
+caster:
   - Priest
 duration: Instant
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Bless|Bless]]
 
->[!summary]
-> *Tier* 2
-> Priest
-> *Duration*: Instant
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-One creature you touch gains a luck token.
-
-
+>[!note] Description
+> One creature you touch gains a luck token.

@@ -1,30 +1,23 @@
 ---
 name: Web
-aliases:
-  - Ragnatela
+aliases: 
 tier: 2
-class:
+caster:
   - Wizard
 duration: 5 rounds
 range: Far
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Web]]
 
->[!summary]
-> *Tier* 2
-> Wizard
-> *Duration*: 5 rounds
-> *Range*: Far
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-
-You create a near-sized cube of sticky, dense spider web within the spell’s range. A creature stuck in the web can’t move and must succeed on a Strength check vs. your spellcasting check to free itself
-
+>[!note] Description
+> Creates a near-sized cube of sticky spider web within range. Creatures stuck in the web must succeed on a Strength check vs. your spellcasting check to free themselves.

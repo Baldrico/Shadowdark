@@ -7,5 +7,14 @@
       ],
       "key": "X"
     }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
   ]
 }

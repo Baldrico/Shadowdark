@@ -10,7 +10,7 @@ Respect the darkness. It is the true foe. Few things can hold it at bay, and not
 Gear is precious and limited. Give value and utility to all of it.
 
 ## Action Economy
-PCs get just one action per turn. Make it count. Use multitasking (pg. 88) for boring small stuff.
+PCs get just one action per turn. Make it count. Use [[Combat#Multitask.|multitasking]] (pg. 88) for boring small stuff.
 
 ## Information
 Dispense information freely. If the characters test the floor where there's a trap, they find it.

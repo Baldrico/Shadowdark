@@ -1,31 +1,24 @@
-# [[<% tp.file.title %>]]
-
-*<% tp.frontmatter.Description %>*
-
-AC: **<% await tp.frontmatter["AC"] %>**
-HP: **<% await tp.frontmatter.HP %>**
-MV: **<% await tp.frontmatter.MV %>**
-
-ATK: **<% await tp.frontmatter.ATK %>**
-TxC: ** Dmg: **
-
-| STR                           | DEX                            | CON                               | INT                               | WIS                         | CHA                           |
-| ----------------------------- | ------------------------------ | --------------------------------- | --------------------------------- | --------------------------- | ----------------------------- |
-| <% await tp.frontmatter.Strength %> | <% await tp.frontmatter.Dexterity %> | <% await tp.frontmatter.Constitution %> | <% tp.frontmatter.Intelligence %> | <% tp.frontmatter.Wisdom %> | <% tp.frontmatter.Charisma %> |
- ^stats
-
-Alignment: **<% await tp.frontmatter.Alignment %>**
-Level: **<% await tp.frontmatter.Level %>**
-
-### Abilità
-<% tp.frontmatter.Abilities.map(prop => {
-  const [ability, description] = Object.entries(prop)[0];
-  const formattedAbility = `* *${ability}*. ${description}`;
-  return formattedAbility;
-}).join("\n") %>
-
-### Note
-
 ---
-<% await tp.frontmatter.System %>
-<% await tp.file.creation_date('DD/MM/YY') %>
+alias: 
+---
+
+```statblock
+name: Zombie
+layout: Shadowdark Monster
+image:
+description: Lurching and decomposed undead that hunt in mobs.
+ac: 8
+hp: 11 
+actions:
+  - name: Slam x1
+    desc: +2 (1d6)
+mv: near
+stats: [+2,-2,+2,-2,-2,-3]
+alignment: Chaotic
+level: 2
+traits:
+  - name: Undead
+    desc: Immune to morale checks.
+  - name: Relentless
+    desc: If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead.
+```

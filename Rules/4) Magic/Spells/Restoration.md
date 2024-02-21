@@ -1,31 +1,23 @@
 ---
 name: Restoration
-aliases:
-  - Restoration
-  - Ristoro
+aliases: 
 tier: 3
-class:
+caster:
   - Priest
 duration: Instant
 range: Close
 source: Core
 tags:
   - spell
-
-
-
 ---
-# [[Rules/4) Magic/Spells/Restoration]]
 
->[!summary]
-> *Tier* 3
-> Priest
-> *Duration*: Instant
-> *Range*: Close
+> [!summary] **`=this.file.name`**
 > 
-> *Source:* Core
+> *Class:* `=this.caster`
+> *Tier:* `=this.tier`
+> 
+> **Duration:** `=this.duration`
+> **Range:** `=this.range`
 
-
-With the touch of your hands, you expunge curses and illnesses. One curse, illness, or affliction of your choice affecting the target creature ends.
-
-
+>[!note] Description
+> With the touch of your hands, you expunge curses and illnesses. One curse, illness, or affliction of your choice affecting the target creature ends.
